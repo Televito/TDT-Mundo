@@ -15,8 +15,8 @@ https://unlimited10-cl.dps.live/lared/lared.smil/lared/livestream0/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png", UCV | HD 
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LHn9ofg.png", Contivisión | HD 
-http://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ecP5OAn.jpg",  EWTN en español| FHD | Católico | Estados Unidos
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6UoixA8.png", TV CHILE | HD 
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
@@ -24,8 +24,8 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png", Telered | SD | Costa Rica
 https://59ef525c24caa.streamlock.net/ARBtv/teleplus/chunklist_w990553298.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eWFGnL6.png", 9 Televida | HD | Argentina
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ipOl19z.png", Distrito TV | HD | España
+https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j026zNO.png", Ten | HD | España
 http://154.62.74.12:1935/live/smil:ten/chunklist_w666617996_b3128000_sleng.m3u8
