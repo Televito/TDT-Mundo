@@ -1,7 +1,8 @@
 #EXTM3U 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/sRsCcT6.png" group-title="Ungrouped", La 1 | HD | España
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9Z6S3GQ.png" group-title="Ungrouped", TV+ | FHD | Valparaíso
 https://m3u-editor.com/serve/televitolibre/497955325
-#EXTINF: -1 tvg-logo="https://i.imgur.com/2V6Zqab.png" group-title="Ungrouped", La 2 | HD | España
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0SWgwab.jpg" group-title="Ungrouped", Meganoticias | HD
 https://m3u-editor.com/serve/televitolibre/497955326
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ha46eGP.png" group-title="Ungrouped", Canal 3 Rosario | SD | Argentina
 https://m3u-editor.com/serve/televitolibre/497955327
