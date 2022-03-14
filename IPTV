@@ -1,127 +1,147 @@
 #EXTM3U 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/sRsCcT6.png" group-title="Ungrouped", La 1 | HD | España
+#EXTINF: -1 tvg-logo="https://i.imgur.com/sRsCcT6.png", La 1 | HD | España
 https://m3u-editor.com/serve/televitolibre/510989329.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/2V6Zqab.png" group-title="Ungrouped", La 2 | HD | España
+#EXTINF: -1 tvg-logo="https://i.imgur.com/2V6Zqab.png", La 2 | HD | España
 https://m3u-editor.com/serve/televitolibre/510992641.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Ha46eGP.png" group-title="Ungrouped", Canal 3 Rosario | SD | Argentina
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Ha46eGP.png", Canal 3 Rosario | SD | Argentina
 https://m3u-editor.com/serve/televitolibre/497955327.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/zEjHUot.png" group-title="Ungrouped", Canal 4 Jujuy| HD | Argentina
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zEjHUot.png", Canal 4 Jujuy| HD | Argentina
 https://m3u-editor.com/serve/televitolibre/497955328.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9Z6S3GQ.png" group-title="Ungrouped", TV+ | FHD | Valparaíso
-https://m3u-editor.com/serve/televitolibre/497955325.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="Ungrouped", La Red | FHD | Chile
-https://m3u-editor.com/serve/televitolibre/497955332.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6UoixA8.png" group-title="Ungrouped", TV CHILE | HD | Chile
-https://m3u-editor.com/serve/televitolibre/497955331.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="Ungrouped", UCV | HD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3eb0Hhn.png", UCV | HD | Chile
 https://m3u-editor.com/serve/televitolibre/497955329.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="Ungrouped", Mega | HD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/puJ88Pk.png", La Red | FHD | Chile
+https://m3u-editor.com/serve/televitolibre/497955332.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SVy05TP.png", TVN Chile | HD | Chile
+https://m3u-editor.com/serve/televitolibre/523249450.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6UoixA8.png", TV CHILE | HD | Chile
+https://m3u-editor.com/serve/televitolibre/497955331.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png", Mega | HD | Chile
 https://m3u-editor.com/serve/televitolibre/497955326.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/j026zNO.png" group-title="Ungrouped", Ten | HD | España
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AoqGEsz.png", Ten | HD | España
 https://m3u-editor.com/serve/televitolibre/497955334.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HvCzSJQ.png" group-title="Ungrouped", TeleFe Rosario | HD | Argentina
-https://m3u-editor.com/serve/televitolibre/497955335.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LHn9ofg.png" group-title="Ungrouped", Contivisión | HD | Chile
-https://m3u-editor.com/serve/televitolibre/499904778.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/EnaZWxA.png" group-title="Ungrouped", El Trece | HD | Argentina
+#EXTINF: -1 tvg-logo="https://i.imgur.com/r6GwKNS.png", Chilevisión | HD | Chile
+https://m3u-editor.com/serve/televitolibre/523249451.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9Z6S3GQ.png", TV+ | FHD | Valparaíso
+https://m3u-editor.com/serve/televitolibre/497955325.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EnaZWxA.png", El Trece | HD | Argentina
 https://m3u-editor.com/serve/televitolibre/499952087.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/K3pHu8c.jpg" group-title="Ungrouped", Canal 14 | HD | México
+#EXTINF: -1 tvg-logo="https://i.imgur.com/K3pHu8c.jpg", Canal 14 | HD | México
 https://m3u-editor.com/serve/televitolibre/497955338.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/dST6WNx.png" group-title="Ungrouped", Cultura 24  | SD | Perú
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dST6WNx.png", Cultura 24  | SD | Perú
 https://m3u-editor.com/serve/televitolibre/500018655.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LFwKADf.png" group-title="Ungrouped", Canal Sur Andalucía | FHD | España
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HvCzSJQ.png", TeleFe Rosario | HD | Argentina
+https://m3u-editor.com/serve/televitolibre/497955335.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LHn9ofg.png", Contivisión | HD | Chile
+https://m3u-editor.com/serve/televitolibre/499904778.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LFwKADf.png", Canal Sur Andalucía | FHD | España
 https://m3u-editor.com/serve/televitolibre/497955350.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wBtv7Tk.png" group-title="Ungrouped", DKISS | HD | España
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wBtv7Tk.png", DKISS | HD | España
 https://m3u-editor.com/serve/televitolibre/497955349.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/v9HdU7z.png" group-title="Ungrouped", Panamericana | SD | Perú
+#EXTINF: -1 tvg-logo="https://i.imgur.com/v9HdU7z.png", Panamericana | SD | Perú
 https://m3u-editor.com/serve/televitolibre/497955353.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/fJqimK3.png" group-title="Ungrouped", TV Perú | SD | Perú
+#EXTINF: -1 tvg-logo="https://i.imgur.com/fJqimK3.png", TV Perú | SD | Perú
 https://m3u-editor.com/serve/televitolibre/510998021.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Tcnx3uk.png" group-title="Ungrouped", Señal Colombia | HD | Colombia
-https://m3u-editor.com/serve/televitolibre/497955336.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SeiG5UX.png" group-title="Ungrouped", Rusia Today Español| HD | Rusia
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SeiG5UX.png", Rusia Today Español| HD | Rusia
 https://m3u-editor.com/serve/televitolibre/497955337.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8ED2nTR.png" group-title="Ungrouped", CGTN ESPAÑOL| SD | China
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8ED2nTR.png", CGTN ESPAÑOL| SD | China
 https://m3u-editor.com/serve/televitolibre/497955346.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Ungrouped", Deutsche Welle Español | FHD | Alemania
-https://m3u-editor.com/serve/televitolibre/497955345.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PU2cqzN.png" group-title="Ungrouped", Canal 24 Horas | HD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PU2cqzN.png", Canal 24 Horas | HD | Chile
 https://m3u-editor.com/serve/televitolibre/500000309.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/IvOTHIU.png" group-title="Ungrouped", RTVE 24h | HD | España
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IvOTHIU.png", RTVE 24h | HD | España
 https://m3u-editor.com/serve/televitolibre/510987808.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/nBvK2Nd.png" group-title="Ungrouped", Noticias Caracol| HD | Colombia
+#EXTINF: -1 tvg-logo="https://i.imgur.com/A1xzjOI.png", Deutsche Welle Español | FHD | Alemania
+https://m3u-editor.com/serve/televitolibre/497955345.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nBvK2Nd.png", Noticias Caracol| HD | Colombia
 https://m3u-editor.com/serve/televitolibre/510998022.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/5uvbKMo.png" group-title="Ungrouped", Estrella News | HD | Estados Unidos
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5uvbKMo.png", Estrella News | HD | Estados Unidos
 https://m3u-editor.com/serve/televitolibre/510996712.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="Ungrouped", Tele Trece | HD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AwzIEPu.png", Tele Trece | HD | Chile
 https://m3u-editor.com/serve/televitolibre/499994738.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ipOl19z.png" group-title="Ungrouped", Distrito TV | HD | España
-https://m3u-editor.com/serve/televitolibre/497955333.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PMUZRDT.png" group-title="Ungrouped", CN3 Pinamar  | HD  | Argentina
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PMUZRDT.png", CN3 Pinamar  | HD  | Argentina
 https://m3u-editor.com/serve/televitolibre/500016129.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/bcr0njT.png" group-title="Ungrouped", TVN Panamá | HD | Panamá
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ipOl19z.png", Distrito TV | HD | España
+https://m3u-editor.com/serve/televitolibre/497955333.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/c1UdhtC.png", Cine Verdi | HD | España
+https://m3u-editor.com/serve/televitolibre/523260548.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/bcr0njT.png", TVN Panamá | HD | Panamá
 https://m3u-editor.com/serve/televitolibre/497955347.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/7d8YDLV.png" group-title="Ungrouped", TVMax | HD | Panamá
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7d8YDLV.png", TVMax | HD | Panamá
 https://m3u-editor.com/serve/televitolibre/497955348.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/0EFIMHP.png" group-title="Ungrouped", ATV | HD | Perú
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0EFIMHP.png", ATV | HD | Perú
 https://m3u-editor.com/serve/televitolibre/500017328.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/IDCc36l.png" group-title="Ungrouped", WIPR TV | HD | Puerto Rico
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IDCc36l.png", WIPR TV | HD | Puerto Rico
 https://m3u-editor.com/serve/televitolibre/500016219.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/e61XJNb.png" group-title="Ungrouped", ISB | HD | Chile
-https://m3u-editor.com/serve/televitolibre/500015845.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/DrKKuFY.png" group-title="Ungrouped", Pax TV| HD | Perú
-https://m3u-editor.com/serve/televitolibre/500015817.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ecP5OAn.jpg" group-title="Ungrouped", EWTN en español| FHD | Católico | Estados Unidos
-https://m3u-editor.com/serve/televitolibre/497955330.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HmjJBu8.png" group-title="Ungrouped", 38 TV | HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Tcnx3uk.png", Señal Colombia | HD | Colombia
+https://m3u-editor.com/serve/televitolibre/497955336.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HmjJBu8.png", 38 TV | HD
 https://m3u-editor.com/serve/televitolibre/499952088.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hDoAarw.png" group-title="Ungrouped", Aniplus | SD | Argentina
-https://m3u-editor.com/serve/televitolibre/510999032.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/qFDhzBy.png" group-title="Ungrouped", Locomotion | SD | Rep. Dominicana
-https://m3u-editor.com/serve/televitolibre/497955342.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/GYIlN7X.png" group-title="Ungrouped", Anime Zone | SD | Rep. Dominicana
-https://m3u-editor.com/serve/televitolibre/510989328.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HCpm8O2.png" group-title="Ungrouped", Inspiranime | HD |
-https://m3u-editor.com/serve/televitolibre/510999034.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/d4eZ9VX.png" group-title="Ungrouped", EnerGeek | HD
-https://m3u-editor.com/serve/televitolibre/500008290.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6eXAUG0.jpg" group-title="Ungrouped", Next TV | HD | Chile
-https://m3u-editor.com/serve/televitolibre/510998320.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/x19mmox.png" group-title="Ungrouped", Latino Kids TV | HD | Uruguay
-https://m3u-editor.com/serve/televitolibre/510998321.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8JSxV1m.png" group-title="Ungrouped", Dreiko TV | HD | Panamá
-https://m3u-editor.com/serve/televitolibre/497955340.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ThA7Ss3.png" group-title="Ungrouped", Simpsons 24/7 | SD | Colombia
-https://m3u-editor.com/serve/televitolibre/497955343.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/YJ4NnR8.png" group-title="Ungrouped", Simpson TV | HD | Chile
-https://m3u-editor.com/serve/televitolibre/511000630.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/r2kwObA.png" group-title="Ungrouped", Simpson Manía | HD | Colombia
-https://m3u-editor.com/serve/televitolibre/511000628.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hPgUeK5.png" group-title="Ungrouped", Futurama Manía | HD | Colombia
-https://m3u-editor.com/serve/televitolibre/511000607.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XKHUnHT.png" group-title="Ungrouped", Monstruos de Verdad | SD | Chile
-https://m3u-editor.com/serve/televitolibre/511006679.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/vMptR2C.png" group-title="Ungrouped", Ren & Stimpy | HD | Chile
-https://m3u-editor.com/serve/televitolibre/511005748.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/7gMqvsV.png" group-title="Ungrouped", El Chavo | SD | Chile
-https://m3u-editor.com/serve/televitolibre/511006844.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/JQn4Vg1.png" group-title="Ungrouped", NTV | HD | Chile
-https://m3u-editor.com/serve/televitolibre/497955341.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/bDVQ8WR.png" group-title="Ungrouped", NTV Señal 2| HD | Chile
-https://m3u-editor.com/serve/televitolibre/511006896.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/NcyIsLR.png" group-title="Ungrouped", Sexy K-POP | HD | Brasil
-https://m3u-editor.com/serve/televitolibre/497955360.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MT3GQ6i.png" group-title="Ungrouped", Latido Music | FHD | Colombia
-https://m3u-editor.com/serve/televitolibre/497955358.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/WlvnKlk.png" group-title="Ungrouped", Oldies Hits| SD | Costa Rica
-https://m3u-editor.com/serve/televitolibre/497955359.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Asv094P.jpg" group-title="Ungrouped", Classic Arts Showcase| HD | Estados Unidos
-https://m3u-editor.com/serve/televitolibre/497955361.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/RU7jA3I.png" group-title="Ungrouped", 1Muz | HD | Bielorrusia
-https://m3u-editor.com/serve/televitolibre/497955362.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/3Z6GjxM.png" group-title="Ungrouped", 1Muz  | HD | Rusia
-https://m3u-editor.com/serve/televitolibre/497955363.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Ungrouped", CMC-USA | HD | Estados Unidos
-https://m3u-editor.com/serve/televitolibre/497955364.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/7NwZRlX.png" group-title="Ungrouped", Motorvision Latino | HD | Alemania
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7NwZRlX.png", Motorvision Latino | HD | Alemania
 https://m3u-editor.com/serve/televitolibre/497956006.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/icdADrD.jpg", DeporTV | HD | Argentina
+https://m3u-editor.com/serve/televitolibre/523260549.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/e61XJNb.png", ISB | HD | Chile
+https://m3u-editor.com/serve/televitolibre/500015845.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DrKKuFY.png", Pax TV| HD | Perú
+https://m3u-editor.com/serve/televitolibre/500015817.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ecP5OAn.jpg", EWTN en español| FHD | Católico | Estados Unidos
+https://m3u-editor.com/serve/televitolibre/497955330.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/JQn4Vg1.png", NTV | HD | Chile
+https://m3u-editor.com/serve/televitolibre/497955341.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/bDVQ8WR.png", NTV Señal 2| HD | Chile
+https://m3u-editor.com/serve/televitolibre/511006896.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hDoAarw.png", Aniplus | SD | Argentina
+https://m3u-editor.com/serve/televitolibre/510999032.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qFDhzBy.png", Locomotion | SD | Rep. Dominicana
+https://m3u-editor.com/serve/televitolibre/497955342.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GYIlN7X.png", Anime Zone | SD | Rep. Dominicana
+https://m3u-editor.com/serve/televitolibre/510989328.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HCpm8O2.png", Inspiranime | HD |
+https://m3u-editor.com/serve/televitolibre/510999034.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/d4eZ9VX.png", EnerGeek | HD | Chile
+https://m3u-editor.com/serve/televitolibre/500008290.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LZI3FlL.png", EnerGeek 2| HD | Chile
+https://m3u-editor.com/serve/televitolibre/510998320.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/x19mmox.png", Latino Kids TV | HD | Uruguay
+https://m3u-editor.com/serve/televitolibre/510998321.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8JSxV1m.png", Dreiko TV | HD | Panamá
+https://m3u-editor.com/serve/televitolibre/497955340.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ThA7Ss3.png", Simpsons 24/7 | SD | Colombia
+https://m3u-editor.com/serve/televitolibre/497955343.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YJ4NnR8.png", Simpson TV | HD | Chile
+https://m3u-editor.com/serve/televitolibre/511000630.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/r2kwObA.png", Simpson Manía | HD | Colombia
+https://m3u-editor.com/serve/televitolibre/511000628.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hPgUeK5.png", Futurama Manía | HD | Colombia
+https://m3u-editor.com/serve/televitolibre/511000607.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XKHUnHT.png", Monstruos de Verdad | SD | Chile
+https://m3u-editor.com/serve/televitolibre/511006679.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vMptR2C.png", Ren & Stimpy | HD | Chile
+https://m3u-editor.com/serve/televitolibre/511005748.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7gMqvsV.png", El Chavo | SD | Chile
+https://m3u-editor.com/serve/televitolibre/511006844.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nt7TD3I.png", K-POP  TV | HD | Brasil
+https://m3u-editor.com/serve/televitolibre/497955360.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MT3GQ6i.png", Latido Music | FHD | Colombia
+https://m3u-editor.com/serve/televitolibre/497955358.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/WlvnKlk.png", Oldies Hits| SD | Costa Rica
+https://m3u-editor.com/serve/televitolibre/497955359.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qeF0ou9.png", Classic Arts Showcase| HD | Estados Unidos
+https://m3u-editor.com/serve/televitolibre/497955361.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/RU7jA3I.png", 1Muz | HD | Bielorrusia
+https://m3u-editor.com/serve/televitolibre/497955362.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Y6ZQyc7.png", RU TV | HD | Rusia
+https://m3u-editor.com/serve/televitolibre/523259568.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xV82cmA.png", VH1 | HD | Italia
+https://m3u-editor.com/serve/televitolibre/497955363.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9TbpsS0.png", CMC-USA | HD | Estados Unidos
+https://m3u-editor.com/serve/televitolibre/497955364.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HL7fwzt.png", Afrobeats | HD | Reino Unido
+https://m3u-editor.com/serve/televitolibre/523249557.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/mR1I8hE.png", A3Bikini TV | HD | Estados Unidos
+https://m3u-editor.com/serve/televitolibre/523260603.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/4BLxN00.png", Miami Tv México | HD | Estados Unidos
+https://m3u-editor.com/serve/televitolibre/523260604.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/v70Oycr.png", 112 Ukraine| HD | Ucraniano
+https://m3u-editor.com/serve/televitolibre/523249468.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8jBbeTX.png", TV5 Zaporizhzhia | HD | Ucraniano
+https://m3u-editor.com/serve/televitolibre/523249469.m3u8
