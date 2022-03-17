@@ -35,12 +35,12 @@ https://m3u-editor.com/serve/televitolibre/497955335.m3u8
 https://m3u-editor.com/serve/televitolibre/499904778.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LFwKADf.png", Canal Sur Andalucía | FHD | España
 https://m3u-editor.com/serve/televitolibre/497955350.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wBtv7Tk.png", DKISS | HD | España
-https://m3u-editor.com/serve/televitolibre/497955349.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/v9HdU7z.png", Panamericana | SD | Perú
 https://m3u-editor.com/serve/televitolibre/497955353.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fJqimK3.png", TV Perú | SD | Perú
 https://m3u-editor.com/serve/televitolibre/510998021.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ceNZ6WQ.png", NHK World Japan | HD | CC español
+https://m3u-editor.com/serve/televitolibre/526463489.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SeiG5UX.png", Rusia Today Español| HD | Rusia
 https://m3u-editor.com/serve/televitolibre/497955337.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8ED2nTR.png", CGTN ESPAÑOL| SD | China
@@ -61,20 +61,34 @@ https://m3u-editor.com/serve/televitolibre/499994738.m3u8
 https://m3u-editor.com/serve/televitolibre/500016129.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ipOl19z.png", Distrito TV | HD | España
 https://m3u-editor.com/serve/televitolibre/497955333.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wBtv7Tk.png", DKISS | HD | España
+https://m3u-editor.com/serve/televitolibre/497955349.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OYPGJRE.png", Canal 13 Entretención | HD | Chile
+https://m3u-editor.com/serve/televitolibre/526419846.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3lfGaqZ.png", Canal 13 Prime | HD | Chile
+https://m3u-editor.com/serve/televitolibre/526419852.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R7eUeSq.png", 13 Teleseries | HD | Chile
+https://m3u-editor.com/serve/televitolibre/526419865.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/c1UdhtC.png", Cine Verdi | HD | España
 https://m3u-editor.com/serve/televitolibre/523260548.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IDCc36l.png", WIPR TV | HD | Puerto Rico
+https://m3u-editor.com/serve/televitolibre/500016219.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HmjJBu8.png", 38 TV | HD
+https://m3u-editor.com/serve/televitolibre/499952088.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bcr0njT.png", TVN Panamá | HD | Panamá
 https://m3u-editor.com/serve/televitolibre/497955347.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7d8YDLV.png", TVMax | HD | Panamá
 https://m3u-editor.com/serve/televitolibre/497955348.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/JIumOcq.png", Raíces Árabes | HD | Chile
+https://m3u-editor.com/serve/televitolibre/526455446.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0EFIMHP.png", ATV | HD | Perú
 https://m3u-editor.com/serve/televitolibre/500017328.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/IDCc36l.png", WIPR TV | HD | Puerto Rico
-https://m3u-editor.com/serve/televitolibre/500016219.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FiBtJ5m.png", Red Pat  | FHD | Bolivia
+https://m3u-editor.com/serve/televitolibre/526441488.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vZnOTq8.png", TeleRed | SD | Costa Rica
+https://m3u-editor.com/serve/televitolibre/526442931.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Tcnx3uk.png", Señal Colombia | HD | Colombia
 https://m3u-editor.com/serve/televitolibre/497955336.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HmjJBu8.png", 38 TV | HD
-https://m3u-editor.com/serve/televitolibre/499952088.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7NwZRlX.png", Motorvision Latino | HD | Alemania
 https://m3u-editor.com/serve/televitolibre/497956006.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/icdADrD.jpg", DeporTV | HD | Argentina
@@ -89,14 +103,12 @@ https://m3u-editor.com/serve/televitolibre/497955330.m3u8
 https://m3u-editor.com/serve/televitolibre/497955341.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bDVQ8WR.png", NTV Señal 2| HD | Chile
 https://m3u-editor.com/serve/televitolibre/511006896.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hDoAarw.png", Aniplus | SD | Argentina
+#EXTINF: -1 tvg-logo="https://i.imgur.com/2s6aJSA.png", Astermax | HD | Rep. Dominicana
 https://m3u-editor.com/serve/televitolibre/510999032.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qFDhzBy.png", Locomotion | SD | Rep. Dominicana
 https://m3u-editor.com/serve/televitolibre/497955342.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/GYIlN7X.png", Anime Zone | SD | Rep. Dominicana
 https://m3u-editor.com/serve/televitolibre/510989328.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HCpm8O2.png", Inspiranime | HD |
-https://m3u-editor.com/serve/televitolibre/510999034.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/d4eZ9VX.png", EnerGeek | HD | Chile
 https://m3u-editor.com/serve/televitolibre/500008290.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LZI3FlL.png", EnerGeek 2| HD | Chile
@@ -121,22 +133,32 @@ https://m3u-editor.com/serve/televitolibre/511005748.m3u8
 https://m3u-editor.com/serve/televitolibre/511006844.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nt7TD3I.png", K-POP  TV | HD | Brasil
 https://m3u-editor.com/serve/televitolibre/497955360.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qW7Z3hd.png", Music Japan TV | SD | Japón
+https://m3u-editor.com/serve/televitolibre/526420127.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MT3GQ6i.png", Latido Music | FHD | Colombia
 https://m3u-editor.com/serve/televitolibre/497955358.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WlvnKlk.png", Oldies Hits| SD | Costa Rica
 https://m3u-editor.com/serve/televitolibre/497955359.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qeF0ou9.png", Classic Arts Showcase| HD | Estados Unidos
 https://m3u-editor.com/serve/televitolibre/497955361.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9TbpsS0.png", CMC-USA | HD | Estados Unidos
+https://m3u-editor.com/serve/televitolibre/497955364.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0fUPxix.png", 4Fun TV | SD | Polonia
+https://m3u-editor.com/serve/televitolibre/526478838.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RU7jA3I.png", 1Muz | HD | Bielorrusia
 https://m3u-editor.com/serve/televitolibre/497955362.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Y6ZQyc7.png", RU TV | HD | Rusia
 https://m3u-editor.com/serve/televitolibre/523259568.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/uGzqMN2.png", 1HD Music Television | HD | Rusia
+https://m3u-editor.com/serve/televitolibre/526468248.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/xV82cmA.png", VH1 | HD | Italia
 https://m3u-editor.com/serve/televitolibre/497955363.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9TbpsS0.png", CMC-USA | HD | Estados Unidos
-https://m3u-editor.com/serve/televitolibre/497955364.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HL7fwzt.png", Afrobeats | HD | Reino Unido
 https://m3u-editor.com/serve/televitolibre/523249557.m3u8
+#EXTINF: -1 tvg-logo="http://arabicagroup.tv/images/logo.png", Arabica Music | HD | Líbano
+https://m3u-editor.com/serve/televitolibre/526479961.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1LRxlPE.png", Balle Balle | HD | India
+https://m3u-editor.com/serve/televitolibre/526455445.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/mR1I8hE.png", A3Bikini TV | HD | Estados Unidos
 https://m3u-editor.com/serve/televitolibre/523260603.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4BLxN00.png", Miami Tv México | HD | Estados Unidos
@@ -145,3 +167,5 @@ https://m3u-editor.com/serve/televitolibre/523260604.m3u8
 https://m3u-editor.com/serve/televitolibre/523249468.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8jBbeTX.png", TV5 Zaporizhzhia | HD | Ucraniano
 https://m3u-editor.com/serve/televitolibre/523249469.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FC0rtoH.png", Espreso TV | HD | Ucraniano
+https://m3u-editor.com/serve/televitolibre/526421233.m3u8
