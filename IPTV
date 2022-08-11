@@ -61,8 +61,8 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8ED2nTR.png", CGTN Español | SD | China
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/bFN5UlN.png", Bolivisión | HD | Bolivia
-https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ipOl19z.png", Distrito TV | HD | España
+https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg", Euronews | HD | Francia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -72,6 +72,9 @@ https://m3u-editor.com/serve/televitolibre/500000309.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RRxeN0b.png", Bio Bio TV | SD | Chile
 https://pantera1-100gb-cl-movistar.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENiyuA1.png", CEAC TV | HD | Chile
+https://hd.chileservidores.cl:1936/ceactv/ceactv/chunklist_w183177640.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9TbpsS0.png", CMC-USA | HD | Estados Unidos
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
@@ -103,6 +106,9 @@ https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/x19mmox.png", Latino Kids TV | HD | Uruguay
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YJ4NnR8.png", Simpsons TV | HD | Chile
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SE8r8sS.png", Boing | HD | España
 https://livek.mediaset.es/orilinear23/live/linear23/playlist/playlist.isml/playlist-audio101_spa=128000-video=3500000.m3u8
 
@@ -127,6 +133,9 @@ https://livek.mediaset.es/orilinear20/live/linear20/playlist/playlist.isml/playl
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nXJTUVz.png", La 1 | SD | España
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/bFN5UlN.png", Bolivisión | HD | Bolivia
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/v9HdU7z.png", Panamericana | SD | Perú
 https://m3u-editor.com/serve/televitolibre/497955353.m3u8
 
@@ -138,5 +147,3 @@ https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/60580
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PMh8A79.png", Rusia Today | HD | Rusia
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-
