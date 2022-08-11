@@ -1,105 +1,142 @@
 #EXTM3U 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3eb0Hhn.png", UCV | HD | Chile
-https://m3u-editor.com/serve/televitolibre/497955329.m3u8
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/27i6iYB.png", UCV2 | HD | Chile
 https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/A1xzjOI.png", Deutsche Welle Español | FHD | Alemania
-https://m3u-editor.com/serve/televitolibre/497955345.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/puJ88Pk.png", La Red | FHD | Chile
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LFwKADf.png", Canal Sur Andalucía | FHD | España
-https://m3u-editor.com/serve/televitolibre/497955350.m3u8
+https://cdnlive.codev8.net/rtvalive/channel1.smil/.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/09NTq83.png", Canal 6 | SD | Costa Rica
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/mnCGBDA.png", TVN CHILE | HD | Chile
+https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ecP5OAn.jpg", EWTN en español| FHD | Católico | Estados Unidos
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/2728/chunklist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6UoixA8.png", TV CHILE | HD | Chile
-https://m3u-editor.com/serve/televitolibre/497955331.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/bcr0njT.png", TVN Panamá | HD | Panamá
-https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png", Mega | SD | Chile
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/v9HdU7z.png", Panamericana | SD | Perú
-https://m3u-editor.com/serve/televitolibre/497955353.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/x2MlcDx.png", Love Nature | HD | Canadá
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/mdTQSPn.png", Chilevisión Contigo| HD | Chile
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dWGdEZ2.png", Chilevisión Noticias| HD | Chile
-https://m3u-editor.com/serve/televitolibre/497955334.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/627d1b936d4ded0007d7642f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AwzIEPu.png", Tele Trece | HD | Chile
-https://m3u-editor.com/serve/televitolibre/499994738.m3u8
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KVKXRwQ.png", 13 Cultura | HD | Chile
 https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OYPGJRE.png", 13 Entretención | HD | Chile
-https://m3u-editor.com/serve/televitolibre/526419846.m3u8
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3lfGaqZ.png", 13 Prime | HD | Chile
-https://m3u-editor.com/serve/televitolibre/526419852.m3u8
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R7eUeSq.png", 13 Teleseries | HD | Chile
-https://m3u-editor.com/serve/televitolibre/526419865.m3u8
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/NeRfD55.png", Vive Canal D Drama | HD | Turquía
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Z6S3GQ.png", TV+ | FHD | Chile
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HTKuWki.png", TV Chile | HD | Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8ED2nTR.png", CGTN Español | SD | China
-https://m3u-editor.com/serve/televitolibre/497955346.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LHn9ofg.png", Contivisión | HD | Chile
-https://m3u-editor.com/serve/televitolibre/499904778.m3u8
+https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bFN5UlN.png", Bolivisión | HD | Bolivia
 https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9TbpsS0.png", CMC-USA | HD | Estados Unidos
-https://m3u-editor.com/serve/televitolibre/497955364.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg", Euronews | HD | Francia
-https://m3u-editor.com/serve/televitolibre/526463489.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PU2cqzN.png", Canal 24 Horas | HD | Chile
 https://m3u-editor.com/serve/televitolibre/500000309.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RRxeN0b.png", Bio Bio TV | SD | Chile
+https://pantera1-100gb-cl-movistar.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9TbpsS0.png", CMC-USA | HD | Estados Unidos
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NeRfD55.png", Vive Canal D Drama | HD | Turquía
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/e61XJNb.png", ISB | HD | Chile
+https://m3u-editor.com/serve/televitolibre/500015845.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LHn9ofg.png", Contivisión | HD | Chile
+http://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nt7TD3I.png", K-POP  TV | HD | Brasil
-https://m3u-editor.com/serve/televitolibre/497955360.m3u8
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7NwZRlX.png", Motorvision Latino | HD | Alemania
 https://m3u-editor.com/serve/televitolibre/497956006.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vZnOTq8.png", TeleRed | SD | Costa Rica
-https://m3u-editor.com/serve/televitolibre/526442931.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/e61XJNb.png", ISB | HD | Chile
-https://m3u-editor.com/serve/televitolibre/500015845.m3u8
+https://srv.panelcast.net/telered/telered/.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/d4eZ9VX.png", EnerGeek | HD | Chile
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8JSxV1m.png", Dreiko TV | HD | Panamá
-https://m3u-editor.com/serve/televitolibre/497955340.m3u8
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/x19mmox.png", Latino Kids TV | HD | Uruguay
-https://m3u-editor.com/serve/televitolibre/510998321.m3u8
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SE8r8sS.png", Boing | HD | España
+https://livek.mediaset.es/orilinear23/live/linear23/playlist/playlist.isml/playlist-audio101_spa=128000-video=3500000.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OWrgagl.png", Be Mad | HD | España
+https://livek.mediaset.es/orilinear18/live/linear18/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nRM1wpE.png", Cuatro | HD | España
+https://livek.mediaset.es/orilinear21/live/linear21/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1GjX81j.png", TeleCinco | HD | España
+https://livek.mediaset.es/orilinear17/live/linear17/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AiAIWbz.png", Energy | HD | España
+https://livek.mediaset.es/orilinear19/live/linear19/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rUQLEMh.png", Factoría de Ficción | HD | España
+https://livek.mediaset.es/orilinear22/live/linear22/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oMNy0TG.png", Divinity | HD | España
+https://livek.mediaset.es/orilinear20/live/linear20/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nXJTUVz.png", La 1 | SD | España
+https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/v9HdU7z.png", Panamericana | SD | Perú
+https://m3u-editor.com/serve/televitolibre/497955353.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/09NTq83.png", Tele 11 | HD | Puerto Rico
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/live-audio_track_0_0_und=64000-video_track=2800000.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/bcr0njT.png", TVN Panamá | HD | Panamá
+https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PMh8A79.png", Rusia Today | HD | Rusia
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 
