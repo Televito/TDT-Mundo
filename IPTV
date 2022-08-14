@@ -1,41 +1,45 @@
 #EXTM3U
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/3eb0Hhn.png", UCV | HD | Chile
+#EXTINF: -1 tvg-id="ucv.cl" tvg-logo="https://i.imgur.com/3eb0Hhn.png", UCV | HD | Chile
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/27i6iYB.png", UCV2 | HD | Chile
+#EXTINF: -1 tvg-id="ucv.cl" tvg-logo="https://i.imgur.com/27i6iYB.png", UCV2 | HD | Chile
 https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/A1xzjOI.png", Deutsche Welle Español | FHD | Alemania
+#EXTINF: -1 tvg-id="dw.com" tvg-logo="https://i.imgur.com/A1xzjOI.png", Deutsche Welle Español | FHD | Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/puJ88Pk.png", La Red | FHD | Chile
+#EXTINF: -1 tvg-id="148red.cl" tvg-logo="https://i.imgur.com/puJ88Pk.png", La Red | FHD | Chile
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LFwKADf.png", Canal Sur Andalucía | FHD | España
+#EXTINF: -1 tvg-id="canalsur.es" tvg-logo="https://i.imgur.com/LFwKADf.png", Canal Sur Andalucía | FHD | España
 https://cdnlive.codev8.net/rtvalive/channel1.smil/.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/09NTq83.png", Canal 6 | SD | Costa Rica
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/mnCGBDA.png", TVN CHILE | HD | Chile
+#EXTINF: -1 tvg-id="149tvn.cl" tvg-logo="https://i.imgur.com/mnCGBDA.png", TVN CHILE | HD | Chile
 https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ecP5OAn.jpg", EWTN en español| FHD | católico | Estados Unidos
+#EXTINF: -1 tvg-id="ewtn.com/es" tvg-logo="https://i.imgur.com/ecP5OAn.jpg", EWTN en español| FHD | católico | Estados Unidos
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/2728/chunklist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png", Mega | SD | Chile
+#EXTINF: -1 tvg-id="150mega.cl" tvg-logo="https://i.imgur.com/a6m1yWP.png", Mega | SD | Chile
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/x2MlcDx.png", Love Nature | HD | Canadá
+#EXTINF: -1  tvg-id="pluto-60dd6b1da79e4d0007309455" tvg-logo="https://i.imgur.com/x2MlcDx.png", Love Nature | HD | Canadá
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&TargeDNT=0&device&device%7 =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/mdTQSPn.png", Chilevisión Contigo| HD | Chile
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device%DNTTOPTTOdeviceLon=0%&7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dWGdEZ2.png", Chilevisión Noticias| HD | Chile
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/627d1b936d4ded0007d7642f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&DTARGEDvice%7BTARGEDNT=0&device&device%7 =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AwzIEPu.png", Tele Trece | HD | Chile
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
@@ -46,7 +50,7 @@ https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OYPGJRE.png", 13 Entretención | HD | Chile
 https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/3lfGaqZ.png", 13 Prime | HD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3lfGaqZ.png", 13 principal | HD | Chile
 https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R7eUeSq.png", 13 Teleseries | HD | Chile
@@ -65,7 +69,7 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg", Euronews | HD | Francia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&device&DGETOd%PTI%Dvice%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RRxeN0b.png", Bio Bio TV | SD | Chile
 https://pantera1-100gb-cl-movistar.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
@@ -95,7 +99,7 @@ http://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestrea
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7NwZRlX.png", Motorvision Latino | HD | Alemania
-https://m3u-editor.com/serve/televitolibre/497956006.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vZnOTq8.png", TeleRed | SD | Costa Rica
 https://srv.panelcast.net/telered/telered/.m3u8
@@ -154,11 +158,14 @@ https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/60580
 #EXTINF: -1 tvg-logo="https://i.imgur.com/64coss7.png", Trece | HD | Colombia
 https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PMh8A79.png", Rusia Today | HD | Rusia
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PMh8A79.png", Rusia Hoy | HD | Rusia
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/m4nQ7Uk.png", Cosmo | HD | España
+http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
 
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zjnVvow.png", Rakuten TV Acción | HD | Japón
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 
 
 
