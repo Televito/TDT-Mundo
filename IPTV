@@ -12,7 +12,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF: -1 tvg-id="148red.cl" tvg-logo="https://i.imgur.com/puJ88Pk.png", La Red | FHD | Chile
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-id="canalsur.es" tvg-logo="https://i.imgur.com/LFwKADf.png", Canal Sur Andalucía | FHD | España
+#EXTINF: -1 tvg-id="CanalSurA.TV" tvg-logo="https://i.imgur.com/LFwKADf.png", Canal Sur Andalucía | FHD | España
 https://cdnlive.codev8.net/rtvalive/channel1.smil/.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/09NTq83.png", Canal 6 | SD | Costa Rica
@@ -60,7 +60,7 @@ https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HTKuWki.png", TV Chile | HD | Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8ED2nTR.png", CGTN Español | SD | China
+#EXTINF: -1 tvg-id="CGTN.TV" tvg-logo="https://i.imgur.com/8ED2nTR.png", CGTN Español | SD | China
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ipOl19z.png", Distrito TV | HD | España
@@ -117,28 +117,28 @@ https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxnUaUQ.png", NTV | HD | Chile
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SE8r8sS.png", Boing | HD | España
+#EXTINF: -1 tvg-id="Boing.TV" tvg-logo="https://i.imgur.com/SE8r8sS.png", Boing | HD | España
 https://livek.mediaset.es/orilinear23/live/linear23/playlist/playlist.isml/playlist-audio101_spa=128000-video=3500000.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OWrgagl.png", Be Mad | HD | España
+#EXTINF: -1 tvg-id="Bemad.TV" tvg-logo="https://i.imgur.com/OWrgagl.png", Be Mad | HD | España
 https://livek.mediaset.es/orilinear18/live/linear18/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/nRM1wpE.png", Cuatro | HD | España
+#EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/nRM1wpE.png", Cuatro | HD | España
 https://livek.mediaset.es/orilinear21/live/linear21/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/1GjX81j.png", TeleCinco | HD | España
+#EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/1GjX81j.png", TeleCinco | HD | España
 https://livek.mediaset.es/orilinear17/live/linear17/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AiAIWbz.png", Energía | HD | España
+#EXTINF: -1 tvg-id="Energy.TV" tvg-logo="https://i.imgur.com/AiAIWbz.png", Energy | HD | España
 https://livek.mediaset.es/orilinear19/live/linear19/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rUQLEMh.png", Factoría de Ficción | HD | España
+#EXTINF: -1 tvg-id="FDF.TV" tvg-logo="https://i.imgur.com/rUQLEMh.png", Factoría de Ficción | HD | España
 https://livek.mediaset.es/orilinear22/live/linear22/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oMNy0TG.png", Divinidad | HD | España
+#EXTINF: -1 tvg-id="Divinity.TV" tvg-logo="https://i.imgur.com/oMNy0TG.png", Divinity | HD | España
 https://livek.mediaset.es/orilinear20/live/linear20/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/nXJTUVz.png", La 1 | SD | España
+#EXTINF: -1 tvg-id="La1.TV" tvg-logo="https://i.imgur.com/nXJTUVz.png", La 1 | SD | España
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bFN5UlN.png", Bolivisión | HD | Bolivia
