@@ -18,10 +18,10 @@ https://cdnlive.codev8.net/rtvalive/channel1.smil/.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/09NTq83.png", Canal 6 | SD | Costa Rica
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 
-#EXTINF: -1 tvg-id="149tvn.cl" tvg-logo="https://i.imgur.com/mnCGBDA.png", TVN CHILE | HD | Chile
+#EXTINF: -1 tvg-id="tvn.cl" tvg-logo="https://i.imgur.com/mnCGBDA.png", TVN CHILE | HD | Chile
 https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8
 
-#EXTINF: -1 tvg-id="ewtn.com/es" tvg-logo="https://i.imgur.com/ecP5OAn.jpg", EWTN en español| FHD | católico | Estados Unidos
+#EXTINF: -1 tvg-id="ewtn.com.es" tvg-logo="https://i.imgur.com/ecP5OAn.jpg", EWTN en español| FHD | católico | Estados Unidos
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/2728/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="150mega.cl" tvg-logo="https://i.imgur.com/a6m1yWP.png", Mega | SD | Chile
