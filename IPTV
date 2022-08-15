@@ -147,8 +147,17 @@ https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/v9HdU7z.png", Panamericana | SD | Perú
 https://m3u-editor.com/serve/televitolibre/497955353.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0SZyhYu.png", El 9 | HD | Argentina
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/afb77f68-aaf4-4e07-a456-bd0ba4a1135c/4.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0Eh0eSa.png", Televida Mendoza | HD | Argentina
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/1bPjrpb.png", Tele 11 | HD | Puerto Rico
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/live-audio_track_0_0_und=64000-video_track=2800000.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/2FGp9f9.png", Telemundo Puerto Rico | HD | Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bcr0njT.png", TVN Panamá | HD | Panamá
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
@@ -156,7 +165,7 @@ https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/60580
 #EXTINF: -1 tvg-logo="https://i.imgur.com/64coss7.png", Trece | HD | Colombia
 https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PMh8A79.png", Rusia Hoy | HD | Rusia
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PMh8A79.png", Rusia Today| HD | Rusia
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/m4nQ7Uk.png", Cosmo | HD | España
@@ -165,7 +174,14 @@ http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zjnVvow.png", Rakuten TV Acción | HD | Japón
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/poaWQpZ.png", Butaca TV | HD | México
+https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xENeJl6.png", Mezzo TV | HD | Francia
+https://amg01523-mezzo-vivalditv-tcl-yurju.amagi.tv/playlist/amg01523-mezzo-vivalditv-tcl/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/VjorYgY.png", The Country Network | HD | Estados Unidos
+https://cdn2.tcncountry.net/scte35-mbr/playlist.m3u8
 
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nPAW1U3.png", RUTV | FHD | Rusia
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
