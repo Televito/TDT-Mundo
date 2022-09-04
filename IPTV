@@ -6,7 +6,7 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="ucv.cl" tvg-logo="https://i.imgur.com/27i6iYB.png", UCV2 | HD | Chile
 https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-id="dw.com" tvg-logo="https://i.imgur.com/A1xzjOI.png", Deutsche Welle Español | FHD | Alemania
+#EXTINF: -1 tvg-id="dw.com" tvg-logo="https://i.imgur.com/3iCWxvG.png", Deutsche Welle Español | FHD | Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF: -1 tvg-id="148red.cl" tvg-logo="https://i.imgur.com/puJ88Pk.png", La Red | FHD | Chile
@@ -21,7 +21,7 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HTKuWki.png", TV Chile | HD | Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
-#EXTINF: -1 tvg-id="ewtn.com.es" tvg-logo="https://i.imgur.com/ecP5OAn.jpg", EWTN en español| FHD | católico | Estados Unidos
+#EXTINF: -1 tvg-id="ewtn.com.es" tvg-logo="https://i.imgur.com/jydWN8g.png", EWTN en español| FHD | católico | Estados Unidos
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/2728/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UnWMRrT.png", Canal 9 | SD | Concepción
@@ -57,11 +57,14 @@ https://m3u-editor.com/serve/televitolibre/500015845.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/x2MlcDx.png", Love Nature | HD | Canadá
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HCw2Vto.png", TVE Internacional | HD | España
-http://210.210.155.37/uq2663/h/h158/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f98JTsZ.png", Telemadrid| HD | Madrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
 
-#EXTINF: -1 tvg-id="La1.TV" tvg-logo="https://i.imgur.com/nXJTUVz.png", La 1 | SD | España
-https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wB82I4p.png",La Otra| SD | Madrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCw2Vto.png", Canal 21 Chillán | HD | Chile
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Bemad.TV" tvg-logo="https://i.imgur.com/OWrgagl.png", Be Mad | HD | España
 https://livek.mediaset.es/orilinear18/live/linear18/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
@@ -87,6 +90,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/850yFZR.png", Nuestra Visión | HD | Estados Unidos
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fYc9DN6.png", Club TV Santa Juana | HD | Chile
+https://mediacpstreamchile.com:1936/clubtv/clubtv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/nRM1wpE.png", Cuatro | HD | España
 https://livek.mediaset.es/orilinear21/live/linear21/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
@@ -105,12 +110,6 @@ https://livek.mediaset.es/orilinear20/live/linear20/playlist/playlist.isml/playl
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ipOl19z.png", Distrito TV | HD | España
 https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f98JTsZ.png", Telemadrid| HD | Madrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wB82I4p.png",La Otra| SD | Madrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OFLWkjb.png", Antofagasta TV| FHD | Antofagasta
 https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
@@ -166,22 +165,23 @@ https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BUdu8HC.png", Mariavisión| FHD | Católico | México
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JIumOcq.png" group-title="Chile", Raíces Árabes | HD | Chile
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JIumOcq.png", Raíces Árabes | HD | Chile
 https://stmv1.zcastbr.com/julio4589/julio4589/chunklist_w2020667857.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9K9lQl6.jpg" group-title="Chile", Santiago TV| FHD | Santiago
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9K9lQl6.jpg", Santiago TV| FHD | Santiago
 https://stv.janus.cl/playlist/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LAIm1lB.png" group-title="Chile", Ufrovision | HD | Temuco
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LAIm1lB.png", Ufrovision | HD | Temuco
 http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sL057W6.png" group-title="Chile", Cámara De Diputados| FHD | Valparaíso
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sL057W6.png", Cámara De Diputados| FHD | Valparaíso
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y8qHQUw.png" group-title="Chile", TV Senado | FHD | Valparaíso
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y8qHQUw.png", TV Senado | FHD | Valparaíso
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FybyoXl.png", KMTV | HD | Corea del Sur
+https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nt7TD3I.png", K-POP TV | HD | Brasil
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
@@ -202,10 +202,19 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 http://azxtv.com/hls/stream.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/d4eZ9VX.png", EnerGeek | HD | Chile
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/d4eZ9VX.png", EnerGeek Señal 2 | HD | Chile
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/d4eZ9VX.png", EnerGeek Señal 3| HD | Chile
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YJ4NnR8.png", Simpson TV | HD | Chile
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3wF9vKy.png", Ren & Stimpy | HD | Chile
+https://videostreaming.cloudserverlatam.com/Kids90/Kids90/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxnUaUQ.png", NTV | HD | Chile
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
@@ -239,6 +248,12 @@ https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7ig9hB.jpg", HispanTV | SD | Irán
 https://live.presstv.ir/live/smil:live.smil/chunklist_w1568456535_b644100_slen.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCw2Vto.png", TVE Internacional | HD | España
+http://210.210.155.37/uq2663/h/h158/index2.m3u8
+
+#EXTINF: -1 tvg-id="La1.TV" tvg-logo="https://i.imgur.com/nXJTUVz.png", La 1 | SD | España
+https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ic4B37s.png", TVGE Internacional | SD | Guinea Ecuatorial
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 
@@ -253,7 +268,7 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1051508099_b316000
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/afb77f68-aaf4-4e07-a456-bd0ba4a1135c/4.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0Eh0eSa.png", Televida Mendoza | HD | Argentina
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RZjqEW.png", Canal 10 TV Rionegrina| HD | Argentina
 https://59c5c86e10038.streamlock.net/8204/8204/chunklist.m3u8
@@ -273,7 +288,8 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6V8sh3v.png", TV Perú Noticias | SD | Perú
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1z3t61J.png", BHTV | HD | Perú
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1z3t61J.png", BHTV | HD | Perú#EXTINF: -1 tvg-logo="https://i.imgur.com/bFN5UlN.png", Bolivisión | HD | Bolivia
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/v9HdU7z.png", Panamericana | SD | Perú
@@ -342,6 +358,9 @@ https://hd.chileservidores.cl:1936/ceactv/ceactv/chunklist_w183177640.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/xENeJl6.png", Mezzo TV | HD | Francia
 https://amg01523-mezzo-vivalditv-tcl-yurju.amagi.tv/playlist/amg01523-mezzo-vivalditv-tcl/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lFxoFEI.png", TOP TV | HD | Brasil
+https://cast.cdnseguro.com:19360/8092/8092.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/1iEfAR1.png", Top Latino | HD | Perú
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8
