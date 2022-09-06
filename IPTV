@@ -54,16 +54,14 @@ https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/e61XJNb.png", ISB | HD | Chile
 https://m3u-editor.com/serve/televitolibre/500015845.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/x2MlcDx.png", Love Nature | HD | Canadá
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/nRM1wpE.png", Cuatro | HD | España
+https://livek.mediaset.es/orilinear21/live/linear21/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f98JTsZ.png", Telemadrid| HD | Madrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/1GjX81j.png", TeleCinco | HD | España
+https://livek.mediaset.es/orilinear17/live/linear17/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wB82I4p.png",La Otra| SD | Madrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HCw2Vto.png", Canal 21 Chillán | HD | Chile
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNr12wx.png", Canal 21 Chillán | HD | Chile
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Bemad.TV" tvg-logo="https://i.imgur.com/OWrgagl.png", Be Mad | HD | España
@@ -87,17 +85,17 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PMh8A79.png", Rusia Today| HD | Rusia
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/x2MlcDx.png", Love Nature | HD | Canadá
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ipOl19z.png", Distrito TV | HD | España
+https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/850yFZR.png", Nuestra Visión | HD | Estados Unidos
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYc9DN6.png", Club TV Santa Juana | HD | Chile
 https://mediacpstreamchile.com:1936/clubtv/clubtv/playlist.m3u8
-
-#EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/nRM1wpE.png", Cuatro | HD | España
-https://livek.mediaset.es/orilinear21/live/linear21/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
-
-#EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/1GjX81j.png", TeleCinco | HD | España
-https://livek.mediaset.es/orilinear17/live/linear17/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
 
 #EXTINF: -1 tvg-id="Energy.TV" tvg-logo="https://i.imgur.com/AiAIWbz.png", Energy | HD | España
 https://livek.mediaset.es/orilinear19/live/linear19/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
@@ -108,8 +106,11 @@ https://livek.mediaset.es/orilinear22/live/linear22/playlist/playlist.isml/playl
 #EXTINF: -1 tvg-id="Divinity.TV" tvg-logo="https://i.imgur.com/oMNy0TG.png", Divinity | HD | España
 https://livek.mediaset.es/orilinear20/live/linear20/playlist/playlist.isml/playlist-audio101_spa=128000-video=2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ipOl19z.png", Distrito TV | HD | España
-https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f98JTsZ.png", Telemadrid| HD | Madrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wB82I4p.png",La Otra| SD | Madrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OFLWkjb.png", Antofagasta TV| FHD | Antofagasta
 https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
@@ -122,12 +123,6 @@ https://unlimited10-cl.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uiUvMNn.png", Canal 5| HD | Puerto Montt
 https://srv2.zcast.com.br/canal5tv/canal5tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kq3sPyV.png", Canal 57 | SD | Melipilla
-https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r4btaBc.png", Canal 74 | HD | Placilla
-https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png", Sony Novelas | HD | Estados Unidos
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
@@ -173,6 +168,9 @@ https://stv.janus.cl/playlist/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LAIm1lB.png", Ufrovision | HD | Temuco
 http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kq3sPyV.png", Canal 57 | SD | Melipilla
+https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sL057W6.png", Cámara De Diputados| FHD | Valparaíso
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
@@ -222,6 +220,9 @@ https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BADfaU8.png", Ipe | HD | Perú
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r4btaBc.png", Canal 74 | HD | Placilla
+https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png", Educa  TV | HD | Ecuador
 https://cloud7.streamingcnt.net/cnt/educa/chunklist_w960768250.m3u8
 
@@ -235,11 +236,11 @@ https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/60580
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/m4nQ7Uk.png", Cosmo | HD | España
-http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zjnVvow.png", Rakuten TV Acción | HD | Japón
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/m4nQ7Uk.png", Cosmo | HD | España
+http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/poaWQpZ.png", Butaca TV | HD | México
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
@@ -264,6 +265,12 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zEjHUot.png", Canal 4 Jujuy| HD | Argentina
 http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1051508099_b316000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EuntjO4.png", Canal 8 Mar del Plata | HD | Argentina
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QPyNNJx.png", Canal 9 Litoral | HD | Argentina
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0SZyhYu.png", El 9 | HD | Argentina
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/afb77f68-aaf4-4e07-a456-bd0ba4a1135c/4.m3u8
 
@@ -272,6 +279,30 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RZjqEW.png", Canal 10 TV Rionegrina| HD | Argentina
 https://59c5c86e10038.streamlock.net/8204/8204/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ouGz2OF.png", Canal 10 Córdoba | HD | Argentina
+https://stream.arcast.live/canal10/ngrp:canal10_all/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kfnPfXT.png", Canal 13 San Luís | HD | Argentina
+https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rXs2TPm.png", RCN Más | HD | Colombia
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cv4rv7c.png", Señal Colombia | HD | Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/smnQADX.png", Navarra Televisión | SD | España
+https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCFWqKx.png", La 8 Mediterráneo | HD | España
+https://live-edge-eu-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live1500/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pjq4AAB.png", TV Hellín Castilla | HD | España
+https://hellin-hls-live.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LjfsfJc.png", Estrella del Pilar | HD | España
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiatre/.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JsqgSmX.png", ATB | HD | Bolivia
 http://186.121.206.197/live/daniel/index.m3u8
@@ -466,7 +497,6 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1LRxlPE.png", Balle Balle | HD | India
 https://mcncdndigital.com/balleballetv/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fQUzBsz.png", TMA | HD | Islas Guadalupe
 http://hls.tmacaraibes.com/live/index.m3u8
