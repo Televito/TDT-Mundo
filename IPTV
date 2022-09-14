@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:12/09/2022
+#ultima actualizacion:14/09/2022
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 12/09/2022-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 14/09/2022-
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -228,17 +228,20 @@ http://v2.tustreaming.cl/clicktv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYc9DN6.png" group-title="Chile", Club TV | SD | Santa Juana
 https://mediacpstreamchile.com:1936/clubtv/clubtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jL7zgG5.png" group-title="Chile", Tele Angol | HD | Angol
+https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/teleangol/livestream1/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tjpBqc7.png" group-title="Chile", Temuco Televisión| SD | Temuco
 https://tv.streaming-chile.com:19360/temucotelevision/temucotelevision.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2Et2xD.png" group-title="Chile", UCT | SD | Temuco
 https://unlimited2-cl-isp.dps.live/uct/uct.smil/uct/livestream2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qpnkBzN.png" group-title="Chile", UATV | FHD | Temuco
-https://pantera2-100gb-cl-movistar.dps.live/uatv/uatv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4btaBc.png" group-title="Chile", Canal 74 | HD | Placilla
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qpnkBzN.png" group-title="Chile", UATV | FHD | Temuco
+https://pantera2-100gb-cl-movistar.dps.live/uatv/uatv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LAIm1lB.png" group-title="Chile", Ufrovision | HD | Temuco
 http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
@@ -1788,28 +1791,25 @@ https://v2.tustreaming.cl/radioancoatv/tracks-v1a1/mono.m3u8
 https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GpPwD7Y.png" group-title="Radios Chilenas Con Video", Cappissima FM | SD | Arica
-http://cl.streaminghd.cl/cappissima/cappissima/chunklist_w2004733375.m3u8
+https://oracle.streaminghd.cl/cappissima/cappissima/chunklist_w548289685.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMhP1Xc.png" group-title="Radios Chilenas Con Video", Carolina FM | SD | Ñuñoa
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MS7wD1j.png" group-title="Radios Chilenas Con Video", CCP Radio | SD | Concepción
-https://tls.cdnz.cl/ccpradio/ccpradio/chunklist_w1556424157.m3u8
+https://v1.tustreaming.cl:19360/ccpradio/ccpradio.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2qDoi3.png" group-title="Radios Chilenas Con Video", Chocolate FM | SD | Maipú
 https://paneltv.online:1936/8106/8106/chunklist_w1524549576.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7sMnzzM.png" group-title="Radios Chilenas Con Video", El Sembrador | SD | Chillán
-https://5d1ca66d2d698.streamlock.net:1936/8064/8064/playlist.m3u8
+https://tv.streaming-chile.com:19360/elsembrador/elsembrador.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G5UGhwA.png" group-title="Radios Chilenas Con Video", Favorita TV | SD | Curicó
 http://streamyes.alsolnet.com/radiofavoritatv/live/chunklist_w2007168887.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eSF2gMh.png" group-title="Radios Chilenas Con Video", Infinita FM| HD | Ñuñoa
-https://unlimited1-cl-movistar.dps.live/infinitatv/infinitatv.smil/infinitatv/livestream1/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZKtBK6R.png" group-title="Radios Chilenas Con Video", InterRadio FM| SD | Frutillar
-https://v2.tustreaming.cl/interradiotv/index.m3u8
+https://pantera2-100gb-cl-movistar.dps.live/intrr/intrr.smil/intrr/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FDaa2wk.jpg" group-title="Radios Chilenas Con Video", Máxima FM | SD | San Bernardo
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/chunklist_w655640421.m3u8
@@ -1817,39 +1817,17 @@ http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/chunklist_w655640421.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srSgJwC.png" group-title="Radios Chilenas Con Video", Mi Radio FM | SD | La Serena
 https://v2.tustreaming.cl/miradiotv/live1/rewind-999999.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7VlqWaI.png" group-title="Radios Chilenas Con Video", On Radio TV Chile | HD | Providencia
-https://tls.cdnz.cl/onradio3/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2OGmEnO.jpg" group-title="Radios Chilenas Con Video", On Radio K-POP | HD | Providencia
-https://tls.cdnz.cl/onradio4/live/playlist.m3u8
-
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dO5ApYq.jpg" group-title="Radios Chilenas Con Video", Pauta | HD | Providencia
-http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wFoWpXY.png" group-title="Radios Chilenas Con Video", Pudahuel | SD | Providencia
 https://unlimited6-cl.dps.live/pudahueltv/pudahueltv.smil/pudahueltv/livestream3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IaTIPLW.png" group-title="Radios Chilenas Con Video", Pulso | SD | Santiago
 https://panel.tvstream.cl:1936/8004/8004/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5LJ6VAS.png" group-title="Radios Chilenas Con Video", Pura Noticia TV| SD | Valparaíso
-https://mediaserver5.janus.cl/puranoticia/en-vivo/chunklist_w655266736.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gq5a2wF.png" group-title="Radios Chilenas Con Video", Radio La Serena | SD | La Serena
-https://streamyes.alsolnet.com/radioserena/live/chunklist_w1995585191.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qQx2UPS.png" group-title="Radios Chilenas Con Video", Radio Pop TV | SD | Santiago
-https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
+https://stmv2.zcastbr.com/radiolaserena/radiolaserena/chunklist_w1847869056.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SkcUAno.png" group-title="Radios Chilenas Con Video", Radio Rancagua TV| SD | Rancagua
 https://5d1ca66d2d698.streamlock.net:1936/8056/8056/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0NRuA6M.jpg" group-title="Radios Chilenas Con Video", Radio Touch | SD | Ñuñoa
-https://stmv1.zcastbr.com/radiotouch/radiotouch/chunklist_w77841709.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kffnZEj.png" group-title="Radios Chilenas Con Video", Radio Z | SD | Las Condes
 https://unlimited6-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8
@@ -1857,18 +1835,11 @@ https://unlimited6-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S8VPPgr.png" group-title="Radios Chilenas Con Video", Red Fueguina Medios | SD | Porvenir
 https://inliveserver.com:1936/11012/11012/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7sQUpIn.png" group-title="Radios Chilenas Con Video", Romántica TV| SD | Ñuñoa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7sQUpIn.png" group-title="Radios Chilenas Con Video", Romántica TV | SD | Ñuñoa
 http://unlimited6-cl.dps.live/romanticatv/romanticatv.smil/romanticatv/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vi9orzr.png" group-title="Radios Chilenas Con Video", Ruidos TV| SD | Santiago
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vi9orzr.png" group-title="Radios Chilenas Con Video", Ruidos TV | SD | Santiago
 https://593b04c4c5670.streamlock.net/8038/8038/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jL7zgG5.png" group-title="Radios Chilenas Con Video", Tele Angol FM | SD | Angol
-http://unlimited1-cl.dps.live/teleangolradio/teleangolradio.smil/teleangolradio/livestream1/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Oh21uXe.png" group-title="Radios Chilenas Con Video",Zona Play| SD | Santiago
-http://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wreKjQ.png" group-title="Radios Internacionales Con Video", -Radios Internacionales Con Video-
@@ -1882,26 +1853,19 @@ http://stream.radiovan.fm/stream/index.m3u8
 http://k3.usastreams.com/CableLatino/88stereo/chunklist_w791644587.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yi9DhTM.png" group-title="Radios Internacionales Con Video", Antena Uno| SD | Ecuador
-https://tv.dattavolt.com:3153/live/antenaunolive.m3u8
-
+https://tvdatta.com:3578/live/antenaunolive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wpzgjWt.png" group-title="Radios Internacionales Con Video", Radio Sanborja | SD | Perú
-https://5c3fb01839654.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mErrnY1.png" group-title="Radios Internacionales Con Video", Visión Villarrica | SD | Paraguay
-http://inliveserver.com:1935/8312/8312/playlist.m3u8
-
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H4ImkzT.png" group-title="Radios Internacionales Con Video", Koa TV | SD | Paraguay
 https://panel.dattalive.com/8028/8028/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FK9gtEz.jpg" group-title="Radios Internacionales Con Video", Onda Madrid | SD | España
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/tvradio_1/bitrate_1.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dhXVh11.png" group-title="Radios Internacionales Con Video", Radio TV 538 | HD | Países Bajos
-https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/playlist.m3u8
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KqmY2uq.jpg" group-title="Moda", Q Music| HD | Países Bajos
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
@@ -1910,26 +1874,25 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
 http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="Radios Internacionales Con Video", Radio Contact Feel Good | HD | Bélgica
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-
+https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GfXtUuN.png" group-title="Radios Internacionales Con Video", OTTO FM8| SD | Italia
-http://streaming.bitonlive.net:8080/hls/ottofm2/52_51/index.m3u8
+https://stream8.toserver.net:4433/cmaf/ottofmtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PHmQHas.png" group-title="Radios Internacionales Con Video", Pescara TV | HD | Italia
-http://193.70.81.40:1935/pescaratv/_definst_/pescaratv/chunklist.m3u8
+https://video2.azotosolutions.com:1936/pescaratv/pescaratv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5rlkicI.png" group-title="Radios Internacionales Con Video", Radio Capital TV | SD | Italia
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wcziV0o.png" group-title="Radios Internacionales Con Video",Radio Carina | SD | Italia
-http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pzQrLAe.png" group-title="Radios Internacionales Con Video",Radio Montecarlo | SD | Italia
+https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z2kSlqG.png" group-title="Radios Internacionales Con Video", Radio Company TV| HD | Italia
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zTzMvvx.png" group-title="Radios Internacionales Con Video", Radio Deejay TV | SD | Italia
-https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zTzMvvx.png" group-title="Radios Internacionales Con Video", Radio Deejay TV | HD | Italia
+https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/shKNmVc.png" group-title="Radios Internacionales Con Video", Radio Freccia | SD | Italia
@@ -1939,53 +1902,39 @@ https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bedxx0y.png" group-title="Radios Internacionales Con Video", Radio Italia TV | HD | Italia
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/59o3EXZ.png" group-title="Radios Internacionales Con Video", Radio Italia Vision | SD | Italia
-http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a3sRjGC.png" group-title="Radios Internacionales Con Video", Radio 4 You TV  | SD | Italia
+https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UuKO9pu.png" group-title="Radios Internacionales Con Video", Radio Lombardia TV | SD | Italia
-https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8
+https://stream9.xdevel.com/video0s976574-1330/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mW5CR9k.png" group-title="Radios Internacionales Con Video", Radio M2o| SD | Italia
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8cpuaG5.png" group-title="Radios Internacionales Con Video", Radio Number One | HD | Italia
-http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NLBLh4j.png" group-title="Radios Internacionales Con Video",Radionorba TV | HD | Italia
-https://flash7.xdevel.com/norbatv/smil:norbatv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NLBLh4j.png" group-title="Radios Internacionales Con Video",Radionorba TV | HD | Italia | Alt
-http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yz3LSXo.png" group-title="Radios Internacionales Con Video", Radio 51 | SD | Italia
-http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wfs7CEq.png" group-title="Radios Internacionales Con Video",Radio 105 | HD | Italia
+https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LDcsCZC.png" group-title="Radios Internacionales Con Video",RDS Social TV | HD | Italia
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmxfdmy.png" group-title="Radios Internacionales Con Video", RTL Radio | SD | Italia
-https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VBt70Vh.png" group-title="Radios Internacionales Con Video", Radio Zeta | HD | Italia
-https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DyxC3ez.png" group-title="Radios Internacionales Con Video", TSN Sondrio | SD | Italia
 http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zwYD35p.png" group-title="Radios Internacionales Con Video", Virgin TV Radio | SD | Italia
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/stream01/streamPlaylist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/swlsIiL.png" group-title="Radios Internacionales Con Video", Fox News | HD | Estados Unidos
-http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+https://live2.msr.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/52ExMKt.png" group-title="Radios Internacionales Con Video", Sonus FM | HD | Rusia
 http://138.201.226.83:1935/public/stream_720p/chunklist_w825519609.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C5g5x3A.png" group-title="Radios Internacionales Con Video", Radio Shanson| HD | Rusia
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kBHMDvW.png" group-title="Moda", -Moda-
@@ -2300,16 +2249,19 @@ https://sonic.portalfoxmix.cl:7131/stream/1/
 https://i.imgur.com/KuqaZul.mp4
 
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/E8cJyLw.jpg" group-title="Radios K-Pop & J-Pop", Akari Radio (Ecuador)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/oqtoUnX.jpg" group-title="Radios K-Pop & J-Pop", Japanim Radio | Japón
+https://streaming.live365.com/a51684
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/E8cJyLw.jpg" group-title="Radios K-Pop & J-Pop", Akari Radio | Ecuador
 https://node-26.zeno.fm/0t952vqukfeuv?rj-ttl=5&rj-tok=AAABdotyp9AAJfddmGW35WrTxQ
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/L2Z4mbh.png" group-title="Radios K-Pop & J-Pop", Anime Nexus (México)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/L2Z4mbh.png" group-title="Radios K-Pop & J-Pop", Anime Nexus | México
 http://radio.animenexus.mx:8000/animenexus
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/i5NmdMc.png" group-title="Radios K-Pop & J-Pop", Magic Kids  (Argentina)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/i5NmdMc.png" group-title="Radios K-Pop & J-Pop", Magic Kids  | Argentina
 http://142.44.135.172:8197/;stream.nsv
 
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/PqroA7P.png" group-title="Radios K-Pop & J-Pop", Geek Radio Music (Chile)
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/PqroA7P.png" group-title="Radios K-Pop & J-Pop", Geek Radio Music | Chile
 https://stream.zeno.fm/h4hpqkxsxxquv
 
 
@@ -2318,6 +2270,9 @@ https://stream.zeno.fm/h4hpqkxsxxquv
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/ycUlCyR.png" group-title="Radios Internacionales", -[COLOR cyan]Radios Internacionales[/COLOR]-
 https://i.imgur.com/kISRdyL.mp4
 
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/GoxrwoH.png" group-title="Radios Internacionales", Ashiya Radio | Japón
+https://s3.radio.co/sc8d895604/listen
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/75FDrud.png" group-title="Radios Internacionales", Radio Sputnik | Rusia
 https://nfw.ria.ru/flv/audio.aspx?ID=58982499&type=mp3
@@ -2332,9 +2287,6 @@ http://vis.media-ice.musicradio.com/CapitalUKMP3
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/7u0D7GU.png" group-title="Radios Internacionales", Clásica y Barroca | Buenos Aires | Argentina
 http://200.110.145.2:8087/stream
-
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/q5FoPnB.jpg" group-title="Radios Internacionales", Marítima 100.9 | Bolivia
-http://72.29.90.201:9595/stream/1/
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/nztQaQG.png" group-title="Radios Internacionales", Exitosa 95.5 | Perú
 http://167.114.118.120:7444/;
@@ -2359,6 +2311,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIA
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/jpFoozY.png" group-title="Radios Internacionales", Lu6 Radio Atlántica AM | Mar del Plata | Argentina
 http://173.255.205.241:9090/;
 
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/7v4rjaw.png" group-title="Radios Internacionales", Megamix | Kameyama | Japón
+https://cc6.streammaximum.com/proxy/radiomegamix/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/XbptMyc.png" group-title="Radios Internacionales", Nashville FM Country| Holanda
 https://nashvillefm.stream-server.nl:8300/stream
@@ -2377,11 +2331,14 @@ http://live02.rfi.fr/rfienespagnol-64.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/LaG8trk.png" group-title="Radios Internacionales", Rock FM | Rumania 
 https://live.rockfm.ro/rockfm.aacp
 
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/geEQlv9.png" group-title="Radios Internacionales", Yeongju Broadcasting Sistem | Corea del Sur
+http://220.81.2.147:8000/;&type=mp3
+
+
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dN5By0n.png" group-title="Papelera", -Papelera-
 https://i.imgur.com/KuqaZul.mp4
-
 
 
