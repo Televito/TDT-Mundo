@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:17/09/2022
+#ultima actualizacion:23/09/2022
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 17/09/2022-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 23/09/2022-
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -408,11 +408,28 @@ http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1828279383.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lR9GW8h.png" group-title="Cine y Series", CSTV | HD | Chile
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series",Telenord 8 | HD | Rep. Dominicana
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series", Telenord 8 | HD | Rep. Dominicana
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series",Telenord 12 | HD | Rep. Dominicana
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series", Telenord 12 | HD | Rep. Dominicana
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xxanbcq.png" group-title="Cine y Series", Viwix Acción | HD | Chile
+https://s2.tvdatta.com:3457/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xxanbcq.png" group-title="Cine y Series", Viwix Estrenos | HD | Chile
+https://s2.tvdatta.com:3172/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xxanbcq.png" group-title="Cine y Series", Viwix Series | HD | Chile
+https://s2.tvdatta.com:3402/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xxanbcq.png" group-title="Cine y Series", Viwix Terror | HD | Chile
+https://s2.tvdatta.com:3849/hybrid/play.m3u8
+
+
+
+
+
 
 
 
@@ -1355,7 +1372,7 @@ https://i.imgur.com/AEwCoaQ.mp4
 https://streaming.ecuadortv.ec/hls/key-0a1dbc53-65b9-4207-a796-2ad2afff4666lfuQfxKbLr_mid/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/DWb5Rhd/Ecuavisa-2007.png" group-title="Ecuador", Ecuavisa | HD
-https://onx.la/3e649.m3u8
+https://i.imgur.com/UZDlYdR.mp4
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/DWb5Rhd/Ecuavisa-2007.png" group-title="Ecuador", TVC | SD
 https://d6op0qag07k4o.cloudfront.net/hls/tvc.m3u8
@@ -1369,6 +1386,11 @@ https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UerUDE.png" group-title="Ecuador", Universidad Católica de Santiago de Guayaquil| SD
 https://www.ecuastream.net/pls/ucsghd.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Bgeevd.png" group-title="Ecuador", Televicentro| SD
+https://d6op0qag07k4o.cloudfront.net/hls/tvc_480.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F3sKGRU.png" group-title="Ecuador", Tele Amazonas | HD
+https://stream-01.dc3.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTML-cs-0cXIvgSRYQX3E8RfE9M4iu3DOj5eDjfQEBbHd0)/dm/3/x8dhua9/s/live-3.m3u8
 
 
 
@@ -1591,13 +1613,17 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/master.m3u8
 https://i.imgur.com/dKnim8a.mp4
 
 
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/1bPjrpb.png" group-title="Puerto Rico", Tele 11 | HD | Puerto Rico
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1bPjrpb.png" group-title="Puerto Rico", Tele 11 | HD  
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/live-audio_track_0_0_und=64000-video_track=2800000.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/2FGp9f9.png" group-title="Puerto Rico", Telemundo Puerto Rico | HD | Puerto Rico
+#EXTINF: -1 tvg-logo="https://i.imgur.com/2FGp9f9.png" group-title="Puerto Rico", Telemundo Puerto Rico | HD 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ysxADWY.png" group-title="Puerto Rico", Mega TV | HD 
+https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/sbu4wMu.png" group-title="Puerto Rico", Wipr TV | HD 
+https://streannliveprtv.cachefly.net/prtv1/prtv1/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJLLJBT.png" group-title="Rep. Dominicana", -República Dominicana-
@@ -1681,6 +1707,9 @@ http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o3W77Hi.jpg" group-title="Musicales", The Retro Channel | SD | Puerto Rico
 https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xxanbcq.png" group-title="Musicales", Viwix Music | HD | Chile
+https://s2.tvdatta.com:3548/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HccsGnM.png" group-title="Musicales", Portal Fox Mix | HD |Chile
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
@@ -2420,5 +2449,9 @@ http://220.81.2.147:8000/;&type=mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dN5By0n.png" group-title="Papelera", -Papelera-
 https://i.imgur.com/KuqaZul.mp4
+
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/DWb5Rhd/Ecuavisa-2007.png" group-title="Papelera", Ecuavisa | HD | Ecuador
+https://onx.la/3e649.m3u8
 
 
