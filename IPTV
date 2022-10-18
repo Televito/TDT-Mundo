@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:23/09/2022
+#ultima actualizacion:18/10/2022
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -320,6 +320,9 @@ https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vx20KSy.jpg" group-title="Chile", Umag TV 2| HD | Punta Arenas
 https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lTI1gzr.png" group-title="Chile", Canal TVM | HD | Punta Arenas
+https://oracle.streaminghd.cl/tvmcercadeti/tvmcercadeti/chunklist_w1900488119.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PrG6SkZ.png" group-title="Chile", Chilevisión | HD | Santiago | Alt.
 http://chv-m3u.chorroaeboy.repl.co
@@ -859,7 +862,7 @@ https://i.imgur.com/KuqaZul.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3iCWxvG.png" group-title="Internacionales", Deutsche Welle Latino | SD | Alemania 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://i.imgur.com/8ED2nTR.png" group-title="Internacionales", CGTN Español | SD | China
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ED2nTR.png" group-title="Internacionales", CGTN Español | SD | China
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VD2gkKQ.png" group-title="Internacionales", Hispan TV | SD | Irán
@@ -883,20 +886,14 @@ https://i.imgur.com/tb5lAm6.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sRsCcT6.png" group-title="España", La 1 | HD | Madrid 
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr_720.m3u8
 
-#EXTINF: -1 tvg-id="Energy.TV" tvg-logo="https://i.imgur.com/AiAIWbz.png" group-title="España", Energy | HD | Madrid
-https://livek.mediaset.es/orilinear19/live/linear19/playlist/playlist.isml/ctv.m3u8?hdnts=st=1663316552~exp=1663402952~acl=/*~hmac=6722906966f497d11ef432083769ef80bf6df3f270954c325b9ffde678bdf43c
 
-#EXTINF: -1 tvg-id="Bemad.TV" tvg-logo="https://i.imgur.com/OWrgagl.png" group-title="España", Be Mad | HD | Madrid
-https://livek.mediaset.es/orilinear18/live/linear18/playlist/playlist.isml/ctv.m3u8?hdnts=st=1663316552~exp=1663402952~acl=/*~hmac=6722906966f497d11ef432083769ef80bf6df3f270954c325b9ffde678bdf43c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nlaIRhn.png" group-title="España", La 2 | HD | Madrid 
+https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/nRM1wpE.png" group-title="España", Cuatro | HD | Madrid
-https://livek.mediaset.es/orilinear21/live/linear21/playlist/playlist.isml/ctv.m3u8?hdnts=st=1663316552~exp=1663402952~acl=/*~hmac=6722906966f497d11ef432083769ef80bf6df3f270954c325b9ffde678bdf43c
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hZG60lx.png" group-title="España", Canal 4 Mancha Centro | HD | Albacete
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/1GjX81j.png" group-title="España", TeleCinco | HD | Madrid
-https://livek.mediaset.es/orilinear17/live/linear17/playlist/playlist.isml/ctv.m3u8?hdnts=st=1663316552~exp=1663402952~acl=/*~hmac=6722906966f497d11ef432083769ef80bf6df3f270954c325b9ffde678bdf43c
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TB1wMQ7.jpg" group-title="España",Visión 6 TV | SD | Albacete
 https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
@@ -904,13 +901,8 @@ https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LPSNOzX.png" group-title="España", RTPA 7 | SD | Asturias
 https://cdnlive.codev8.net/rtpalive/directo.smil/.m3u8?DVR
 
-#EXTINF: -1 tvg-id="FDF.TV" tvg-logo="https://i.imgur.com/rUQLEMh.png" group-title="España", Factoría de Ficción | HD | Madrid
-https://livek.mediaset.es/orilinear22/live/linear22/playlist/playlist.isml/ctv.m3u8?hdnts=st=1663316552~exp=1663402952~acl=/*~hmac=6722906966f497d11ef432083769ef80bf6df3f270954c325b9ffde678bdf43c
 
-#EXTINF: -1 tvg-id="Divinity.TV" tvg-logo="https://i.imgur.com/oMNy0TG.png" group-title="España", Divinity | HD | Madrid
-https://livek.mediaset.es/orilinear20/live/linear20/playlist/playlist.isml/ctv.m3u8?hdnts=st=1663316552~exp=1663402952~acl=/*~hmac=6722906966f497d11ef432083769ef80bf6df3f270954c325b9ffde678bdf43c
-
-#EXTINF: -1 tvg-id="CanalSurA.TV" tvg-logo="https://i.imgur.com/LFwKADf.png" group-title="España", Canal Sur | FHD | Andalucía 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LFwKADf.png" group-title="España", Canal Sur | FHD | Andalucía 
 https://cdnlive.codev8.net/rtvalive/channel1.smil/.m3u8
 
 
@@ -1102,17 +1094,23 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Os0FBUf.png" group-title="Juveniles", Anime Zone | SD | República Dominicana 
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/d4eZ9VX.png" group-title="Juveniles", EnerGeek | HD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/d4eZ9VX.png" group-title="Juveniles", EnerGeek Señal 1 | HD | Chile
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/d4eZ9VX.png" group-title="Juveniles", EnerGeek Señal 2 | HD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qhaAwmA.png" group-title="Juveniles", EnerGeek Fanpop  Señal 2 | HD | Chile
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/d4eZ9VX.png" group-title="Juveniles", EnerGeek Señal 3| HD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/d4eZ9VX.png" group-title="Juveniles", EnerGeek Señal 3 | HD | Chile
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/d4eZ9VX.png" group-title="Juveniles", EnerGeek Radio Señal 4 | HD | Chile
+https://streamtest.energeek.cl/hls/0/stream.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tMfw42m.png" group-title="Juveniles", Futurama Manía | HD | Colombia
 https://onx.la/f1859.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/snmbxEd.png" group-title="Juveniles", Futurama | HD | Chile
+https://videostreaming.cloudserverlatam.com/cloudtvplus/cloudtvplus/chunklist_w1126282456.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3wF9vKy.png" group-title="Juveniles", Ren & Stimpy | HD | Chile
 https://videostreaming.cloudserverlatam.com/Kids90/Kids90/playlist.m3u8
@@ -1240,7 +1238,7 @@ https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LirBvKY.png" group-title="Argentina", Canal 20 | HD | Villa María
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 
-#EXTINF:-1 tvg-id="Canal21TV.ar" tvg-logo="https://i.imgur.com/gNCT3zG.png" group-title="Argentina",Canal 21 TV | HD | Posadas 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNCT3zG.png" group-title="Argentina",Canal 21 TV | HD | Posadas 
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dOJX0Cl.png" group-title="Argentina",TV Universidad Nacional de La Plata | HD
@@ -2453,5 +2451,4 @@ https://i.imgur.com/KuqaZul.mp4
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/DWb5Rhd/Ecuavisa-2007.png" group-title="Papelera", Ecuavisa | HD | Ecuador
 https://onx.la/3e649.m3u8
-
 
