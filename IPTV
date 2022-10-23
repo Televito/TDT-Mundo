@@ -36,8 +36,8 @@ https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8qnDBFJ.png" group-title="Chile", TV Más 2 | FHD | Valparaíso
 https://marine2.miplay.cl/tateti/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6UoixA8.png" group-title="Chile", TV CHILE | HD | Santiago 
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vt424Nn.png" group-title="Chile", TVN CHILE | FHD | Santiago 
+https://onx.la/d3561.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="Chile", La Red | FHD | Santiago
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
@@ -46,16 +46,16 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BapqWkd.png" group-title="Chile", Mega | HD | Santiago
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+https://onx.la/87d71.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PrG6SkZ.png" group-title="Chile", Chilevisión | HD | Santiago
-https://marine2.miplay.cl/chv/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PrG6SkZ.png" group-title="Chile", Chilevisión | FHD | Santiago
+https://onx.la/fc62a.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ENiyuA1.png" group-title="Chile", Ceac TV | HD 
-https://hd.chileservidores.cl:1936/ceactv/ceactv/chunklist_w183177640.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6UoixA8.png" group-title="Chile", TV CHILE | HD | Santiago 
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ILZeBjW.png" group-title="Chile", Canal 13 | HD | Santiago
-https://marine2.miplay.cl/c13/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILZeBjW.png" group-title="Chile", Canal 13 | FHD | Santiago
+https://onx.la/bcb5b.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KVKXRwQ.png" group-title="Chile", 13 Cultura | HD | Santiago
 https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8
@@ -69,14 +69,15 @@ https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R7eUeSq.png" group-title="Chile", 13 Teleseries | HD | Chile
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pjs5csg.png" group-title="Chile", Tevex | HD | Santiago
-https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GBRDl5C.png" group-title="Chile", 13C | HD | Chile
+https://onx.la/4ec6a.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JIumOcq.png" group-title="Chile", Raíces Árabes | HD | Chile
-https://stmv1.zcastbr.com/julio4589/julio4589/chunklist_w2020667857.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a9KM2gL.png" group-title="Chile", REC TV | HD | Chile
+https://onx.la/936d4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T1NANrm.png" group-title="Chile", ARAB TV | FHD | Chile
-https://livefocamundo.com:8081/arabtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENiyuA1.png" group-title="Chile", Ceac TV | HD 
+https://hd.chileservidores.cl:1936/ceactv/ceactv/chunklist_w183177640.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilCiqga.png" group-title="Chile", Canal 21 | HD | Chillan
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
@@ -96,6 +97,21 @@ https://pantera1-100gb-cl-movistar.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chun
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="Chile", Tele Trece | HD | Santiago
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Td0PKtd.png" group-title="Chile", CNN Chile | FHD | Santiago
+https://onx.la/2c3c8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pjs5csg.png" group-title="Chile", Tevex | HD | Santiago
+https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JIumOcq.png" group-title="Chile", Raíces Árabes | HD | Chile
+https://stmv1.zcastbr.com/julio4589/julio4589/chunklist_w2020667857.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T1NANrm.png" group-title="Chile", ARAB TV | FHD | Chile
+https://livefocamundo.com:8081/arabtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fwboImE.png" group-title="Chile", Tendencias Prime 31 | HD | Ñuñoa
+https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i1wxNqd.png" group-title="Chile", TVR | FHD | Santiago
 https://pantera2-100gb-cl-movistar.dps.live/tvr/tvr.smil/playlist.m3u8
 
@@ -108,8 +124,6 @@ https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PSDKboh.png" group-title="Chile", TV Salud | FHD | Santiago
 https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fwboImE.png" group-title="Chile", Tendencias Prime 31 | HD | Ñuñoa
-https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxlQ1we.png" group-title="Chile", UES TV| HD | Santiago
 https://tls-cl.cdnz.cl/uestv/live/chunklist_w77969251.m3u8
@@ -174,20 +188,17 @@ https://pantera2-100gb-cl-movistar.dps.live/canal2/canal2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YStIew0.png" group-title="Chile", TV Costa  | HD | San Antonio
 https://tv.tvcontrolcp.com:1936/costatv1/costatv1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kq3sPyV.png" group-title="Chile", Canal 57 | SD | Melipilla
+https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VsfXiJy.png" group-title="Chile", Pop Media | HD | Santiago
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PDVNb9i.png" group-title="Chile", Buin Somos Todos| HD | Buin
 https://bst.buin.cl/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O9hpFKL.png" group-title="Chile", Ekiztv| HD | Rancagua
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/Co8FU9vM2wywL7KjkKb_rOYg8UdRwxBInvhURkttgNm0AUWz7h9hH6sua41nIMrffK4LZfUrRjqXxTgtSv-JL4oR0oXrR0N31IsriVltX3F-qHJXqMryOmkLR02dGwrSkIqa4GCrOiyUxiAf7wjgXgIDDcqfKfyFG128z2IqeG676nOwMN0YXRiTVCDa9rZ4k-uoAfGVet8vDh46XstbCAm6iPtyb4qsfrLvjw2IrwjXISL5lh_e6M3gaeFz929F1QI06oAR5p2ruQ8rpd_BpAYJ8gVnMnMvMgGAS3b4Bs-BSZht4clCOED0DKDKy2vybxtaDIanzf8rZuHMJCljXUVd-TC0PBIIEmR-2zFO1KfixffvqIagT6QyS0fazibPexYpdYsv7-eOHPEm57qt3usWGi6nceQEBajmrQ56_-YdZLrkTeOJfTj-zlMKCDMmkF_MbJBdmLq9kaGhw4u2-mIANAbh01weBplu9-NnM0SrNOu0u2oWZDOWU8yoZcsE2OfHb6At-ZKjHCU8RB440FFeHhH8G3haegLDmhWYW3Dm-y_WQsCMX2bS-0mspjqAR7sCFUeTRHVEmyDJic2k8Cw1Blq0zd_eHk5VzXUSQiYg8W4jKfB4JKEkpOgiJI1DsUiYSt1DxhqOxsbA6JJWnUk6lkb-vQ8medVZ1ipPfaoQ_R0vM7IDlpVxzMx0pNrlDPtax1pmgSME4atOWvR3SFDsnIOkKHjiLIhUPRaYfontnOy-bRMsqhlwg_MNy1g8Wo5gPwXPh738gCeF08aI9kvSx6eNo8GIfWKKJZxENGvj1iR2_d7vNwfsl7Ibrwpr433nLZUNuEIbrMj4VMaRC5v9BxLgpq_n1Jv84JLNS-VK5RoMhHFNx_f6ptSELdyKIAEqCXVzLWVhc3QtMTCIAw.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39dqkkP.png" group-title="Chile", Sextavisión| HD | Rancagua
 https://5ff3d9babae13.streamlock.net/8020/8020/chunklist_w992673755.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kq3sPyV.png" group-title="Chile", Canal 57 | SD | Melipilla
-https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3sXScBo.png" group-title="Chile", Pichilemu TV | FHD | Pichilemu
 https://oracle.streaminghd.cl/roberto886/roberto886/playlist.m3u8
@@ -228,6 +239,10 @@ https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ptBqBze.png" group-title="Chile", Estación TV | HD | Chillán
 https://vdochile.com:3312/stream/play.m3u8https://i.imgur.com/rjfCule.png
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r4btaBc.png" group-title="Chile", Canal 74 | HD | Placilla
+https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iu3turn.png" group-title="Chile", Ñublevisión | HD | Chillán
 https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8
 
@@ -239,9 +254,6 @@ https://oracle.streaminghd.cl/fabian591/fabian591/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fA70ZDe.png" group-title="Chile", TVU | HD | Concepción
 http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r4btaBc.png" group-title="Chile", Canal 74 | HD | Placilla
-https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D9oLBRK.png" group-title="Chile", El 3 de Conce | HD | Concepción
 https://oracle.streaminghd.cl/8016/8016/playlist.m3u8
@@ -324,11 +336,23 @@ https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTI1gzr.png" group-title="Chile", Canal TVM | HD | Punta Arenas
 https://oracle.streaminghd.cl/tvmcercadeti/tvmcercadeti/chunklist_w1900488119.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vt424Nn.png" group-title="Chile", TVN CHILE | FHD | Santiago | Alt.
+https://onx.la/0c2f3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BapqWkd.png" group-title="Chile", Mega | HD | Santiago | Alt.
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PrG6SkZ.png" group-title="Chile", Chilevisión | SD | Santiago | Alt.
+https://onx.la/fe0aa.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PrG6SkZ.png" group-title="Chile", Chilevisión | HD | Santiago | Alt.
 http://chv-m3u.chorroaeboy.repl.co
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ILZeBjW.png" group-title="Chile", Canal 13 | HD | Santiago | Alt.
-http://canal13-m3u.chorroaeboy.repl.co
+https://marine2.miplay.cl/c13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILZeBjW.png" group-title="Chile", Canal 13 | SD | Santiago | Alt.
+https://onx.la/3aa24.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xI9nQu9.png" group-title="Cine y Series", -Cine y Series-
@@ -886,9 +910,51 @@ https://i.imgur.com/tb5lAm6.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sRsCcT6.png" group-title="España", La 1 | HD | Madrid 
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr_720.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sRsCcT6.png" group-title="España", La 1 | FHD | Madrid 
+https://onx.la/692f8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nlaIRhn.png" group-title="España", La 2 | HD | Madrid 
 https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nlaIRhn.png" group-title="España", La 2 | FHD | Madrid 
+https://onx.la/d6919.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OS5AxxL.png" group-title="España", Antena 3 | FHD | Madrid
+https://onx.la/efe7a.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ir7cGCH.png" group-title="España", Cuatro | HD | Madrid
+https://onx.la/2295b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AVZfB2U.png" group-title="España", Telecinco | HD | Madrid
+https://onx.la/a3bee.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fBKWwf.png" group-title="España", La Sexta | HD | Madrid
+https://onx.la/71362.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/62YxC6E.png" group-title="España", BeMad | HD | Madrid
+https://onx.la/a23f0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIP7gI0.png" group-title="España", Neox | SD | Madrid
+https://onx.la/bfd84.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8vSjerj.png" group-title="España", Mega | HD | Madrid
+https://onx.la/769e4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XtmaA3p.png" group-title="España", Ten | SD | Madrid
+https://onx.la/febbf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B0v8Dgj.png" group-title="España", Nova | HD | Madrid
+https://onx.la/c9380.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPgjAbX.png" group-title="España", Divinity | HD | Madrid
+https://onx.la/8805a.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6wmqPL.png" group-title="España", DMax | HD | Madrid
+https://onx.la/0c1ba.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6AHQUH.png" group-title="España", DKiss | HD | Madrid
+https://onx.la/5d316.m3u8
+
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hZG60lx.png" group-title="España", Canal 4 Mancha Centro | HD | Albacete
@@ -1054,8 +1120,11 @@ https://cultural-crtvg.flumotion.com/playlist.m3u8
 https://i.imgur.com/KuqaZul.mp4
 
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/YP85bBF/Boing-2020.png" group-title="Familiares", Boing | HD | España
-https://livek.mediaset.es/orilinear23/live/linear23/playlist/playlist.isml/playlist-audio101_spa=128000-video=3500000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/X7i3ff8.png" group-title="Familiares", Boing | HD | España
+https://onx.la/7183a.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LsRVPtu.png" group-title="Familiares", Clan | HD | España
+https://onx.la/5335a.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxnUaUQ.png" group-title="Familiares", NTV | HD | Chile
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
@@ -1093,6 +1162,12 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Os0FBUf.png" group-title="Juveniles", Anime Zone | SD | República Dominicana 
 http://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xdrpcXj.png" group-title="Juveniles", Bit Me | SD | México 
+https://onx.la/4f076.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PjSDWN3.png" group-title="Juveniles", ETC TV | HD | Chile
+https://onx.la/c6259.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/d4eZ9VX.png" group-title="Juveniles", EnerGeek Señal 1 | HD | Chile
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
@@ -2440,8 +2515,6 @@ https://live.rockfm.ro/rockfm.aacp
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/geEQlv9.png" group-title="Radios Internacionales", Yeongju Broadcasting Sistem | Corea del Sur
 http://220.81.2.147:8000/;&type=mp3
-
-
 
 
 
