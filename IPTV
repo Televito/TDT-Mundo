@@ -75,7 +75,7 @@ https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f653WYY.png" group-title="España", Canal Málaga | HD | Málaga
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-her
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hot6Jrs.jpg" group-title="España", Canal San Roque | HD |  San Roque
 https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
 
@@ -186,5 +186,3 @@ https://momentog-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="España", TV Galicia Cultural | HD | Gallego
 https://cultural-crtvg.flumotion.com/playlist.m3u8
-
-
