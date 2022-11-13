@@ -1902,8 +1902,14 @@ http://190.2.155.162:8080/m6music/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T3yJggR.png" group-title="Musicales", MTV | HD | Francia
 http://190.2.155.162:8080/mtvfrance/mpegts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Iu2rMWm.png" group-title="Musicales", Persiana Music | HD | Francia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HFeQVE.png" group-title="Musicales", Persiana Music | HD | Francia
 http://51.210.199.24/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HFeQVE.png" group-title="Musicales", Persiana Nostalgia | HD | Francia
+http://51.210.199.20/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HFeQVE.png" group-title="Musicales",  Korea Persiana | HD | Francia
+http://51.210.199.14/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xV82cmA.png" group-title="Musicales", VH1 | HD | Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
@@ -1968,12 +1974,14 @@ https://muzzik-live.morescreens.com/mts-a6/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNC8da3.png" group-title="Musicales", Sky Folk TV | SD | Macedonia
 http://skyfolk.mk/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2KPPaAM.png" group-title="Musicales", Rock TV | SD | Rumaníahttp://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2KPPaAM.png" group-title="Musicales", Rock TV | SD | Rumanía
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UEgdZo1.png" group-title="Musicales", Kiss TV | SD | Rumanía
 https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_w209236852_b680000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/imJ3zee.png" group-title="Musicales", Navahang TV Persian | HD | Finlandia
+http://51.210.227.130/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Z6GjxM.png" group-title="Musicales", 1Muz | HD | Rusia
 http://rtmp.one.by:2300/
@@ -2008,8 +2016,20 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zIF1h5X.png" group-title="Musicales", Caltex Music | SD | Irán 
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6HuQPVw.png" group-title="Musicales", Med Muzîk | SD | Kurdistán
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fo5h3zY.png" group-title="Musicales", PMC | HD | Irán
+https://hls.pmchd.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fo5h3zY.png" group-title="Musicales", PMC Royale | HD | Irán
+http://51.210.199.29/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7y4NImg.png" group-title="Musicales", Parnian TV | HD | Irán
+https://live2.parnian.tv/hls/live/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6HuQPVw.png" group-title="Musicales", Med Muzîk | SD | Kurdistán Iraquí
 http://137.74.205.201/medmuzik/MedStream/chunklist_w942097100.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n0mBRC0.png" group-title="Musicales", 4Kurd | HD | Kurdistán Iraquí
+http://51.210.199.23/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1LRxlPE.png" group-title="Musicales", Balle Balle | HD | India
 https://mcncdndigital.com/balleballetv/index.m3u8
