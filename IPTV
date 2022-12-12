@@ -718,6 +718,9 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9KwlgKX.png" group-title="Deportes", CDR | HD | Chile
 https://tv.streaming-chile.com:19360/mescibar/mescibar.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9lwE0Z.png" group-title="Deportes", Deporte Total | SD | Bolivia
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Deportes", Garage TV | HD | Argentina
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1643734723_b1296000_sleng.m3u8
 
@@ -738,6 +741,9 @@ http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oZGfpO8.png" group-title="Deportes", Red Bull TV | FHD | Austria
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FAKvSEc.png" group-title="Deportes", DAZN TV | HD | España
+http://inliveserver.com:1935/14510/14510/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mbQsokj.png" group-title="Deportes", Swiss Sport TV | HD | Suiza
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w505923320_b2628000.m3u8
@@ -797,9 +803,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BepUOot.png" group-title="Deportes", Bahrain Sports 2 | HD | Bahrein
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Fd351M.png" group-title="Deportes", Golf & PBA  | FHD | Corea del Sur
-https://kr-streams.onrender.com/scraper?channel=237
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qxL1fAM.png" group-title="Deportes", J Sports 1  | SD | Japón
 http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 
@@ -808,12 +811,6 @@ http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qxL1fAM.png" group-title="Deportes", J Sports 3  | SD | Japón
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qxL1fAM.png" group-title="Deportes", J Sports 4  | SD | Japón
-http://cdnv148.cloudrsst.com:1935/jptv/jsports4_540/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jCkOM6F.png" group-title="Deportes", Nittele G+ Sports & News | SD | Japón
-https://cdn.us195.jpnettv.live/jptv/japan_tv_G_540/playlist.m3u8
 
 
 
@@ -838,6 +835,9 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/2728/chunklist.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/27Qaeap.png" group-title="Cristianos", Canal Diocesano | SD | Católico | España
 https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNj6vv.png" group-title="Cristianos", Monte María | SD | Católico | México
+https://616eee1852d6c.streamlock.net/live/myStream_360p/chunklist_w285677799.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BUdu8HC.png" group-title="Cristianos", Mariavisión| FHD | Católico | México
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
@@ -1236,13 +1236,16 @@ https://panel.dattalive.com/8074/8074/playlist.m3u8
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0SZyhYu.png" group-title="Argentina", El 9 | HD | Buenos Aires
-https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/afb77f68-aaf4-4e07-a456-bd0ba4a1135c/4.m3u8
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cHG6dDN.png" group-title="Argentina", Información Periodística | HD | Buenos Aires
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=2000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aWjBev1.png" group-title="Argentina", Argentinísima Satelital | SD  | Buenos Aires
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1442504911_b1912000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rCIJbpq.jpg" group-title="Argentina", Canal 10  | SD | Senillosa
+https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RZjqEW.png" group-title="Argentina", Canal 10 TV Rionegrina| HD | Rio Negro
 https://59c5c86e10038.streamlock.net/8204/8204/chunklist.m3u8
@@ -1374,6 +1377,12 @@ https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DeTScR6.png" group-title="Colombia", -Colombia-
 https://i.imgur.com/YuJcsAv.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FpHtG2G.png" group-title="Colombia", Canal 2 | HD | Cali
+https://video13.virtualtronics.com/streamer/canal2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZmVJ7aK.png" group-title="Colombia", Canal 2 | SD | Neiva
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nBvK2Nd.png" group-title="Colombia", Noticias Caracol | HD | Bogotá
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
@@ -1382,6 +1391,9 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rXs2TPm.png" group-title="Colombia", RCN Más | HD | Bogotá
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ARNdxY4.png" group-title="Colombia", ATN | SD | Cucuta
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZBLy03G.png" group-title="Colombia", CTV  | HD | Barranquilla
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w387031486.m3u8
@@ -1432,6 +1444,9 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w1960667504.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="Costa Rica", Telered | SD | Alajuela
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hVTfcdX.png" group-title="Costa Rica", Canal 6 | SD | San José
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U4PdxpJ.png" group-title="Costa Rica", Multimedios | HD | San José
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -1670,14 +1685,17 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/anKCisL.png" group-title="Perú", Cajamarca TV | SD | Cajamarca
 https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dNbWp7K.png" group-title="Perú", Agro TV | SD | Apurimac
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lOEYOI7.png" group-title="Perú", Canal 8 | SD | Catacaos
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1z3t61J.png" group-title="Perú", BHTV | HD | Lima
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DToD2bE.png" group-title="Perú", Memorias TV | HD | Lima 
 https://cloud10.vsgtech.co:3262/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FExAVG6.png" group-title="Perú", Amazonas TV | HD | Bagua
-https://stmv.panel.grupolimalive.com/amazonastv/amazonastv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5DLrbvz.png" group-title="Perú", Antares TV | HD | Tarapoto
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
@@ -1712,6 +1730,10 @@ https://streannliveprtv.cachefly.net/prtv1/prtv1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJLLJBT.png" group-title="Rep. Dominicana", -República Dominicana-
 https://i.imgur.com/rX6sMHY.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Toyv3D.png" group-title="Rep. Dominicana", Canal 4 | HD | Santo Domingo
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5BaGj5y.png" group-title="Rep. Dominicana", Radio Televisión Dominicana | SD | Santo Domingo
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
@@ -1755,6 +1777,9 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppdCRVv.png" group-title="Venezuela", - Venezuela -
 https://i.imgur.com/17muPsg.mp4
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Foc0uz.png" group-title="Venezuela", Anzoategui TV| SD
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I5BYJ1s.png" group-title="Venezuela", Corazón Llanero| SD
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8
@@ -1921,6 +1946,9 @@ https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RU7jA3I.png" group-title="Musicales", 1Muz | HD | Bielorrusia
 http://hz1.teleport.cc/HLS/HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RU7jA3I.png" group-title="Musicales", 1Muz | SD | Bielorrusia
+http://hz1.teleport.cc/HLS/SD.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gIVnzS0.png" group-title="Musicales", Muzzik Rock | HD | Bosnia y Herzegobina
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
@@ -1984,6 +2012,9 @@ http://ott-cdn.ucom.am/s28/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v6KNZms.png" group-title="Musicales", Muz Soyuz TV| HD | Rusia
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xDTTZw7.png" group-title="Musicales", Matur  TV | FHD | Rusia
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BeUxmdv.png" group-title="Musicales", Jan 3 | SD | Armenia
 http://ott-cdn.ucom.am/s42/index.m3u8
 
@@ -1995,6 +2026,15 @@ https://2122248091.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://arabicagroup.tv/images/logo.png" group-title="Musicales", Arabica Music | HD | Líbano
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tChfvys.png" group-title="Musicales", Falastini Music | HD | Palestina
+https://cdg8.edge.technocdn.com/palestiniantv_source/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BcjsJG9.png" group-title="Musicales", Barbud Music Afganistán | HD | EAU
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iI3S9mT.png" group-title="Musicales", Wanasah | FHD | EAU
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zIF1h5X.png" group-title="Musicales", Caltex Music | SD | Irán 
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
@@ -2198,6 +2238,9 @@ http://138.201.226.83:1935/public/stream_720p/chunklist_w825519609.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C5g5x3A.png" group-title="Radios Internacionales Con Video", Radio Shanson| HD | Rusia
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/diPN0MV.jpg" group-title="Radios Internacionales Con Video", Xit FM | HD | Rusia
+http://lova.me/hls/hithd.m3u8
 
 
 
