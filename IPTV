@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:12/12/2022
+#ultima actualizacion:19/12/2022
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 12/12/2022 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 19/12/2022 -
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -148,6 +148,9 @@ https://v1.tustreaming.cl:19360/campoabierto/campoabierto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VL0TG19.png" group-title="Chile", La Granja TV | HD | La Granja
 https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwLrIPx.png" group-title="Chile", Arica TV | SD | Arica
+https://5eaccbab48461.streamlock.net:1936/8002/8002/chunklist_w1871844864.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/saLbzvM.png" group-title="Chile", Iquique TV | HD | Iquique
 https://marine2.miplay.cl/arcatel/iquiquetv720/tracks-v1a1/mono.m3u8
 
@@ -184,11 +187,11 @@ https://mediacpstreamchile.com:1936/8002/8002/chunklist_w1281292195.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vcWDMBo.jpg" group-title="Chile", Canal 2 | HD | San Antonio
 https://pantera2-100gb-cl-movistar.dps.live/canal2/canal2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YStIew0.png" group-title="Chile", TV Costa  | HD | San Antonio
-https://tv.tvcontrolcp.com:1936/costatv1/costatv1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kq3sPyV.png" group-title="Chile", Canal 57 | SD | Melipilla
 https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YStIew0.png" group-title="Chile", TV Costa  | HD | San Antonio
+https://tv.tvcontrolcp.com:1936/costatv1/costatv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VsfXiJy.png" group-title="Chile", Pop Media | HD | Santiago
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
@@ -235,11 +238,11 @@ https://vdo.panelstreaming.live:3401/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Va3EkVu.png" group-title="Chile", TV Maulesur| HD | Cauquenes
 https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1751257014.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KYqGZLo.png" group-title="Chile", Tele 2 Web | HD | Retiro
-https://mediacpstreamchile.com:1936/tele2web/tele2web/chunklist_w2048756560.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4btaBc.png" group-title="Chile", Canal 74 | HD | Placilla
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYqGZLo.png" group-title="Chile", Tele 2 Web | HD | Retiro
+https://mediacpstreamchile.com:1936/tele2web/tele2web/chunklist_w2048756560.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHn9ofg.png" group-title="Chile", Contivisión | HD | Constitución
 http://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8
@@ -1120,7 +1123,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8JSxV1m.png" group-title="Familiares", Dreiko TV | HD | Panamá
-https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bph4w2.png" group-title="Juveniles", -Juveniles-
@@ -2080,6 +2083,16 @@ http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NqDbDL6.png" group-title="Musicales", Play TV | HD | Camerún
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TQeFPDI.png" group-title="Musicales", Kigali Channel 2 | SD | Ruanda
+http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TQeFPDI.png" group-title="Musicales", Kigali Channel 2 | SD | Ruanda | Alt.
+https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bYd3H3J.png" group-title="Musicales", RTV | SD | Ruanda
+https://5c46fa289c89f.streamlock.net/rtv/rtv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5fEIf7q.png" group-title="Radios Chilenas Con Video", -Radios Chilenas Con Video-
