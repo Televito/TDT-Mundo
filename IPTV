@@ -129,7 +129,7 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 https://tls-cl.cdnz.cl/uestv/live/chunklist_w77969251.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NiieSgS.png" group-title="Chile", Universidad de Chile TV | SD | Santiago
-https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8https://i.imgur.com/5nUcPo4.png
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjBqieO.png" group-title="Chile", Chile Channel | HD | Santiago
 https://v2.tustreaming.cl/chilechannel/tracks-v1a1/mono.m3u8
@@ -197,11 +197,26 @@ https://i.imgur.com/V5j6nRj.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VsfXiJy.png" group-title="Chile", Pop Media | HD | Santiago
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PDVNb9i.png" group-title="Chile", Buin Somos Todos| HD | Buin
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSWTJFI.png" group-title="Chile", CRTV | SD | Las Condes
+https://vdo.panelstreaming.live:3540/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jk0C1I7.png" group-title="Chile", Máxima TV | HD | San Bernardo
+https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/inwHRxJ.png" group-title="Chile", Pintana TV | HD | La Pintana
+http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PDVNb9i.png" group-title="Chile", Buin Somos Todos | HD | Buin
 https://bst.buin.cl/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/39dqkkP.png" group-title="Chile", Sextavisión| HD | Rancagua
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39dqkkP.png" group-title="Chile", Sextavisión | HD | Rancagua
 https://5ff3d9babae13.streamlock.net/8020/8020/chunklist_w992673755.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AHjMEe0.png" group-title="Chile", Ekiz TV | HD | Rancagua
+http://live.mundogo.cl/mundo/EquizTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CFBmfXe.png" group-title="Chile", Pichilemu TV | HD | Pichilemu
+https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fvnO1X9.png" group-title="Chile", TVO | HD | San Vicente
 https://5e3483cba9114.streamlock.net/8014/8014/playlist.m3u8
@@ -224,6 +239,9 @@ https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FhCsepB.png" group-title="Chile", UTV | HD | San Clemente
 https://v2.tustreaming.cl/utv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r4btaBc.png" group-title="Chile", Canal 74 | HD | Placilla
+https://stmv1.zcasthn.com.br/canal74hd/canal74hd/chunklist_w1524801428.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoYBepx.png" group-title="Chile", Canal 5 | HD | Linares
 https://unlimited10-cl.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 
@@ -234,19 +252,24 @@ https://vdo.panelstreaming.live:3401/hybrid/play.m3u8
 https://mediacpstreamchile.com:1936/tele2web/tele2web/chunklist_w2048756560.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHn9ofg.png" group-title="Chile", Contivisión | HD | Constitución
-https://i.imgur.com/V5j6nRj.mp4
+https://pantera1-100gb-cl-movistar.dps.live/cm/cm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHn9ofg.png" group-title="Chile", Contivisión | HD | Constitución | Alt.
+https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hC1hRYV.png" group-title="Chile", Canal San Carlos Ñuble | HD | San Carlos
 https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r4btaBc.png" group-title="Chile", Canal 74 | HD | Placilla
-https://stmv1.zcasthn.com.br/canal74hd/canal74hd/chunklist_w1524801428.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iu3turn.png" group-title="Chile", Ñublevisión | HD | Chillán
 https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AuWbgYb.png" group-title="Chile", Región Televisión Ñuble | HD | Chillán
 https://tv.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5nUcPo4.png" group-title="Chile", Yungay Online | HD | Yungay
+https://mediacpstreamchile.com:1936/8028/8028/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1inByDs.png" group-title="Chile", GTV | SD | Tomé
 https://oracle.streaminghd.cl/fabian591/fabian591/playlist.m3u8
@@ -311,6 +334,12 @@ http://unlimited10-cl.dps.live/decimatv/decimatv.smil/decimatv/livestream1/chunk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rzv06Mv.png" group-title="Chile", Canal 2 | HD | Quellón
 https://unlimited2-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LKYQ2UE.png" group-title="Chile", Hito Cero TV | HD | Quellón
+https://5ff3d9babae13.streamlock.net/8018/8018/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTj4ifA.png" group-title="Chile", Aysén TV | HD | Puerto Aysén
+http://v1.tustreaming.cl/aysentv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHG0k6v.png" group-title="Chile", Santa María Televisión | SD | Coyhaique
 https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8
 
@@ -331,6 +360,9 @@ https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pj9xzHW.png" group-title="Chile", Umag TV 2| HD | Punta Arenas
 https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6C1eHKE.png" group-title="Chile", EGM Channel | HD | Punta Arenas
+https://paneltv.online:1936/8186/8186/playlist.m3u8
 
 
 
@@ -850,6 +882,9 @@ https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UlLAOlM.png" group-title="Cristianos", Solidaria TV| HD | Iglesia Cristiana Cuerpo de Cristo | España
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UlLAOlM.png" group-title="Cristianos", Solidaria TV| HD | Iglesia Cristiana Cuerpo de Cristo | Argentina
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0GoLyBk.png" group-title="Cristianos", Nuevo Tiempo TV| HD | Adventista |Estados Unidos
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
  
@@ -873,6 +908,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ED2nTR.png" group-title="Internacionales", CGTN Español | SD | China
 https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ED2nTR.png" group-title="Internacionales", CGTN Español | HD | China
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VD2gkKQ.png" group-title="Internacionales", Hispan TV | SD | Irán
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
@@ -1345,6 +1383,24 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/onuHTuE.png" group-title="Argentina", Canal 34 | HD | San Juan
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/093X3l3.png" group-title="Argentina", TDC | HD | Santa Fe
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rHe7g2O.png" group-title="Argentina", Cosmos | SD | San Juan
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p1AMmuI.png" group-title="Argentina", Encuentro  | HD | Bs. As.
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mEnbUL9.png" group-title="Argentina", La Voz de Tucumán | SD | Tafí Viejo
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g3aoQHD.png" group-title="Argentina", Todo Noticias | HD | Bs. As.
+https://ltocatamarca.github.io/ltotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7uzf4xl.png" group-title="Argentina", Neox TV | SD | Salta
+https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Asi5eAY.png" group-title="Argentina", Canal 50 | HD | Morteros
 https://coopmorteros.online/canal50/vivo.m3u8
 
@@ -1390,7 +1446,26 @@ https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ydypsI7.png" group-title="Bolivia", TV Latina | SD | Montero
 https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/midkHXv.png" group-title="Bolivia", SEO TV 1 | HD | Batallas
+https://live.seo.tv.bo/live/1SEO.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LtAcfqH.png" group-title="Bolivia", SEO TV 2 Kids | HD | Batallas
+https://live.seo.tv.bo/live/2SEO.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Z73aWoK.png" group-title="Bolivia", SEO TV 3 Novelas | HD | Batallas
+https://live.seo.tv.bo/live/3SEO.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FRU6FYL.png" group-title="Bolivia", SEO TV 4 Películas | HD | Batallas
+https://live.seo.tv.bo/live/4SEO.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NwyL2vh.png" group-title="Bolivia", SEO TV 5 Deportes | HD | Batallas
+https://live.seo.tv.bo/live/5SEO.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Bn399hk.png" group-title="Bolivia", SEO TV 6 | HD | Batallas
+https://live.seo.tv.bo/live/6SEO.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/bZNSAUK.png" group-title="Bolivia", SEO TV 7 | HD | Batallas
+https://live.seo.tv.bo/live/7SEO.m3u8
 
 
 
@@ -1719,6 +1794,9 @@ https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1z3t61J.png" group-title="Perú", BHTV | HD | Lima
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FExAVG6.png" group-title="Perú", Amazonas TV | HD | Chachapoyas
+https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DToD2bE.png" group-title="Perú", Memorias TV | HD | Lima 
 https://cloud10.vsgtech.co:3262/hybrid/play.m3u8
@@ -2705,9 +2783,6 @@ https://livefocamundo.com:8081/arabtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YStIew0.png" group-title="Papelera", TV Costa  | HD | San Antonio
 https://tv.tvcontrolcp.com:1936/costatv1/costatv1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LHn9ofg.png" group-title="Papelera", Contivisión | HD | Constitución
-https://pantera1-100gb-cl-movistar.dps.live/cm/cm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nzHRexD.png" group-title="Papelera", Osorno TV+ | SD | Osorno
 https://hd.chileservidores.cl:1936/osorno2/osorno2/chunklist_w58384319.m3u8
