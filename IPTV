@@ -820,8 +820,11 @@ https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pAEvANH.png" group-title="Cristianos", JRES | SD | Católico | Estados Unidos
 http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FnpqrXi.png" group-title="Cristianos", TV Familia | SD | Católico | Venezuela
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FnpqrXi.png" group-title="Cristianos", TV Familia | HD | Católico | Venezuela
 https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHBQPHT.png" group-title="Cristianos", Santa María | SD | Católico | Argentina
+https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5GoPecD.png" group-title="Cristianos", Trinity Broadcasting Network | SD | Evangélico | España
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
@@ -1081,9 +1084,14 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8JSxV1m.png" group-title="Familiares", Dreiko TV | HD | Panamá
 https://cloudvideo.servers10.com:8081/8242/rewind-3600.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EoYEpeO.png" group-title="Familiares", Retro Mágico  | SD | Argentina
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bph4w2.png" group-title="Juveniles", -Juveniles-
 https://i.imgur.com/KuqaZul.mp4
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFDhzBy.png" group-title="Juveniles", Locomotion | SD | República Dominicana 
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -1157,6 +1165,9 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JLzROQv.png" group-title="Argentina", Canal 4 El Dorado | SD | Misiones
 https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iVkD68j.png" group-title="Argentina", Canal 4 | SD | San Juan
+http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zEjHUot.png" group-title="Argentina", Canal 4 | SD | Jujuy
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w2067338248_b121000.m3u8
 
@@ -1190,6 +1201,9 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t8XmLeN.png" group-title="Argentina", Canal 6 | HD | Entre Ríos
 https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Raaes1N.png" group-title="Argentina", TV Pública | HD | Bs. As.
+https://hls.youtb.workers.dev/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q6BQ5YO.png" group-title="Argentina", Canal 7 | HD | Jujuy 
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
@@ -1201,6 +1215,15 @@ https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0SZyhYu.png" group-title="Argentina", El 9 | HD | Buenos Aires
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/X6QnUDw.png" group-title="Argentina", Canal 9 | HD | La Rioja
+https://inliveserver.com:1936/17012/17012/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vNuhdmU.png" group-title="Argentina", Canal 9 Litoral  | HD | Santa Fé
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KJk7Jx4.png" group-title="Argentina", Canal 9 Multivisión  | HD | Salta
+https://panel.dattalive.com/8250/8250/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/aJ9dRu3.png" group-title="Argentina", AZM | SD | Comodoro Rivadavia
 https://live.canalnueve.tv/canal.m3u8
@@ -1252,11 +1275,14 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="Argentina", Telemax | HD | San Justo
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vgsZxiF.png" group-title="Argentina", El 13 | HD | Bs. As. 
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Fw4HQ1.png" group-title="Argentina", 13max Digital | HD 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/26S4Wnp.png" group-title="Argentina", Canal 13  | HD | Jujuy
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+https://i.imgur.com/V5j6nRj.mp4
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUCtN42.png" group-title="Argentina", Canal 13  | HD | San Luis
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/.m3u8
@@ -1267,8 +1293,15 @@ https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/chunklist_w2017360873.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dz3UVPn.png" group-title="Argentina", Telecreativa | SD | Lanús
 https://i.imgur.com/V5j6nRj.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fpCOUNg.png" group-title="Argentina", Coop | SD | Jesús María
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Y2YPmm.png" group-title="Argentina", Provincial | SD | San Miguel
+https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fpCOUNg.png" group-title="Argentina", Coop | SD | Jesús María 
+https://panel.dattalive.com/8138/8138/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fpCOUNg.png" group-title="Argentina", Coop | SD | Jesús María | Alt.
 https://panel.dattalive.com/8138/8138/chunklist_w1393877408.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vgnhqYa.png" group-title="Argentina", Telesol | HD | San Juan
 https://i.imgur.com/V5j6nRj.mp4
@@ -2700,3 +2733,7 @@ https://panel.dattalive.com/8012/8012/chunklist_w1909279630.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vgnhqYa.png" group-title="Papelera", Telesol | HD | San Juan
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/26S4Wnp.png" group-title="Papelera", Canal 13  | HD | Jujuy
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
