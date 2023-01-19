@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:16/01/2023
+#ultima actualizacion:19/01/2023
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 16/01/2023 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 19/01/2023 -
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -131,6 +131,9 @@ https://tls-cl.cdnz.cl/uestv/live/chunklist_w77969251.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NiieSgS.png" group-title="Chile", Universidad de Chile TV | SD | Santiago
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WGeSDnF.png" group-title="Chile", 38TV | SD | Santiago
+https://v2.tustreaming.cl:19360/38tv/38tv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjBqieO.png" group-title="Chile", Chile Channel | HD | Santiago
 https://v2.tustreaming.cl/chilechannel/tracks-v1a1/mono.m3u8
 
@@ -185,11 +188,11 @@ https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZSpzX1F.png" group-title="Chile", TV Quinta Región | HD | Valparaíso
 https://mediacpstreamchile.com:1936/8002/8002/chunklist_w1281292195.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vcWDMBo.jpg" group-title="Chile", Canal 2 | HD | San Antonio
-https://pantera1-100gb-cl-movistar.dps.live/canal2/canal2.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kq3sPyV.png" group-title="Chile", Canal 57 | SD | Melipilla
 https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vcWDMBo.jpg" group-title="Chile", Canal 2 | HD | San Antonio
+https://pantera1-100gb-cl-movistar.dps.live/canal2/canal2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YStIew0.png" group-title="Chile", TV Costa  | HD | San Antonio
 https://i.imgur.com/V5j6nRj.mp4
@@ -234,13 +237,13 @@ https://vdo.panelstreaming.live:3401/hybrid/play.m3u8
 https://mediacpstreamchile.com:1936/tele2web/tele2web/chunklist_w2048756560.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHn9ofg.png" group-title="Chile", Contivisión | HD | Constitución
-https://i.imgur.com/V5j6nRj.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hC1hRYV.png" group-title="Chile", Canal San Carlos Ñuble | HD | San Carlos
-https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
+https://pantera1-100gb-cl-movistar.dps.live/cm/cm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4btaBc.png" group-title="Chile", Canal 74 | HD | Placilla
 https://stmv1.zcasthn.com.br/canal74hd/canal74hd/chunklist_w1524801428.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hC1hRYV.png" group-title="Chile", Canal San Carlos Ñuble | HD | San Carlos
+https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iu3turn.png" group-title="Chile", Ñublevisión | HD | Chillán
 https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8
@@ -2763,9 +2766,6 @@ https://livefocamundo.com:8081/arabtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YStIew0.png" group-title="Papelera", TV Costa  | HD | San Antonio
 https://tv.tvcontrolcp.com:1936/costatv1/costatv1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LHn9ofg.png" group-title="Papelera", Contivisión | HD | Constitución
-https://pantera1-100gb-cl-movistar.dps.live/cm/cm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nzHRexD.png" group-title="Papelera", Osorno TV+ | SD | Osorno
 https://hd.chileservidores.cl:1936/osorno2/osorno2/chunklist_w58384319.m3u8
