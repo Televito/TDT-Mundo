@@ -15,7 +15,6 @@ https://m3u-editor.com/serve/televito/797182887.m3u8
 https://m3u-editor.com/serve/televito/797182888.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PCFWqKx.png" group-title="Televito", La 8 Mediterráneo | HD | España
 https://m3u-editor.com/serve/televito/800038761.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="Televito", Canal 9 | SD | Concepción
 https://m3u-editor.com/serve/televito/797182890.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3iCWxvG.png" group-title="Televito", Deutsche Welle Latino | SD | Alemania
@@ -66,6 +65,7 @@ https://m3u-editor.com/serve/televito/797182912.m3u8
 https://m3u-editor.com/serve/televito/797182913.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nt7TD3I.png" group-title="Televito", K-Pop TV | HD  | Brasil
 https://m3u-editor.com/serve/televito/797195935.m3u8
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hPgUeK5.png" group-title="Ungrouped", Futurama Manía | HD | Colombia
+https://m3u-editor.com/serve/televito/803258968.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MiYWLkn.png" group-title="Televito", Kanade  | HD | Chile
 https://m3u-editor.com/serve/televito/797182889.m3u8
