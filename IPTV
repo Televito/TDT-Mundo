@@ -1,26 +1,19 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/GYPzo28.png" group-title="Chile", -Chile-
-https://m3u-editor.com/serve/televito/856142194.m3u8
+https://m3u-editor.com/serve/televito/856142194
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="Chile", UCV | HD | Valparaíso
-https://m3u-editor.com/serve/televito/856142195.m3u8
+https://m3u-editor.com/serve/televito/856142195
 #EXTINF: -1 tvg-logo="https://i.imgur.com/27i6iYB.png" group-title="Chile", UCV 2 | HD | Valparaíso
-https://m3u-editor.com/serve/televito/856142196.m3u8
+https://m3u-editor.com/serve/televito/856142196
 #EXTINF: -1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="Chile", La Red | FHD | Santiago
-https://m3u-editor.com/serve/televito/856142197.m3u8
+https://m3u-editor.com/serve/televito/856142197
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9Z6S3GQ.png" group-title="Chile", TV+ | FHD | Valparaíso
-https://m3u-editor.com/serve/televito/856142198.m3u8
+https://m3u-editor.com/serve/televito/856142198
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9qeWv8Y.png" group-title="Chile", TV MÁS 2 | HD | Valparaíso
-https://m3u-editor.com/serve/televito/856142199.m3u8
+https://m3u-editor.com/serve/televito/856142199
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SVy05TP.png" group-title="Chile", TVN Chile | HD | Santiago
-https://m3u-editor.com/serve/televito/856142200.m3u8
+https://m3u-editor.com/serve/televito/856142200
 #EXTINF: -1 tvg-logo="https://i.imgur.com/6UoixA8.png" group-title="Chile", TV CHILE | HD | Santiago
-https://m3u-editor.com/serve/televito/856142201.m3u8
+https://m3u-editor.com/serve/televito/856142201
 #EXTINF: -1 tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="Chile", Canal 9 | SD | Concepción
-https://m3u-editor.com/serve/televito/856142202.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/r6GwKNS.png" group-title="Chile", Chilevisión | HD | Santiago
-https://m3u-editor.com/serve/televito/856142204.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ipYP1Ku.png" group-title="Chile", Meganoticias | HD | Santiago
-https://m3u-editor.com/serve/televito/856142205.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="Chile", Tele 13 | HD | Santiago
-https://m3u-editor.com/serve/televito/856142207.m3u8
-
+https://m3u-editor.com/serve/televito/856142202
