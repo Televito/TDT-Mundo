@@ -1,71 +1,28 @@
+Test de señales...
+
 #EXTM3U 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="Televito", UCV | HD | Valparaíso
-https://m3u-editor.com/serve/televito/797182882.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/27i6iYB.png" group-title="Televito", UCV 2 | HD | Valparaíso
-https://m3u-editor.com/serve/televito/797182883.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9Z6S3GQ.png" group-title="Televito", TV+ | FHD | Valparaíso
-https://m3u-editor.com/serve/televito/797182884.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LHn9ofg.png" group-title="Televito", Contivisión | HD | Constitución
-https://m3u-editor.com/serve/televito/797182885.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ENiyuA1.png" group-title="Televito", Ceac TV | HD | Santiago
-https://m3u-editor.com/serve/televito/797182886.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6UoixA8.png" group-title="Televito", TV CHILE | HD | Santiago
-https://m3u-editor.com/serve/televito/797182887.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/q6BQ5YO.png" group-title="Televito", Canal 7 Jujuy  | HD | Argentina
-https://m3u-editor.com/serve/televito/797182888.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PCFWqKx.png" group-title="Televito", La 8 Mediterráneo | HD | España
-https://m3u-editor.com/serve/televito/800038761.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="Televito", Canal 9 | SD | Concepción
-https://m3u-editor.com/serve/televito/797182890.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/3iCWxvG.png" group-title="Televito", Deutsche Welle Latino | SD | Alemania
-https://m3u-editor.com/serve/televito/797182891.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Pr5uTpL.png" group-title="Televito", Tal Tal TV | HD | Chile
-https://m3u-editor.com/serve/televito/797182892.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/jydWN8g.png" group-title="Televito", EWTN en español| FHD | Católico | Estados Unidos
-https://m3u-editor.com/serve/televito/797182893.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="Televito", Tele 13 | HD | Santiago
-https://m3u-editor.com/serve/televito/797182894.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OYPGJRE.png" group-title="Televito", 13 Entretención | HD | Santiago
-https://m3u-editor.com/serve/televito/797182895.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/3lfGaqZ.png" group-title="Televito", 13 Prime | HD | Santiago
-https://m3u-editor.com/serve/televito/797182896.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R7eUeSq.png" group-title="Televito", 13 Teleseries | HD | Santiago
-https://m3u-editor.com/serve/televito/797182897.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/KVKXRwQ.png" group-title="Televito", 13 Cultura | HD | Santiago
-https://m3u-editor.com/serve/televito/797182898.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8ED2nTR.png" group-title="Televito", CGTN Español | SD | China
-https://m3u-editor.com/serve/televito/797182899.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/f98JTsZ.png" group-title="Televito", Telemadrid| HD | Madrid
-https://m3u-editor.com/serve/televito/797182900.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LFwKADf.png" group-title="Televito", Canal Sur Andalucía | FHD | Sevilla
-https://m3u-editor.com/serve/televito/797182901.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ilCiqga.png" group-title="Televito", Canal 21 | HD | Chillan
-https://m3u-editor.com/serve/televito/797182902.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/23Zm81J.png" group-title="Televito", Santiago TV| FHD | Santiago
-https://m3u-editor.com/serve/televito/797182903.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/dPUYBfM.png" group-title="Televito", Bio Bio TV | SD | Providencia
-https://m3u-editor.com/serve/televito/797182904.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/L0wPCDr.png" group-title="Televito", 24 Play | HD | Santiago
-https://m3u-editor.com/serve/televito/797182905.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/sbuOlnw.png" group-title="Televito", Moni TV | HD | Chile
-https://m3u-editor.com/serve/televito/797182906.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/bcr0njT.png" group-title="Televito", TVN Panamá | HD
-https://m3u-editor.com/serve/televito/797182907.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/q6HOYv4.png" group-title="Televito", Panamericana | SD | Lima
-https://m3u-editor.com/serve/televito/797182908.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/JQn4Vg1.png" group-title="Televito", NTV | HD | Chile
-https://m3u-editor.com/serve/televito/797182909.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Televito", CMC-USA | HD | Estados Unidos
-https://m3u-editor.com/serve/televito/797182910.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/RU7jA3I.png" group-title="Televito", 1Muz | HD | Bielorrusia
-https://m3u-editor.com/serve/televito/797182911.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SeiG5UX.png" group-title="Televito", Rusia Today Español| FHD | Rusia
-https://m3u-editor.com/serve/televito/797182912.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/xV82cmA.png" group-title="Televito", VH1 | HD | Italia
-https://m3u-editor.com/serve/televito/797182913.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/nt7TD3I.png" group-title="Televito", K-Pop TV | HD  | Brasil
-https://m3u-editor.com/serve/televito/797195935.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hPgUeK5.png" group-title="Ungrouped", Futurama Manía | HD | Colombia
-https://m3u-editor.com/serve/televito/803258968.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MiYWLkn.png" group-title="Televito", Kanade  | HD | Chile
-https://m3u-editor.com/serve/televito/797182889.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GYPzo28.png" group-title="Chile", -Chile-
+https://m3u-editor.com/serve/televito/856142194.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="Chile", UCV | HD | Valparaíso
+https://m3u-editor.com/serve/televito/856142195.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/27i6iYB.png" group-title="Chile", UCV 2 | HD | Valparaíso
+https://m3u-editor.com/serve/televito/856142196.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="Chile", La Red | FHD | Santiago
+https://m3u-editor.com/serve/televito/856142197.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9Z6S3GQ.png" group-title="Chile", TV+ | FHD | Valparaíso
+https://m3u-editor.com/serve/televito/856142198.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9qeWv8Y.png" group-title="Chile", TV MÁS 2 | HD | Valparaíso
+https://m3u-editor.com/serve/televito/856142199.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SVy05TP.png" group-title="Chile", TVN Chile | HD | Santiago
+https://m3u-editor.com/serve/televito/856142200.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6UoixA8.png" group-title="Chile", TV CHILE | HD | Santiago
+https://m3u-editor.com/serve/televito/856142201.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="Chile", Canal 9 | SD | Concepción
+https://m3u-editor.com/serve/televito/856142202.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/r6GwKNS.png" group-title="Chile", Chilevisión | HD | Santiago
+https://m3u-editor.com/serve/televito/856142204.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ipYP1Ku.png" group-title="Chile", Meganoticias | HD | Santiago
+https://m3u-editor.com/serve/televito/856142205.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="Chile", Tele 13 | HD | Santiago
+https://m3u-editor.com/serve/televito/856142207.m3u8
+
