@@ -243,20 +243,16 @@ https://m3u-editor.com/serve/televito/856142314.m3u8
 https://m3u-editor.com/serve/televito/856142315.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/x19mmox.png" group-title="Juveniles", Latino Kids TV | HD | Uruguay
 https://m3u-editor.com/serve/televito/856142316.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/i2qyw3u.png" group-title="Juveniles", Cartoon Network | HD | Estados Unidos
-https://m3u-editor.com/serve/televito/856143336.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/vt75Unc.png" group-title="Juveniles", Cartoonito | HD | Estados Unidos
-https://m3u-editor.com/serve/televito/856142312.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qFDhzBy.png" group-title="Juveniles", Locomotion | SD | República Dominicana
 https://m3u-editor.com/serve/televito/856142317.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Os0FBUf.png" group-title="Juveniles", Anime Zone Televisión | SD | República Dominicana
 https://m3u-editor.com/serve/televito/856142318.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/TVlI2kN.png" group-title="Juveniles", 13 Kids  | HD | Chile
-https://m3u-editor.com/serve/televito/857544243.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MiYWLkn.png" group-title="Juveniles", Kanade | HD | Chile
 https://m3u-editor.com/serve/televito/856142319.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/d4eZ9VX.png" group-title="Juveniles", EnerGeek | HD | Chile
 https://m3u-editor.com/serve/televito/856142320.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/TVlI2kN.png" group-title="Juveniles", 13 Kids  | HD | Chile
+https://m3u-editor.com/serve/televito/857544243.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Pr5uTpL.png" group-title="Juveniles", Tal Tal TV | HD | Chile
 https://m3u-editor.com/serve/televito/856142321.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hPgUeK5.png" group-title="Juveniles", Futurama Manía | HD | Colombia
@@ -521,30 +517,6 @@ https://m3u-editor.com/serve/televito/856142450.m3u8
 https://m3u-editor.com/serve/televito/856142451.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/A7ppzlC.png" group-title="España", -España-
 https://m3u-editor.com/serve/televito/856142452.mp4
-#EXTINF: -1 tvg-logo="https://i.imgur.com/sRsCcT6.png" group-title="España", La 1 | HD | Madrid
-https://m3u-editor.com/serve/televito/856142453.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/sRsCcT6.png" group-title="España", La 1 | SD | Madrid
-https://m3u-editor.com/serve/televito/856142454.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/2V6Zqab.png" group-title="España", La 2 | SD | Madrid
-https://m3u-editor.com/serve/televito/856142455.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/2V6Zqab.png" group-title="España", La 2 | HD | Madrid
-https://m3u-editor.com/serve/televito/856142456.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/2V6Zqab.png" group-title="España", La 2 | HD | Madrid | Alt.
-https://m3u-editor.com/serve/televito/856142457.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/sGL8gEb.png" group-title="España", Antena 3 | SD | Madrid
-https://m3u-editor.com/serve/televito/856142458.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/sGL8gEb.png" group-title="España", Antena 3 | HD | Madrid
-https://m3u-editor.com/serve/televito/856142459.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/fGbCzOm.png" group-title="España", Cuatro | HD | Madrid
-https://m3u-editor.com/serve/televito/856142460.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AVZfB2U.png" group-title="España", Telecinco | HD | Madrid
-https://m3u-editor.com/serve/televito/856142461.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/aHyUhUc.png" group-title="España", La Sexta | HD | Madrid
-https://m3u-editor.com/serve/televito/856142462.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/v4qZI4T.png" group-title="España", Ten | HD | Madrid
-https://m3u-editor.com/serve/televito/856142463.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/H7ghBaT.png" group-title="España", Trece | HD | Madrid
-https://m3u-editor.com/serve/televito/856142464.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hZG60lx.png" group-title="España", Canal 4 Mancha Centro | HD | Albacete
 https://m3u-editor.com/serve/televito/856142465.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/TB1wMQ7.jpg" group-title="España", Visión 6 TV | SD | Albacete
@@ -565,30 +537,20 @@ https://m3u-editor.com/serve/televito/856142472.m3u8
 https://m3u-editor.com/serve/televito/856142473.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rEHbsL5.png" group-title="España", Extremadura TV | HD | Mérida
 https://m3u-editor.com/serve/televito/856142474.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/H7ghBaT.png" group-title="España", Trece | HD | Madrid
+https://m3u-editor.com/serve/televito/856142464.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/IvOTHIU.png" group-title="España", 24h | HD | Madrid
 https://m3u-editor.com/serve/televito/856142475.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HNJvOfG.png" group-title="España", Canal 25 | HD | Barbastro
 https://m3u-editor.com/serve/televito/856142476.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2jqq0IW.png" group-title="España", Toros | HD | Extremadura
 https://m3u-editor.com/serve/televito/856142477.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/E4RnLFR.png" group-title="España", BeMad| HD
-https://m3u-editor.com/serve/televito/856142478.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LFwKADf.png" group-title="España", Canal Sur | FHD | Andalucía
 https://m3u-editor.com/serve/televito/856142479.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LFwKADf.png" group-title="España", Canal Sur Andalucía | FHD | Sevilla
 https://m3u-editor.com/serve/televito/856142480.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AekpFoe.png" group-title="España", DMax | HD | Madrid
-https://m3u-editor.com/serve/televito/856142481.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/nJuJOi9.png" group-title="España", DKiss | HD | Madrid
-https://m3u-editor.com/serve/televito/856142482.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PJhP67C.png" group-title="España", Divinity | HD | Madrid
-https://m3u-editor.com/serve/televito/856142483.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/T7P8mK1.png" group-title="España", Canal 33 | SD | Madrid
 https://m3u-editor.com/serve/televito/856142484.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/bb8mwEV.png" group-title="España", Nova | SD | Madrid
-https://m3u-editor.com/serve/televito/856142485.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/UG0DCAd.png" group-title="España", Mega | SD | Madrid
-https://m3u-editor.com/serve/televito/856142486.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vnHtMiW.png" group-title="España", Distrito TV | HD | Madrid
 https://m3u-editor.com/serve/televito/856142487.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nwZC1ru.png" group-title="España", Aragon | HD | Zaragoza
