@@ -765,6 +765,10 @@ https://m3u-editor.com/serve/televito/856142591.m3u8
 https://m3u-editor.com/serve/televito/856142592.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4fwAey8.png" group-title="Argentina", Canal 79 | SD | Mar del Plata
 https://m3u-editor.com/serve/televito/856142593.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kmdui2c.png" group-title="Argentina", america | SD | Bs As
+https://router.cdn.rcs.net.ar/mnp/america/output.mpd
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Y44MGGK.png" group-title="Bolivia", -Bolivia-
 https://m3u-editor.com/serve/televito/856142594.mp4
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0sYAT58.png" group-title="Bolivia", Red Pat | Santa Cruz | FHD
