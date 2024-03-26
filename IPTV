@@ -21,7 +21,7 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Vt424Nn.png", TVN Chile | HD | Santiago
 https://marine2.miplay.cl/tvnchile/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OF2JuXW.png", Bio Bio TV | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xT96FzL.png", Bio Bio TV | HD | Santiago
  https://jireh-1-hls-video-cl-movistar.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CVImFf1.png", Canal 9 Bio Bio | HD | Concepción
@@ -132,14 +132,14 @@ https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/S5eaLyS.png", CGTN en español | HD | China
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9YD1ntT.png", DW en español | HD | Alemania
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YqFOB1h.png", DW en español | HD | Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/s2sqlOG.png", Euronews | HD | Francia
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/TUOu9RQ.png", France 24 Español | HD | Francia
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/VSQogJt.png", RT Español | HD | Rusia
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FuDdh5V.png", Love The Planet | HD | Corea
 https://i.mjh.nz/SamsungTVPlus/ESBC4700002TD.m3u8
