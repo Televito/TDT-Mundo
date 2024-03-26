@@ -129,7 +129,7 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w1706506515_b2
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a8Wirrz.png", TV Senado | HD | Valparaíso
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/S5eaLyS.png", CGTN en español | HD | China
+#EXTINF: -1 tvg-logo="https://i.imgur.com/S5eaLyS.png", CGTN en español | SD | China
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YqFOB1h.png", DW en español | HD | Alemania
@@ -138,7 +138,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/s2sqlOG.png", Euronews | HD | Francia
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/VSQogJt.png", RT Español | HD | Rusia
+#EXTINF: -1 tvg-logo="https://i.imgur.com/VSQogJt.png", RT Español | FHD | Rusia
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FuDdh5V.png", Love The Planet | HD | Corea
@@ -156,13 +156,13 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tYJcgX6.png", Vix TUDN | HD | México
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OR6mxRB.png", Energeek | HD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OR6mxRB.png", Energeek | FHD | Chile
 https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0XRgVJO.png", Gogoplay | HD | Bolivia
 https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/zm2zree.png", Latinokids  | HD | Uruguay
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zm2zree.png", Latinokids  | SD | Uruguay
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4Wi6WcF.png", Dreiko TV | HD | Panamá
@@ -171,11 +171,11 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bcr0njT.png", TVN Panamá | HD | Panamá
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rpADcZw.png", TVP | HD | Argentina
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rpADcZw.png", TVP | FHD | Argentina
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zEjHUot.png", Canal 4 Jujuy | HD | Argentina
-https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w402472883_b2016000.m3u8
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q6BQ5YO.png", Canal 7 Jujuy | HD | Argentina
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w279385552_b1146880.m3u8
