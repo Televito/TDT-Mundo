@@ -1,12 +1,12 @@
 #EXTM3U 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9kp68rx.png", TV+ | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9kp68rx.png", TV+ | FHD | Santiago
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/NA58C2K.png", Canal 2 | HD | Quellón
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NA58C2K.png", Canal 2 | FHD | Quellón
 https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png", TVN3 | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png", TVN3 | FHD | Santiago
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/N9VL9Hq.png", La Red | HD | Santiago
@@ -21,16 +21,16 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Vt424Nn.png", TVN Chile | HD | Santiago
 https://marine2.miplay.cl/tvnchile/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/xT96FzL.png", Bio Bio TV | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xT96FzL.png", Bio Bio TV | FHD | Santiago
  https://jireh-1-hls-video-cl-movistar.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CVImFf1.png", Canal 9 Bio Bio | HD | Concepción
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png", Mega | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png", Mega | SD | Santiago
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/IWulKg2.png", Universidad de Chile TV | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IWulKg2.png", Universidad de Chile TV | FHD | Santiago
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AlAXBgI.png", Corcubío | HD | Concepción
@@ -39,35 +39,35 @@ http://45.225.95.154:8081/mcg/corcubio/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/A4qzem2.png", Canal 13 (Kodi) | HD | Santiago
 https://m3u.cl/channel/c13.php
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/F3sDlSe.png", Canal 13 Cultura | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/F3sDlSe.png", Canal 13 Cultura | FHD | Santiago
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/5y85xPh.png", https://i.imgur.com/5tuH8aJ.pngCanal 13 Entretención | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5y85xPh.png", Canal 13 Entretención | FHD | Santiago
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ENlQPXq.png", Canal 13 Festival | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ENlQPXq.png", Canal 13 Festival | FHD | Santiago
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/if7spE1.png", Canal 13 Humor | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/if7spE1.png", Canal 13 Humor | FHD | Santiago
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wN2kyz8.png", Canal 13 Kids | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wN2kyz8.png", Canal 13 Kids | FHD | Santiago
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/5Lt8cAN.png", Canal 13 Prime | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5Lt8cAN.png", Canal 13 Prime | FHD | Santiago
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wybeCxw.png", Canal 13 Realities | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wybeCxw.png", Canal 13 Realities | FHD | Santiago
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J9O6HlB.png", Canal 21  | HD | Chillán
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/3dSTXEv.png", Canal 13 Teleseries | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3dSTXEv.png", Canal 13 Teleseries | FHD | Santiago
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/GyTo4Qw.png", Tele 13 | HD | Santiago
-https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/xO40xQy.png", Canal 24 Horas | HD | Santiago
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
