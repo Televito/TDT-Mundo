@@ -36,8 +36,8 @@ https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AlAXBgI.png", Corcubío | HD | Concepción
 http://45.225.95.154:8081/mcg/corcubio/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/A4qzem2.png", Canal 13 | HD | Santiago
-https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/e40e3efb-f4db-40f7-9604-47a53381df97:SCL/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/A4qzem2.png", Canal 13 (Kodi) | HD | Santiago
+https://m3u.cl/channel/c13.php
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/F3sDlSe.png", Canal 13 Cultura | HD | Santiago
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
