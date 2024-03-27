@@ -1,12 +1,3 @@
-Como usar esta lista en Kodi:
-habilitar PVR IPTV Simple Client en PVR Addons
-en la configuracion de PVR IPTV Simple Client elegir remote path y agregar https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-desmarcar la opcion de guardar la lista en cache. (asi la lista se actualizara automaticamente)
-
-Ultima actualizacion: 27/03/2024
-
-************************
-
 #EXTM3U 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9kp68rx.png", TV+ | FHD | Santiago
