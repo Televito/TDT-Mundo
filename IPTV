@@ -72,10 +72,10 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF: -1 tvg-logo="https://i.imgur.com/xO40xQy.png", Canal 24 Horas | HD | Santiago
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/5tuH8aJ.png", Chilevisión Noticias | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5tuH8aJ.png", Chilevisión Noticias | FHD | Santiago
 https://jireh-2-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_2500.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/4jfpXWw.png", TVR | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/4jfpXWw.png", TVR | FHD | Santiago
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LmAvzCI.png", Raices Árabes TV | HD | Santiago
@@ -87,7 +87,7 @@ https://oracle.streaminghd.cl/8126/8126/chunklist_w759863669.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OLMi5W4.png", Iquique TV | HD | Iquique
 https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/x68lG59.png", Antofagasta TV | HD | Iquique
+#EXTINF: -1 tvg-logo="https://i.imgur.com/x68lG59.png", Antofagasta TV | FHD | Antofagasta
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PP5wnz6.png", Atacama  TV | HD | Copiapó
@@ -96,16 +96,16 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vJorDzd.png", Sextavisión | HD | Rancagua
 https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AI2g0aV.png", UTV  | HD | San Clemente
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AI2g0aV.png", UTV  | FHD | San Clemente
 https://v2.tustreaming.cl/utv/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/X82hjRG.png", UTalca TV  | HD | Talca
 https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Ix0cPBq.png", Ufrovisión  | HD | Temuco
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Ix0cPBq.png", Ufrovisión  | FHD | Temuco
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/kRi7P1B.png", Contivisión | HD | Constitución
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9DmZeHt.png", Contivisión | HD | Constitución
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Sgawacf.png", TV Chile | HD | Santiago
@@ -114,10 +114,10 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AuTwvOW.png", Iglesia en San Bernardo| HD | San Bernardo
 https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3DZpOJ5.png", EWTN en español| HD | Estados Unidos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DZpOJ5.png", EWTN en español | HD | Estados Unidos
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/ss8djzjv/720/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BUdu8HC.png", Mariavisión| FHD | México
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUdu8HC.png", Mariavisión | FHD | México
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZOz91SH.png", Canal Diocesano | HD | España
@@ -126,13 +126,13 @@ https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BQuaYMo.png", Orbe 21 | HD | Argentina
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w1706506515_b2211840.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/a8Wirrz.png", TV Senado | HD | Valparaíso
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a8Wirrz.png", TV Senado | SD | Valparaíso
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/S5eaLyS.png", CGTN en español | SD | China
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/YqFOB1h.png", DW en español | HD | Alemania
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YqFOB1h.png", DW en español | FHD | Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/s2sqlOG.png", Euronews | HD | Francia
@@ -141,19 +141,19 @@ https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/VSQogJt.png", RT Español | FHD | Rusia
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/FuDdh5V.png", Love The Planet | HD | Corea
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FuDdh5V.png", Love The Planet | FHD | España
 https://i.mjh.nz/SamsungTVPlus/ESBC4700002TD.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ux1ZxfN.png", Cocina TV | HD | México
 https://linear-317.frequency.stream/dist/vix/317/hls/master/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AwNVJPF.png", Somos Cultura 24/7 | HD | Panamá
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AwNVJPF.png", Somos Cultura 24/7 | FHD | Panamá
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ngdPQH8.png", Tigo Sports | HD | Panamá
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/tYJcgX6.png", Vix TUDN | HD | México
+#EXTINF: -1 tvg-logo="https://i.imgur.com/tYJcgX6.png", Vix TUDN | FHD | México
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OR6mxRB.png", Energeek | FHD | Chile
@@ -189,8 +189,11 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUCtN42.png", Canal 13 San Luis | HD | Argentina
 https://stream.arcast.live/sanluismas/ngrp:sanluismas_all/chunklist_w1640380957_b1596000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AojvATv.png", Ecuador TV | HD | Ecuador
-https://samson.streamerr.co:8081/akira/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5wmugo9.png", Mega TV  | HD | Puerto Rico
+https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Is3j3hP.png", Tele 11  | HD | Puerto Rico
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tcnx3uk.png", Señal Colombia | HD | Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/live.smil/chunklist_b1500000.m3u8
