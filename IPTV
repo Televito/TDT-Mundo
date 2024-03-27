@@ -144,6 +144,9 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FuDdh5V.png", Love The Planet | FHD | España
 https://i.mjh.nz/SamsungTVPlus/ESBC4700002TD.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pQ9Z5iH.png", Pluto TV Naturaleza | HD | México
+https://r.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ux1ZxfN.png", Cocina TV | HD | México
 https://linear-317.frequency.stream/dist/vix/317/hls/master/playlist.m3u8
 
@@ -210,6 +213,12 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tehG6Zt.png", Canal 14 | HD | México
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/edCWjK7.png", Classic Arts Showcase | HD | Estados Unidos
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wUscyaf.png", K-Pop TV | HD | Brasil
+https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMWvZ36.jpg", Kronehit| HD | Austria
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
 
@@ -236,6 +245,15 @@ http://rtmp.one.by:1300/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bWgEk0u.png", 1Muz | HD | Rusia
 http://rtmp.one.by:2300/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XZC94om.png", RUTV | FHD | Rusia
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5YqgUOZ.png", TNT Music | FHD | Rusia
+https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUgsIhO.png", Viva| FHD | Rusia
+https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gIVnzS0.png", Muzzik Rock | HD | Bosnia y Herzegobina
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
@@ -284,7 +302,6 @@ http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HL7fwzt.png", Afrobeats | FHD | Reino Unido
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-
 
 
 
