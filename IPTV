@@ -270,19 +270,19 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo ="https://i.imgur.com/0DrE9eT.png", KurdMax Music | HD |Kurdistán Iraquí
 http://31.14.40.139:1935/music/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://arabicagroup.tv/images/logo.png", Arabica Music | HD | Líbano
+#EXTINF:-1 tvg-logo="http://arabicagroup.tv/images/logo.png", Arabica Music | FHD | Líbano
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1LRxlPE.png", Balle Balle | HD | India
 https://mcncdndigital.com/balleballetv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fQUzBsz.png", TMA | HD | Islas Guadalupe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fQUzBsz.png", TMA | FHD | Islas Guadalupe
 http://hls.tmacaraibes.com/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NqDbDL6.png", Play TV | HD | Camerún
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HL7fwzt.png", Afrobeats | HD | Reino Unido
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HL7fwzt.png", Afrobeats | FHD | Reino Unido
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 
 
