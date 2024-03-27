@@ -1,4 +1,14 @@
+
 #EXTM3U 
+
+Como usar esta lista en Kodi:
+habilitar PVR IPTV Simple Client en PVR Addons
+en la configuracion de PVR IPTV Simple Client elegir remote path y agregar https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
+desmarcar la opcion de guardar la lista en cache. (asi la lista se actualizara automaticamente)
+
+************************
+
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9kp68rx.png", TV+ | FHD | Santiago
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
@@ -144,9 +154,6 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FuDdh5V.png", Love The Planet | FHD | España
 https://i.mjh.nz/SamsungTVPlus/ESBC4700002TD.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/pQ9Z5iH.png", Pluto TV Naturaleza | HD | México
-https://r.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ux1ZxfN.png", Cocina TV | HD | México
 https://linear-317.frequency.stream/dist/vix/317/hls/master/playlist.m3u8
 
@@ -219,7 +226,7 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wUscyaf.png", K-Pop TV | HD | Brasil
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XMWvZ36.jpg", Kronehit| HD | Austria
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XMWvZ36.jpg", Kronehit| SD | Austria
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UQqkcJX.png", Retro TV | SD | Chequia
@@ -285,7 +292,7 @@ https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tpRNE1r.png", TRT Müzik| HD | Turquía
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo ="https://i.imgur.com/0DrE9eT.png", KurdMax Music | HD |Kurdistán Iraquí
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0DrE9eT.png", KurdMax Music | HD |Kurdistán Iraquí
 http://31.14.40.139:1935/music/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://arabicagroup.tv/images/logo.png", Arabica Music | FHD | Líbano
