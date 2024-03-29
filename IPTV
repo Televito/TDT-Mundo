@@ -30,11 +30,14 @@ https://unlimited1-cl-isp.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png", Mega | SD | Santiago
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/IWulKg2.png", Universidad de Chile TV | FHD | Santiago
-https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nlLc8GA.png", Chilevisión | FHD | Santiago
+https://jireh-2-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_4000.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AlAXBgI.png", Corcubío | HD | Concepción
 http://45.225.95.154:8081/mcg/corcubio/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/A4qzem2.png", Canal 13 | HD | Santiago
+https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/1d6acbab-7809-4067-9f1c-f7cd0dd1cffe:SCL/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2305600.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/A4qzem2.png", Canal 13 (Kodi) | HD | Santiago
 https://m3u.cl/channel/c13.php
@@ -57,23 +60,26 @@ https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5Lt8cAN.png", Canal 13 Prime | FHD | Santiago
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wybeCxw.png", Canal 13 Realities | FHD | Santiago
-https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J9O6HlB.png", Canal 21  | HD | Chillán
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wybeCxw.png", Canal 13 Realities | FHD | Santiago
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3dSTXEv.png", Canal 13 Teleseries | FHD | Santiago
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/GyTo4Qw.png", Tele 13 | HD | Santiago
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/xO40xQy.png", Canal 24 Horas | HD | Santiago
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GyTo4Qw.png", Tele 13 | HD | Santiago
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5tuH8aJ.png", Chilevisión Noticias | FHD | Santiago
 https://jireh-2-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_2500.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IWulKg2.png", Universidad de Chile TV | FHD | Santiago
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4jfpXWw.png", TVR | FHD | Santiago
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
@@ -158,6 +164,15 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OR6mxRB.png", Energeek | FHD | Chile
 https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nhzpu53.png", Pandamax | FHD | Chile
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/V5LhZTo.png", Animestation | HD | Canadá
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/q2Fd958.png", Big Channel | SD | Argentina
+https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0XRgVJO.png", Gogoplay | HD | Bolivia
 https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
