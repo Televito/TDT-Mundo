@@ -163,7 +163,10 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OR6mxRB.png", Energeek | FHD | Chile
-https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
+https://wifiexpert-1.energeek.cl/energeek/canal-1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KwYvaKL.png", Fanpop | FHD | Chile
+https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nhzpu53.png", Pandamax | FHD | Chile
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
@@ -216,11 +219,8 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/live.smil/chunklist_b150000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Waqc5qZ.png", RCN Más | HD | Colombia
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VNyJkMl.png", Telemedellín | HD | Colombia
-https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index_11_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AgwyYZp.png", Azteca Uno | HD | México
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gXsjpxD.png", Canal Sur Andalucía | HD | España
+https://cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tehG6Zt.png", Canal 14 | HD | México
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
