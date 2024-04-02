@@ -165,9 +165,6 @@ https://linear-317.frequency.stream/dist/vix/317/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AwNVJPF.png", Somos Cultura 24/7 | FHD | Panamá
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ngdPQH8.png", Tigo Sports | HD | Panamá
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tYJcgX6.png", Vix TUDN | FHD | México
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
@@ -175,7 +172,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 https://wifiexpert-1.energeek.cl/energeek/canal-1/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KwYvaKL.png", Fanpop | FHD | Chile
-https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
+https://wifiexpert-1.energeek.cl/energeek/canal-2/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nhzpu53.png", Pandamax | FHD | Chile
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
@@ -198,7 +195,7 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bcr0njT.png", TVN Panamá | HD | Panamá
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s5rPNIW.png", Nex TV | HD | Panamá
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s5rPNIW.png", Nex TV | FHD | Panamá
 https://vcp4.myplaytv.com/nextv/nextv/.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rpADcZw.png", TVP | FHD | Argentina
@@ -246,7 +243,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3
 #EXTINF: -1 tvg-logo="https://i.imgur.com/57Mzf8U.png", La 1 | HD | España
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9pjKJuP.png", Telemadrid | HD | España
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NNTs80p.png", Telemadrid | HD | España
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gXsjpxD.png", Canal Sur Andalucía | HD | España
@@ -331,9 +328,6 @@ https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tpRNE1r.png", TRT Müzik| HD | Turquía
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0DrE9eT.png", KurdMax Music | HD |Kurdistán Iraquí
-http://31.14.40.139:1935/music/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://arabicagroup.tv/images/logo.png", Arabica Music | FHD | Líbano
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
@@ -343,11 +337,8 @@ https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fQUzBsz.png", TMA | FHD | Islas Guadalupe
 http://hls.tmacaraibes.com/live/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NqDbDL6.png", Play TV | HD | Camerún
-http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HL7fwzt.png", Afrobeats | FHD | Reino Unido
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fdb6nDF.png", Miami TV | FHD | Estados Unidos
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/chunklist_w43123525_b1896000.m3u8
