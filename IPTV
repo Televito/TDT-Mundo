@@ -15,8 +15,8 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hiDXUNN.png", TV5 | HD | Linares
 https://unlimited1-cl-isp.dps.live/tv5/tv5.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/FuDdh5V.png", Love The Planet | FHD | España
-https://i.mjh.nz/SamsungTVPlus/ESBC4700002TD.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6EHqEs2.png", NTV | HD | Santiago
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Vt424Nn.png", TVN Chile | HD | Santiago
 https://marine2.miplay.cl/tvnchile/mono.m3u8
@@ -111,6 +111,9 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4jfpXWw.png", TVR | FHD | Santiago
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/02KUprb.png", Wapp TV | HD | Santiago
+https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LmAvzCI.png", Raices Árabes TV | HD | Santiago
 https://tv.streaming-chile.com:1936/raicesarabestv/raicesarabestv/playlist.m3u8
 
@@ -138,20 +141,29 @@ https://5ff3d9babae13.streamlock.net/8014/8014/chunklist_w79920185.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AI2g0aV.png", UTV  | FHD | San Clemente
 https://v2.tustreaming.cl/utv/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/nNrHC0k.png", Canal 11 | HD | Curicó
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nNrHC0k.png", Canal 11 | FHD | Curicó
 https://unlimited1-cl-isp.dps.live/tvrcurico/tvrcurico.smil/tvrcurico/livestream1/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/X82hjRG.png", UTalca TV  | HD | Talca
 https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/aKiFxMh.png", El Centro TV  | FHD | Talca
+https://v1.tustreaming.cl:443/diarioelcentrotv/index.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9DmZeHt.png", Contivisión | HD | Constitución
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/sI69ux1.png", Concepción TV  | FHD | Concepción
+https://stream.blserver.cl/hls/ctv/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sU0PwHK.png", Club TV  | HD | Santa Juana
 https://stmv5.voxtvhd.com.br/clubtv/clubtv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ix0cPBq.png", Ufrovisión  | FHD | Temuco
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/t95ffDP.jpeg", El Pingüino  | FHD | Punta Arenas
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Sgawacf.png", TV Chile | HD | Santiago
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
@@ -192,6 +204,9 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AmgUhiL.png", Hispan TV | SD | Irán
 https://cdnlive.presstv.ir/live/live.smil/.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FuDdh5V.png", Love The Planet | FHD | España
+https://i.mjh.nz/SamsungTVPlus/ESBC4700002TD.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ux1ZxfN.png", Cocina TV | HD | México
 https://linear-317.frequency.stream/dist/vix/317/hls/master/playlist.m3u8
 
@@ -201,7 +216,7 @@ https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tYJcgX6.png", Vix TUDN | FHD | México
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/cEnuCa2.png", Anime Tal Tal TV  | SD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/cEnuCa2.png", Anime Tal Tal TV  | HD | Chile
 https://rpn3.bozztv.com/ssh101/ssh101/taltal/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hj0vYMv.png", Planeta TV Kids  | FHD | Chile
@@ -243,6 +258,9 @@ https://vcp4.myplaytv.com/nextv/nextv/.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rpADcZw.png", TVP | FHD | Argentina
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/e8DQzOS.png", Net TV | FHD | Argentina
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zEjHUot.png", Canal 4 Jujuy | HD | Argentina
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 
@@ -264,11 +282,14 @@ http://hls1.sua.tv/live/globosphd/s.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ikLZaoD.png", Trece | FHD | Paraguay
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmGGC3P.png", Unicanal | HD | Paraguay
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OlBGjX4.png", TV Perú| HD | Perú
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5wmugo9.png", Mega TV  | HD | Puerto Rico
-https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aJZr2i.png", Panamericana | SD | Perú
+https://cdnhd.iblups.com/hls/ptv5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Is3j3hP.png", Tele 11  | HD | Puerto Rico
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -282,8 +303,8 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BLG2dtR.png", TVE Internacional | HD | España
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/57Mzf8U.png", La 1 | HD | España
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zUNQhzl.png", El Toro | HD | España
+https://edge-nodo-001.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NNTs80p.png", Telemadrid | HD | España
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
