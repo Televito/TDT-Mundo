@@ -90,7 +90,7 @@ https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ITx0PpJ.png", UESTV | FHD | Santiago
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CAKZqVT.png", Tendencias Prime | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CAKZqVT.png", Tendencias Prime | FHD | Santiago
 https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/V6SjNfS.png", UATV | FHD | Temuco
@@ -99,10 +99,10 @@ https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BEUjEhQ.png", ULagos TV  | FHD | Osorno
 https://tv.ulagos.cl/web/live.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/kX2DbwS.png", Umag TV  | FHD | Punta Arenas
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kX2DbwS.png", Umag TV  | HD | Punta Arenas
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/a1Y4HnJ.png", Umag2 TV  | FHD | Punta Arenas
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a1Y4HnJ.png", Umag2 TV  | HD | Punta Arenas
 https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/V9gEcqs.png", +Cine | FHD | Chile
@@ -132,20 +132,26 @@ https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vJorDzd.png", Sextavisión | HD | Rancagua
 https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9iwyRJw.png", TVO | HD | San Vicente de Tagua Tagua
+https://5ff3d9babae13.streamlock.net/8014/8014/chunklist_w79920185.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AI2g0aV.png", UTV  | FHD | San Clemente
 https://v2.tustreaming.cl/utv/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nNrHC0k.png", Canal 11 | HD | Curicó
+https://unlimited1-cl-isp.dps.live/tvrcurico/tvrcurico.smil/tvrcurico/livestream1/chunks.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/X82hjRG.png", UTalca TV  | HD | Talca
 https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9DmZeHt.png", Contivisión | HD | Constitución
+https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sU0PwHK.png", Club TV  | HD | Santa Juana
 https://stmv5.voxtvhd.com.br/clubtv/clubtv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ix0cPBq.png", Ufrovisión  | FHD | Temuco
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9DmZeHt.png", Contivisión | HD | Constitución
-https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Sgawacf.png", TV Chile | HD | Santiago
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
@@ -194,6 +200,9 @@ https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tYJcgX6.png", Vix TUDN | FHD | México
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/cEnuCa2.png", Anime Tal Tal TV  | SD | Chile
+https://rpn3.bozztv.com/ssh101/ssh101/taltal/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hj0vYMv.png", Planeta TV Kids  | FHD | Chile
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
