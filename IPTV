@@ -84,6 +84,9 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4ZLt6ep.png", UCV2  | HD | Valparaíso
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Sgawacf.png", TV Chile | HD | Santiago
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QnCa8IQ.png", TVU  | HD | Concepción
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 
@@ -110,9 +113,6 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4jfpXWw.png", TVR | FHD | Santiago
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/02KUprb.png", Wapp TV | HD | Santiago
-https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LmAvzCI.png", Raices Árabes TV | HD | Santiago
 https://tv.streaming-chile.com:1936/raicesarabestv/raicesarabestv/playlist.m3u8
@@ -164,9 +164,6 @@ https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/t95ffDP.jpeg", El Pingüino  | FHD | Punta Arenas
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Sgawacf.png", TV Chile | HD | Santiago
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AuTwvOW.png", Iglesia en San Bernardo| HD | San Bernardo
 https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
