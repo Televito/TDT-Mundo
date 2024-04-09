@@ -111,6 +111,9 @@ https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/V9gEcqs.png", +Cine | FHD | Chile
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lMqhYnr.png", Telenorte  | FHD | Chile
+https://stream.wifiexpert.cl/telenorte/canal-1/chunks.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4jfpXWw.png", TVR | FHD | Santiago
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
 
@@ -129,8 +132,14 @@ https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PP5wnz6.png", Atacama  TV | HD | Copiapó
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DdBgtNW.gif", Enfoque Digital | HD | Vallenar
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/jK2XA8k.png", Thema  TV | HD | La Serena
 https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/B1TjJfy.png", TV Costa | HD | Algarrobo
+https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vJorDzd.png", Sextavisión | HD | Rancagua
 https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
@@ -180,6 +189,12 @@ https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BQuaYMo.png", Orbe 21 | HD | Argentina
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w1706506515_b2211840.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lg5VRFT.png", Cetelmon  | SD | España
+http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/51i3k6s.png", TV Familia | SD | Venezuela
+https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QlG4uOO.png", Cámara de Diputados TV | SD | Valparaíso
 https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8
 
@@ -206,6 +221,18 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4700002TD.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ux1ZxfN.png", Cocina TV | HD | México
 https://linear-317.frequency.stream/dist/vix/317/hls/master/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EQhKDuN.png", Garage TV | SD | Argentina
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/jfHuLuD.png", CineAr | SD | Argentina
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/2Ld23bt.png", Cinerama Televisión  | SD | Bolivia
+https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/iF3yxDg.png", BBC Drama | SD | Reino Unido
+https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/e5af926b-17ad-4944-8830-83e0fdcb3b14/2.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AwNVJPF.png", Somos Cultura 24/7 | FHD | Panamá
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
@@ -273,6 +300,9 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUCtN42.png", Canal 13 San Luis | HD | Argentina
 https://stream.arcast.live/sanluismas/ngrp:sanluismas_all/chunklist_w1640380957_b1596000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N1iL4ka.png", Tierra Mía  | HD | Argentina
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FsBlNug.png", Globo  | HD | Brasil
 http://hls1.sua.tv/live/globosphd/s.m3u8
 
@@ -281,6 +311,9 @@ https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmGGC3P.png", Unicanal | HD | Paraguay
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mHShEXh.png", Somos del Este | SD | Paraguay
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OlBGjX4.png", TV Perú| HD | Perú
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
@@ -300,11 +333,26 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BLG2dtR.png", TVE Internacional | HD | España
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7XwETL5.png", Radio Televisión Ceuta | HD | España
+https://cdnlive.codev8.net/rtvcelive/channel1.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KUpHN7Y.png", Distrito TV | HD | España
+https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ApfAKU6.png", Fibwi | HD | España
+https://hostcdn3.fibwi.com/fibwi_diario/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ZPHGQgv.png", Teletoledo | HD | España
+https://cloud.fastchannel.es/mic/manifiest/hls/teletoledo/teletoledo.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zUNQhzl.png", El Toro | HD | España
 https://edge-nodo-001.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NNTs80p.png", Telemadrid | HD | España
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ePzwDYe.png", 8 La Marina Televisión | HD | España
+https://streaming005.gestec-video.com/hls/canal24.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gXsjpxD.png", Canal Sur Andalucía | HD | España
 https://cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/.m3u8
@@ -312,15 +360,38 @@ https://cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKZJmZz.png", Torolé | HD | España
 https://media1.ultrik.com/live/torole1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnfKrUu.png", Lancelot | SD | España
+https://5c0956165db0b.streamlock.net/directo/lancelot.television/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tehG6Zt.png", Canal 14 | HD | México
+https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tehG6Zt.png", Canal 14 | HD | México
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fqv1p9N.jpeg", Music Top | HD | Argentina
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fqv1p9N.jpeg", Latina TV | HD | Argentina
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edCWjK7.png", Classic Arts Showcase | HD | Estados Unidos
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NxrYjSQ.png", California Music Channel | HD | Estados Unidos
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NxrYjSQ.png", California Music Channel USA | HD | Estados Unidos
+https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wUscyaf.png", K-Pop TV | HD | Brasil
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wQIfUqp.png", Company TV | HD | Italia
+https://5929b138b139d.streamlock.net/CompanyTV/CompanyTV.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1jtLOv.png", 4 You TV | HD | Italia
+https://streamsrv2.nets-sr.com:19360/4youtv/passthru.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMWvZ36.jpg", Kronehit| SD | Austria
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
@@ -381,6 +452,12 @@ https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gIVnzS0.png", Muzzik Flashback | HD | Bosnia y Herzegobina
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JE4B0a1.png", Rock TV | HD | Rumanía
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaCjKdD.png", Kiss TV | HD | Rumanía
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v81p3HU.png", Dream Türk TV| HD | Turquía
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
