@@ -129,6 +129,9 @@ https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/x68lG59.png", Antofagasta TV | FHD | Antofagasta
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8B76KiZ.png", TV Norte | HD | Antofagasta
+https://v4.tustreaming.cl/tvnortedigital/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PP5wnz6.png", Atacama  TV | HD | Copiapó
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 
@@ -140,6 +143,9 @@ https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B1TjJfy.png", TV Costa | HD | Algarrobo
 https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ocZGrm7.png", Canal 2 | HD | San Antonio
+https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vJorDzd.png", Sextavisión | HD | Rancagua
 https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
@@ -162,6 +168,9 @@ https://v1.tustreaming.cl:443/diarioelcentrotv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9DmZeHt.png", Contivisión | HD | Constitución
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/fTtjIbB.png", Televida | HD | Chillán
+https://tls-cl.cdnz.cl/televida/live/chunklist_w525710369.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sI69ux1.png", Concepción TV  | FHD | Concepción
 https://stream.blserver.cl/hls/ctv/index.m3u8
 
@@ -170,6 +179,12 @@ https://stmv5.voxtvhd.com.br/clubtv/clubtv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ix0cPBq.png", Ufrovisión  | FHD | Temuco
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hjKvNvU.png", Pucón TV | FHD | Pucón
+https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/pucontv/livestream1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qdn60PX.png", T-Vinet | HD | Osorno
+https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/inet2/livestream1/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/t95ffDP.jpeg", El Pingüino  | FHD | Punta Arenas
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
@@ -188,6 +203,9 @@ https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/in
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BQuaYMo.png", Orbe 21 | HD | Argentina
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w1706506515_b2211840.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snhgxYC.png", JN19 | HD | Perú
+https://servilive.com:3028/live/jntv19live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lg5VRFT.png", Cetelmon  | SD | España
 http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
@@ -264,6 +282,12 @@ https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/q2Fd958.png", Big Channel | SD | Argentina
 https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KUETG3N.png", Varied TV | HD | Argentina
+https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8  
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hc1Lvl7.png", Retro Magico | SD | Argentina
+https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0XRgVJO.png", Gogoplay | HD | Bolivia
 https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
@@ -281,6 +305,9 @@ https://vcp4.myplaytv.com/nextv/nextv/.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rpADcZw.png", TVP | FHD | Argentina
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ExukbI3.png", Litus | FHD | Argentina
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/chunklist_w1261931745_b1531904.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/e8DQzOS.png", Net TV | FHD | Argentina
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
@@ -315,20 +342,44 @@ https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mHShEXh.png", Somos del Este | SD | Paraguay
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mNfwWeF.png", Mi TV | HD | Paraguay
+https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w826452380.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OlBGjX4.png", TV Perú| HD | Perú
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GedCMa7.png", Tumpis | HD | Perú
+https://servilive.com:3531/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIAzAR9.png", Telecolor | HD | Perú
+https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1aJZr2i.png", Panamericana | SD | Perú
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Kq4yEN.png", Canal 8 Catacaos | SD | Perú
+https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j7BCzC0.png", Genios | HD | Perú
+https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Is3j3hP.png", Tele 11  | HD | Puerto Rico
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fZ1Er43.png", Ecuavisa | FHD | Ecuador
+https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tcnx3uk.png", Señal Colombia | HD | Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/live.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Waqc5qZ.png", RCN Más | HD | Colombia
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HsyJs4r.png", CTV Barranquilla | HD | Colombia
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1546804286.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbkIP5Z.png", TDI | HD | Colombia
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BLG2dtR.png", TVE Internacional | HD | España
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
@@ -375,6 +426,9 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fqv1p9N.jpeg", Latina TV | HD | Argentina
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6ferjpF.png", Top Latino | SD | Perú
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1166893247.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edCWjK7.png", Classic Arts Showcase | HD | Estados Unidos
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
@@ -384,8 +438,14 @@ https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NxrYjSQ.png", California Music Channel USA | HD | Estados Unidos
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EQvUmfU.png", Oldies Hits | SD | Costa Rica
+https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w1176611344.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wUscyaf.png", K-Pop TV | HD | Brasil
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kpxLnwV.png", Top TV | HD | Brasil
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wQIfUqp.png", Company TV | HD | Italia
 https://5929b138b139d.streamlock.net/CompanyTV/CompanyTV.smil/.m3u8
