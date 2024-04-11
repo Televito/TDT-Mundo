@@ -72,7 +72,7 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF: -1 tvg-logo="https://i.imgur.com/xO40xQy.png", Canal 24 Horas | HD | Santiago
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/5tuH8aJ.png", Chilevisión Noticias | FHD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nlLc8GA.png", Chilevisión | FHD | Santiago | Alt.
 https://jireh-2-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_2500.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/IWulKg2.png", Universidad de Chile TV | FHD | Santiago
