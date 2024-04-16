@@ -66,11 +66,14 @@ https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3dSTXEv.png", Canal 13 Teleseries | FHD | Santiago
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/GyTo4Qw.png", Tele 13 | HD | Santiago
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GyTo4Qw.png", Tele 13 | FHD | Santiago
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/xO40xQy.png", Canal 24 Horas | HD | Santiago
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XrwH0ee.png", Tele 13 Radio | FHD | Santiago
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nlLc8GA.png", Chilevisión | FHD | Santiago | Alt.
 https://jireh-2-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_2500.m3u8
@@ -87,14 +90,14 @@ https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Sgawacf.png", TV Chile | HD | Santiago
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CAKZqVT.png", Tendencias Prime | FHD | Santiago
+https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QnCa8IQ.png", TVU  | HD | Concepción
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ITx0PpJ.png", UESTV | FHD | Santiago
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CAKZqVT.png", Tendencias Prime | FHD | Santiago
-https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/V6SjNfS.png", UATV | FHD | Temuco
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
@@ -111,8 +114,14 @@ https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/V9gEcqs.png", +Cine | FHD | Chile
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/lMqhYnr.png", Telenorte  | FHD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lMqhYnr.png", Telenorte  | FHD | Algarrobo
 https://stream.wifiexpert.cl/telenorte/canal-1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PzuteqP.png", Marga Marga TV  | HD | Valparaíso
+https://v1.tustreaming.cl/margamargatv/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oe76IC2.png", Estación TV  | HD | Limache
+https://v4.tustreaming.cl/limachemovil/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4jfpXWw.png", TVR | FHD | Santiago
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
@@ -165,6 +174,12 @@ https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/aKiFxMh.png", El Centro TV  | FHD | Talca
 https://v1.tustreaming.cl:443/diarioelcentrotv/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ZGIzBKq.png", Nativa TV  | FHD | Talca
+https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Nu1kY5L.png", VLTV  | FHD | San Javier
+https://tv.streaming-chile.com:19360/vltv/vltv.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9DmZeHt.png", Contivisión | HD | Constitución
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 
@@ -174,8 +189,17 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w525710369.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sI69ux1.png", Concepción TV  | FHD | Concepción
 https://stream.blserver.cl/hls/ctv/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yjYuZSV.png", Click TV | HD | Coronel
+https://v2.tustreaming.cl/clicktv/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/14y2KDF.png", Radio Televisión Araucanía  | SD | Laja
+https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sU0PwHK.png", Club TV  | HD | Santa Juana
 https://stmv5.voxtvhd.com.br/clubtv/clubtv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/amjTTmC.png", Temuco Televisión  | HD | Temuco
+https://vdo.streaming-chile.com/p/3994/live/temucotelevisionlive.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ix0cPBq.png", Ufrovisión  | FHD | Temuco
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
@@ -183,8 +207,41 @@ https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hjKvNvU.png", Pucón TV | FHD | Pucón
 https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/pucontv/livestream1/chunks.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SJHrL1d.png", Lanco TV | HD | Lanco
+https://5e3483cba9114.streamlock.net/hfvhxfwxjm/hfvhxfwxjm/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/aeNI2G4.png", Osorno TV+| HD | Osorno
+https://panel.tvstream.cl:1936/8036/8036/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qdn60PX.png", T-Vinet | HD | Osorno
 https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/inet2/livestream1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/QwHIQcu.png", Visión TV | HD | Frutillar
+https://5eaccbab48461.streamlock.net:1936/8260/8260/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zCMamnq.png", Canal 5 | FHD | Puerto Montt
+https://stmv5.voxtvhd.com.br/canal5/canal5/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/TUz4zSi.png", Décima TV | HD | Ancud
+https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ADRhjOw.png", Castro TV | HD | Castro
+https://videostream.chileservidores.com:8081/chiloe4/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hrwcxab.png", La Melinkana TV | HD | Puerto Melinka
+https://v1.tustreaming.cl/melinkana/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KuhTW9Q.png", Santa María TV | HD | Coyhaique
+https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OBRlKiA.png", Aysén TV | FHD | Coyhaique
+https://v1.tustreaming.cl/aysentv/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a17p8Dh.png", ITV | FHD | Punta Arenas
+https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/v90G22k.png", Soberanía TV | HD | Punta Arenas
+https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/t95ffDP.jpeg", El Pingüino  | FHD | Punta Arenas
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
@@ -249,7 +306,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2Ld23bt.png", Cinerama Televisión  | SD | Bolivia
 https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/iF3yxDg.png", BBC Drama | SD | Reino Unido
+#EXTINF: -1 tvg-logo="https://i.imgur.com/S275H1Q.png", BBC Drama | SD | Reino Unido
 https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/e5af926b-17ad-4944-8830-83e0fdcb3b14/2.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AwNVJPF.png", Somos Cultura 24/7 | FHD | Panamá
@@ -257,6 +314,7 @@ https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tYJcgX6.png", Vix TUDN | FHD | México
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cEnuCa2.png", Anime Tal Tal TV  | HD | Chile
 https://rpn3.bozztv.com/ssh101/ssh101/taltal/chunks.m3u8
@@ -348,8 +406,14 @@ https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w826452380.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OlBGjX4.png", TV Perú| HD | Perú
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/92bOxpy.png", América TV | HD | Perú
+https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GedCMa7.png", Tumpis | HD | Perú
 https://servilive.com:3531/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9E9h3Gd.png", Latina TV | HD | Perú
+https://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIAzAR9.png", Telecolor | HD | Perú
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
@@ -357,11 +421,17 @@ https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1aJZr2i.png", Panamericana | SD | Perú
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aJZr2i.png", Panamericana | HD | Perú
+https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Kq4yEN.png", Canal 8 Catacaos | SD | Perú
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j7BCzC0.png", Genios | HD | Perú
 https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qEIL7ks.png", Willax | HD | Perú
+https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Is3j3hP.png", Tele 11  | HD | Puerto Rico
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -414,7 +484,7 @@ https://media1.ultrik.com/live/torole1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnfKrUu.png", Lancelot | SD | España
 https://5c0956165db0b.streamlock.net/directo/lancelot.television/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tehG6Zt.png", Canal 14 | HD | México
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nBtmPHq.png", Mexiquense | HD | México
 https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tehG6Zt.png", Canal 14 | HD | México
