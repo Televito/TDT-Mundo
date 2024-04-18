@@ -111,9 +111,6 @@ https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a1Y4HnJ.png", Umag2 TV  | HD | Punta Arenas
 https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/V9gEcqs.png", +Cine | FHD | Chile
-https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/lMqhYnr.png", Telenorte  | FHD | Algarrobo
 https://stream.wifiexpert.cl/telenorte/canal-1/chunks.m3u8
 
@@ -472,11 +469,17 @@ https://edge-nodo-001.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NNTs80p.png", Telemadrid | HD | España
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ePzwDYe.png", 8 La Marina Televisión | HD | España
-https://streaming005.gestec-video.com/hls/canal24.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gXsjpxD.png", Canal Sur Andalucía | HD | España
 https://cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVk7J6n.png", Canal Sur  2  Andalucía | HD | España
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n5TECfO.png", Canal Sur Andalucía Cocina | HD | España
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5xy0trP.png", Canal Sur Andalucía Turismo | HD | España
+https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKZJmZz.png", Torolé | HD | España
 https://media1.ultrik.com/live/torole1.m3u8
