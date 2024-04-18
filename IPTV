@@ -469,6 +469,9 @@ https://edge-nodo-001.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NNTs80p.png", Telemadrid | HD | España
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6m20jCW.png", La Otra | HD | España
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gXsjpxD.png", Canal Sur Andalucía | HD | España
 https://cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/.m3u8
 
@@ -480,6 +483,33 @@ https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xy0trP.png", Canal Sur Andalucía Turismo | HD | España
 https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tFMWUL1.png", TV Municipal de Córdoba Andalucía | HD | España
+https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/chunklist_w1103743846.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wsFQFRi.png", Costa Noroeste TV Andalucía | HD | España
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cX2cgjz.png",  TV Centro Andalucía | HD | España
+https://video0.rogohosting.com:19360/8050/8050.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/026r9Xo.png", Elche 7 TV Andalucía | HD | España
+https://elche7tv.gestec-video.com/hls/canal2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cjghTdq.png", Televalencia | HD | España
+https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5vPX8ID.png", Canal 8 Mediterráneo | HD | España
+https://streaming004.gestec-video.com/hls/8TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n6JxBri.png", Diez TV Úbeda | HD | España
+https://streaming.cloud.innovasur.es/mmj/38194363.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n6JxBri.png", Diez TV Las Villas | HD | España
+https://streaming.cloud.innovasur.es/mmj2/64556616.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0P3ifTN.png", Onda Valencia | HD | España
+https://cloudvideo.servers10.com:8081/8116/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKZJmZz.png", Torolé | HD | España
 https://media1.ultrik.com/live/torole1.m3u8
@@ -495,9 +525,6 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fqv1p9N.jpeg", Music Top | HD | Argentina
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fqv1p9N.jpeg", Latina TV | HD | Argentina
-https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ferjpF.png", Top Latino | SD | Perú
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1166893247.m3u8
