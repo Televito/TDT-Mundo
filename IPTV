@@ -124,7 +124,7 @@ https://v4.tustreaming.cl/limachemovil/index.m3u8
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LmAvzCI.png", Raices Árabes TV | HD | Santiago
-https://tv.streaming-chile.com:1936/raicesarabestv/raicesarabestv/playlist.m3u8
+https://tv.streaming-chile.com:19360/raicesarabestv/raicesarabestv.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wheM0ma.png", La Granja TV | HD | La Granja
 https://oracle.streaminghd.cl/8126/8126/chunklist_w759863669.m3u8
@@ -340,7 +340,7 @@ https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KUETG3N.png", Varied TV | HD | Argentina
 https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8  
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hc1Lvl7.png", Retro Magico | SD | Argentina
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hc1Lvl7.png", Retro Magico | HD | Argentina
 https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0XRgVJO.png", Gogoplay | HD | Bolivia
@@ -348,6 +348,9 @@ https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zm2zree.png", Latinokids  | SD | Uruguay
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DQrkjNV.png", Educa TV | HD | Uruguay
+https://vid2.ecuamedia.net/educatv/live/chunklist_w360407637.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4Wi6WcF.png", Dreiko TV | HD | Panamá
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
@@ -357,6 +360,9 @@ https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/60580
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s5rPNIW.png", Nex TV | FHD | Panamá
 https://vcp4.myplaytv.com/nextv/nextv/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wh9SLJC.png", América Tevé | HD | Estados Unidos
+https://live.gideo.video/americateve2/HD720/HD720.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rpADcZw.png", TVP | FHD | Argentina
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
@@ -373,14 +379,35 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q6BQ5YO.png", Canal 7 Jujuy | HD | Argentina
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w279385552_b1146880.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f8FwIqe.png", Canal 7 Neuquén | HD | Argentina
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/chunklist_w1314889307_b1699840.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLaAK0P.png", Canal 8 Mar del Plata | HD | Argentina
+https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w123364716_b1662976.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9wGq6c.png", Canal 9 Litoral | HD | Argentina
+https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eWFGnL6.png", Canal 9 Televida Mendoza | HD | Argentina
-https://unlimited1-us.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream1/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8LgP0nb.png", Canal 10 Mar del Plata | HD | Argentina
+https://g5.vxral-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/UA46kp8.png", Canal 10 Junín | HD | Argentina
+https://g3.vxral-hor.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/canal10junin-100056_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LBJGdXo.png", El 13 | HD | Argentina
 https://livetrx01.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RUCtN42.png", Canal 13 San Luis | HD | Argentina
-https://stream.arcast.live/sanluismas/ngrp:sanluismas_all/chunklist_w1640380957_b1596000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/22R2eBR.png", 13 Max Corrientes | HD | Argentina
+https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hQSwbnL.png", Ciudad Magazine | HD | Argentina
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MrpIA1R.png", Canal de la Ciudad | HD | Argentina
+https://g4.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N1iL4ka.png", Tierra Mía  | HD | Argentina
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
@@ -426,6 +453,9 @@ https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j7BCzC0.png", Genios | HD | Perú
 https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZC6ZzeU.png", Universidad San Martín de Porres TV | HD | Perú
+https://streamusmptv.ddns.net/live/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEIL7ks.png", Willax | HD | Perú
 https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
