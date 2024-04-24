@@ -487,8 +487,8 @@ https://cdnlive.codev8.net/rtvcelive/channel1.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KUpHN7Y.png", Distrito TV | HD | España
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ApfAKU6.png", Fibwi | HD | España
-https://hostcdn3.fibwi.com/fibwi_diario/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/svbNt71.png", Mar Menor Torre Pacheco | HD | España
+https://directo.tuwebtv.es/canal1.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZPHGQgv.png", Teletoledo | HD | España
 https://cloud.fastchannel.es/mic/manifiest/hls/teletoledo/teletoledo.m3u8
@@ -532,11 +532,11 @@ https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5vPX8ID.png", Canal 8 Mediterráneo | HD | España
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n6JxBri.png", Diez TV Úbeda | HD | España
-https://streaming.cloud.innovasur.es/mmj/38194363.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UQC01tC.png", Popular TV Cantabria | HD | España
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n6JxBri.png", Diez TV Las Villas | HD | España
-https://streaming.cloud.innovasur.es/mmj2/64556616.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UQC01tC.png", Popular TV Murcia | HD | España
+https://cloud.fastchannel.es/mic/manifiest/hls/populartvrm/populartvrm.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0P3ifTN.png", Onda Valencia | HD | España
 https://cloudvideo.servers10.com:8081/8116/tracks-v1a1/mono.m3u8
