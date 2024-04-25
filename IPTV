@@ -189,7 +189,7 @@ https://stream.blserver.cl/hls/ctv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yjYuZSV.png", Click TV | HD | Coronel
 https://v2.tustreaming.cl/clicktv/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/14y2KDF.png", Radio Televisión Araucanía  | SD | Laja
+#EXTINF: -1 tvg-logo="https://i.imgur.com/14y2KDF.png", Radio Televisión Araucanía  | SD | Los Ángeles
 https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sU0PwHK.png", Club TV  | HD | Santa Juana
