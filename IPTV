@@ -529,8 +529,14 @@ https://elche7tv.gestec-video.com/hls/canal2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cjghTdq.png", Televalencia | HD | España
 https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q5sk0Zc.png", La 7 Murcia | HD | España
+https://rtv-murcia-live.globalmest.com/principal/principal.smil/.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5vPX8ID.png", Canal 8 Mediterráneo | HD | España
 https://streaming004.gestec-video.com/hls/8TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UYzzT3Q.png", Radio Televisión del Principado de Asturias | HD | España
+https://cdnlive.codev8.net/rtpalive/smil:directo/chunklist_b1700000_DVR.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UQC01tC.png", Popular TV Cantabria | HD | España
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
@@ -546,6 +552,9 @@ https://media1.ultrik.com/live/torole1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnfKrUu.png", Lancelot | SD | España
 https://5c0956165db0b.streamlock.net/directo/lancelot.television/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OYAYOh.png", Aragon TV | HD | España
+https://streamer92.server.aranova.cloud/clsdvr/live/aragontv_canal1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nBtmPHq.png", Mexiquense | HD | México
 https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
@@ -576,6 +585,9 @@ https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kpxLnwV.png", Top TV | HD | Brasil
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fs49nAn.png", Hola Play | HD | España
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHScwIW.png", émotion TV | HD | Francia
 https://emotiontv.cdn.iftv.io/rtmp2hls/hls/c2f26c77_ad02_445a_b125_3ba571633d8a/live.m3u8
