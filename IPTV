@@ -156,6 +156,9 @@ https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B1TjJfy.png", TV Costa | HD | Algarrobo
 https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NidSIWr.png", VTV | HD | Valparaíso
+https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ocZGrm7.png", Canal 2 | HD | San Antonio
 https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8
 
