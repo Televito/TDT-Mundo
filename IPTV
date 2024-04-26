@@ -312,6 +312,8 @@ https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tYJcgX6.png", Vix TUDN | FHD | México
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/fk8mHrz.png", Deportv  | HD | Argentina
+https://ythls.armelin.one/channel/UCSmh3DFxBwFurMttT60PQ1g.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cEnuCa2.png", Anime Tal Tal TV  | HD | Chile
 https://rpn3.bozztv.com/ssh101/ssh101/taltal/chunks.m3u8
@@ -415,6 +417,9 @@ https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLaAK0P.png", Canal 8 Mar del Plata | HD | Argentina
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w123364716_b1662976.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/41TG2J4.png", El Nueve | HD | Argentina
+https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9wGq6c.png", Canal 9 Litoral | HD | Argentina
 https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
 
@@ -429,6 +434,12 @@ https://g5.vxral-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/ca
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/UA46kp8.png", Canal 10 Junín | HD | Argentina
 https://g3.vxral-hor.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/canal10junin-100056_720p.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/z7vUjI3.png", El Once Paraná | HD | Argentina
+https://ythls.armelin.one/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/fy9rGWH.png", El Doce Córdoba | HD | Argentina
+https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LBJGdXo.png", El 13 | HD | Argentina
 https://livetrx01.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
@@ -451,8 +462,14 @@ https://g4.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/gc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OrZwIGi.png", Canal Rural | HD | Argentina
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bkGNPUs.png", El Palomar Tucumán | HD | Argentina
+https://stream.trixserver.com:3249/live/uv038live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N1iL4ka.png", Tierra Mía  | HD | Argentina
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I9mes3K.png", Cosmos San Juan | HD | Argentina
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xV96j7R.png", Canal 26  | HD | Argentina
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
