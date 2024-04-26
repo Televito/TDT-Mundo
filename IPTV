@@ -93,11 +93,17 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CAKZqVT.png", Tendencias Prime | FHD | Santiago
 https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ITx0PpJ.png", UESTV | FHD | Santiago
+https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/X82hjRG.png", UTalca TV  | HD | Talca
+https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QnCa8IQ.png", TVU  | HD | Concepción
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ITx0PpJ.png", UESTV | FHD | Santiago
-https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/b2dJ5zf.png", UCT Araucanía | FHD | Temuco
+https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/V6SjNfS.png", UATV | FHD | Temuco
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
@@ -135,11 +141,11 @@ https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/x68lG59.png", Antofagasta TV | FHD | Antofagasta
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8B76KiZ.png", TV Norte | HD | Antofagasta
-https://v4.tustreaming.cl/tvnortedigital/tracks-v1a1/mono.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PP5wnz6.png", Atacama  TV | HD | Copiapó
 https://v2.tustreaming.cl/atacamatv/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dBOZBTX.png", Caldera Visión | HD | Caldera
+https://5ff3d9babae13.streamlock.net/frknrusdct/frknrusdct/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DdBgtNW.gif", Enfoque Digital | HD | Vallenar
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
@@ -164,9 +170,6 @@ https://v2.tustreaming.cl/utv/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nNrHC0k.png", Canal 11 | FHD | Curicó
 https://unlimited1-cl-isp.dps.live/tvrcurico/tvrcurico.smil/tvrcurico/livestream1/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/X82hjRG.png", UTalca TV  | HD | Talca
-https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/aKiFxMh.png", El Centro TV  | FHD | Talca
 https://v1.tustreaming.cl:443/diarioelcentrotv/index.m3u8
