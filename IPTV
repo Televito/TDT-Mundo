@@ -381,11 +381,20 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rpADcZw.png", TVP | FHD | Argentina
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1stP9y7.png", TN | HD | Argentina
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oqYQBLE.png", Telefe Rosario | HD | Argentina
+https://ythls.armelin.one/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ExukbI3.png", Litus | FHD | Argentina
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/chunklist_w1261931745_b1531904.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/e8DQzOS.png", Net TV | FHD | Argentina
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CXoUHhV.png", Misiones Cuatro Posadas | HD | Argentina
+https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zEjHUot.png", Canal 4 Jujuy | HD | Argentina
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
@@ -629,6 +638,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fqv1p9N.jpeg", Music Top | HD | Argentina
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ferjpF.png", Top Latino | SD | Perú
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1166893247.m3u8
