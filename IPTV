@@ -489,6 +489,16 @@ https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ATX43Mp.png", Canal U Córdoba  | HD | Argentina
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7I41ZTi.png", Cadena A  | HD | Bolivia
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pnnP9Jl.png", TVA | HD | Bolivia
+https://vdo.grupolimalive.com:3089/live/tvelive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KKPi9y3.png", RTVE | HD | Bolivia
+https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FsBlNug.png", Globo  | HD | Brasil
 http://hls1.sua.tv/live/globosphd/s.m3u8
 
