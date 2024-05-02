@@ -574,6 +574,21 @@ https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BLG2dtR.png", TVE Internacional | HD | España
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yLmNZUR.png", La 1 | HD | España
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yLmNZUR.png", La 1 | HD | España | Alt.
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YlwEmjL.png", La 2 | HD | España
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YlwEmjL.png", La 2 | HD | España | Alt.
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gBIqhKE.png", Castilla - La Mancha Media | HD | España 
+https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7XwETL5.png", Radio Televisión Ceuta | HD | España
 https://cdnlive.codev8.net/rtvcelive/channel1.smil/playlist.m3u8
 
