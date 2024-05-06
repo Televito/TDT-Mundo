@@ -639,13 +639,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BLRypqs.png" group-title="Deportes", Swiss Sport TV | HD | Suiza
 https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="Deportes",Lax Sports Network | HD | Estados Unidos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2Z0ZWB.png" group-title="Deportes",Lax Sports Network | HD | Estados Unidos
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mf5E7OI.png" group-title="Deportes", Arryadia 3| HD | Marruecos
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cTh3jf2.png" group-title="Deportes",Turkmen Sport | SD | Turkmentistán
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JL70gxd.png" group-title="Deportes",Turkmenistan Sport | SD | Turkmentistán
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PCxvI.jpg" group-title="Deportes", Door Darshan Sports | HD | India
@@ -1042,13 +1042,13 @@ https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 https://i.imgur.com/JdPAL5M.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ck6VVWT.png" group-title="Estados Unidos", DC Network | HD | Washington
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ULQFW4.png" group-title="Estados Unidos", DC Network | HD | Washington
 http://video.oct.dc.gov/out/u/DCN.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qiUmZ0y.png" group-title="Estados Unidos", Atlanta Channel | HD | Atlanta
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QphsQRF.png" group-title="Estados Unidos", Atlanta Channel | HD | Atlanta
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2MyiyMl.png" group-title="Estados Unidos", New Orleans TV | HD | Nueva Orleans
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfATqKC.png" group-title="Estados Unidos", New Orleans TV | HD | Nueva Orleans
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/heRcii5.png" group-title="Estados Unidos",NASA TV | HD
