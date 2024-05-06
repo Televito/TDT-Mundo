@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 
@@ -18,7 +17,6 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 05/05/2024-[/COLOR]
 https://i.imgur.com/IRSSjlI.mp4
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu2hq7p.png" group-title="Chile", [COLOR lime]-Chile-[/COLOR]
@@ -299,7 +297,7 @@ https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tcZutWc.png" group-title="Internacionales", -Internacionales-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tcZutWc.png" group-title="Internacionales", [COLOR lime] -Internacionales-[/COLOR]
 https://i.imgur.com/KuqaZul.mp4
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/S5eaLyS.png" group-title="Internacionales", CGTN en español | SD | China
@@ -324,7 +322,7 @@ https://live.gideo.video/americateve2/HD720/HD720.m3u8
 https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/8b171e41-c684-4ea6-8e61-78729e829ae2/2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DURfChW.png" group-title="Cristianos", -Cristianos-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DURfChW.png" group-title="Cristianos", [COLOR lime]-Cristianos-[/COLOR]
 https://i.imgur.com/LmAvxVu.mp4
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AuTwvOW.png" group-title="Cristianos", Iglesia en San Bernardo| HD | Chile
@@ -361,7 +359,7 @@ https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/tvcaelsalvador/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3bph4w2.png" group-title="Animación", -Animación-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3bph4w2.png" group-title="Animación", [COLOR lime]-Animación-[/COLOR] 
 https://i.imgur.com/KuqaZul.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4gpykz.png" group-title="Animación", Locomotion | SD | República Dominicana | Alt.
@@ -409,7 +407,7 @@ https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z9v5ETn.png" group-title="Pluto TV", -Pluto TV-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9v5ETn.png" group-title="Pluto TV", [COLOR lime]-Pluto TV-[/COLOR]  
 https://i.imgur.com/uJcjZkK.mp4
 
 
@@ -626,7 +624,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df265697
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yO19Ju4.png" group-title="Deportes", -Deportes-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yO19Ju4.png" group-title="Deportes", [COLOR lime]-Deportes-[/COLOR] 
 https://i.imgur.com/qRolRIi.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iHhc7PK.png" group-title="Deportes", Teletrak | SD | Chile
@@ -654,7 +652,7 @@ http://217.174.225.146/legacyhls/ch004_400/index.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cG5DVb2.png" group-title="Argentina", -Argentina-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cG5DVb2.png" group-title="Argentina", [COLOR lime]-Argentina-[/COLOR] 
 https://i.imgur.com/Av8yUYC.mp4
 
 
@@ -819,7 +817,7 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 http://streaming.arcast.com.ar:1935/atbargentina/atbargentina/chunklist_w208233256.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VnN0j1X.png" group-title="Bolivia", -Bolivia-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VnN0j1X.png" group-title="Bolivia", [COLOR lime]-Bolivia-[/COLOR] 
 https://i.imgur.com/zITTZhP.mp4
 
 
@@ -842,7 +840,7 @@ http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w352402513.m3u8
 https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MD0SGrQ.png" group-title="Brasil", -Brasil-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MD0SGrQ.png" group-title="Brasil", [COLOR lime]-Brasil-[/COLOR] 
 https://i.imgur.com/ijpETVg.mp4
 
 
@@ -854,7 +852,7 @@ https://video07.logicahost.com.br/redebrasil/redebrasil/.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PVVhyXE.png" group-title="Colombia", -Colombia-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PVVhyXE.png" group-title="Colombia", [COLOR lime]-Colombia-[/COLOR]  
 https://i.imgur.com/YuJcsAv.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tcnx3uk.png" group-title="Colombia", Señal Colombia | HD | Bogotá
@@ -873,7 +871,7 @@ https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iZDbIgo.png" group-title="Costa Rica", -Costa Rica-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iZDbIgo.png" group-title="Costa Rica", [COLOR lime]-Costa Rica-[/COLOR]
 https://i.imgur.com/6vNR6WW.mp4
 
 
@@ -890,7 +888,7 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z8qMiWr.png" group-title="Ecuador", -Ecuador-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z8qMiWr.png" group-title="Ecuador", [COLOR lime]-Ecuador-[/COLOR] 
 https://i.imgur.com/AEwCoaQ.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fZ1Er43.png" group-title="Ecuador", Ecuavisa | FHD | Quito
@@ -900,7 +898,7 @@ https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/c54ac2799874375c81c1672
 https://vid2.ecuamedia.net/educatv/live/chunklist_w360407637.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2CkxixS.png" group-title="El Salvador", -El Salvador-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2CkxixS.png" group-title="El Salvador", [COLOR lime]-El Salvador-[/COLOR] 
 https://i.imgur.com/KBmDk8u.mp4
 
 
@@ -911,7 +909,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HPoOb0K.png" group-title="España", -España-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HPoOb0K.png" group-title="España",  [COLOR lime]-España-[/COLOR]
 https://i.imgur.com/tb5lAm6.mp4
 
 
@@ -1040,7 +1038,7 @@ https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OmSY9a9.png" group-title="Estados Unidos", -Estados Unidos-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OmSY9a9.png" group-title="Estados Unidos", [COLOR lime]-Estados Unidos-[/COLOR]
 https://i.imgur.com/JdPAL5M.mp4
 
 
@@ -1067,7 +1065,7 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/av0yHQF.png" group-title="Guatemala", -Guatemala-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/av0yHQF.png" group-title="Guatemala", [COLOR lime]-Guatemala-[/COLOR]
 https://i.imgur.com/29fQuZf.mp4
 
 
@@ -1087,14 +1085,14 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cWT4KDG.png" group-title="Guinea Ecuatorial", -Guinea Ecuatorial-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cWT4KDG.png" group-title="Guinea Ecuatorial", [COLOR lime]-Guinea Ecuatorial-[/COLOR] 
 https://i.imgur.com/magORDj.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3WpmsI1.png" group-title="Guinea Ecuatorial", TVGE | SD | Malabo
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/chunklist_w1410706122_b1500000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7UduJa.png" group-title="Haití", -Haití-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7UduJa.png" group-title="Haití", [COLOR lime]-Haití-[/COLOR]  
 https://i.imgur.com/CKgl5l6.mp4
 
 
@@ -1102,7 +1100,7 @@ https://i.imgur.com/CKgl5l6.mp4
 http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IYcBF6H.png" group-title="Israel", -Israel-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYcBF6H.png" group-title="Israel", [COLOR lime]-Israel-[/COLOR]  
 https://i.imgur.com/kl2jwy8.mp4
 
 
@@ -1113,7 +1111,7 @@ https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/in
 https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9VPLsU7.png" group-title="Italia", -Italia-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9VPLsU7.png" group-title="Italia", [COLOR lime]-Italia-[/COLOR] 
 https://i.imgur.com/II8TrUe.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TDSgG28.png" group-title="Italia", Italia 2 TV | HD | Milán
@@ -1144,7 +1142,7 @@ http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m
 https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2bzUbnZ.png" group-title="México", -México-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2bzUbnZ.png" group-title="México", [COLOR lime]-México-[/COLOR]
 https://i.imgur.com/RIxpvUH.mp4
 
 
@@ -1192,7 +1190,7 @@ https://59802217c6db4.streamlock.net/canal66/videocanal66/chunklist_w1111132592.
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KYaBgUi.png" group-title="Panamá", -Panamá-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYaBgUi.png" group-title="Panamá", [COLOR lime]-Panamá-[/COLOR] 
 https://i.imgur.com/5sLnHWK.mp4
 
 
@@ -1204,7 +1202,7 @@ https://vcp4.myplaytv.com/nextv/nextv/.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tYMz8O3.png" group-title="Paraguay", -Paraguay-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tYMz8O3.png" group-title="Paraguay", [COLOR lime]-Paraguay-[/COLOR]  
 https://i.imgur.com/0Nkz7aU.mp4
 
 
@@ -1230,7 +1228,7 @@ https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aFjCuaB.png" group-title="Perú", -Perú-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFjCuaB.png" group-title="Perú", [COLOR lime]-Perú-[/COLOR] 
 https://i.imgur.com/PGqJ0Tj.mp4
 
 
@@ -1269,14 +1267,14 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IgtH7Ap.png" group-title="Puerto Rico", -Puerto Rico-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IgtH7Ap.png" group-title="Puerto Rico", [COLOR lime]-Puerto Rico-[/COLOR]  
 https://i.imgur.com/dKnim8a.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Is3j3hP.png" group-title="Puerto Rico", Tele 11  | HD | San Juan
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nyOv1M6.png" group-title="Rep. Dominicana", -República Dominicana-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nyOv1M6.png" group-title="Rep. Dominicana", [COLOR lime]-Rep. Dominicana-[/COLOR] 
 https://i.imgur.com/rX6sMHY.mp4
 
 
@@ -1293,7 +1291,7 @@ https://video.misistemareseller.com/Fuegotv/Fuegotv/chunklist_w1482703670.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdpab5Q.png" group-title="Rusia", -Rusia-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdpab5Q.png" group-title="Rusia", [COLOR lime]-Rusia-[/COLOR] 
 https://i.imgur.com/ZVi7mTg.mp4
 
 
@@ -1324,14 +1322,14 @@ http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Lgh7Nx.png" group-title="Ucrania", -Ucrania-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Lgh7Nx.png" group-title="Ucrania", [COLOR lime]-Ucrania-[/COLOR] 
 https://i.imgur.com/homA4zg.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3FALSZs.png" group-title="Ucrania", Avers | SD 
 https://avers.pp.ua/hls/efir.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iWeYJSw.png" group-title="Uruguay", - Uruguay -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iWeYJSw.png" group-title="Uruguay", [COLOR lime]-Uruguay-[/COLOR]  
 https://i.imgur.com/vAluESq.mp4
 
 
@@ -1339,7 +1337,7 @@ https://i.imgur.com/vAluESq.mp4
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pDLwbc0.png" group-title="Venezuela", - Venezuela -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pDLwbc0.png" group-title="Venezuela", [COLOR lime]-Venezuela-[/COLOR]
 https://i.imgur.com/17muPsg.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MO7l6on.png" group-title="Venezuela", Telesur| HD | Caracas
@@ -1354,7 +1352,7 @@ https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NlvRfRT.png" group-title="Venezuela", Promar TV| SD |  Barquisimeto
 http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VVI80Ig.png" group-title="Musicales", -Musicales-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VVI80Ig.png" group-title="Musicales", [COLOR lime]-Musicales-[/COLOR] 
 https://i.imgur.com/xWk04pl.mp4
 
 
@@ -1510,7 +1508,7 @@ http://hls.tmacaraibes.com/live/index.m3u8
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5fEIf7q.png" group-title="Radios Chilenas Con Video", -Radios Chilenas Con Video-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5fEIf7q.png" group-title="Radios Chilenas Con Video", [COLOR lime]-Radios Chilenas Con Video-[/COLOR]
 https://i.imgur.com/7o6at8Q.mp4
 
  
@@ -1584,7 +1582,7 @@ https://panel.tvstream.cl:1936/8022/8022/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jL7zgG5.png" group-title="Radios Chilenas Con Video", Tele Angol FM | SD | Angol
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1wreKjQ.png" group-title="Radios Internacionales Con Video", -Radios Internacionales Con Video-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wreKjQ.png" group-title="Radios Internacionales Con Video", [COLOR lime]-Radios Internacionales Con Video-[/COLOR] 
 https://i.imgur.com/LJnHIJU.mp4
 
 
@@ -1965,7 +1963,8 @@ http://icecast.hostingbahia.com.ar:8002/live?28344
 http://live02.rfi.fr/rfienespagnol-64.mp3
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KK0ZsnZ.png" group-title="Papelera", [COLOR olive]-Papelera-[/COLOR] 
+https://i.imgur.com/LJnHIJU.mp4
 
 
 
