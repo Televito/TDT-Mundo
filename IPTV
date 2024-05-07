@@ -104,6 +104,12 @@ https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pjs5csg.png" group-title="Chile", Tevex | HD | Santiago
 https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Sgawacf.png" group-title="Chile", TV Chile | HD | Santiago
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CAKZqVT.png" group-title="Chile", Tendencias Prime | FHD | Santiago
+https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PjAS6V9.png" group-title="Chile", UCV | HD | Valparaíso
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
@@ -113,11 +119,17 @@ https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9kp68rx.png" group-title="Chile", TV+ | FHD | Santiago
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Sgawacf.png" group-title="Chile", TV Chile | HD | Santiago
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rGEDlbt.png" group-title="Chile", Suyai TV | HD | Santiago
+https://stream.skarnetchile.com:19360/suyaitv/suyaitv.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CAKZqVT.png" group-title="Chile", Tendencias Prime | FHD | Santiago
-https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Lwhe58T.png" group-title="Chile", +Cine | HD | Chile
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/doVPHbC.png" group-title="Chile", Estación Retro | HD | Chile
+https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zQYJ6GI.png" group-title="Chile", Origen TV | HD | Chile
+https://tv.streaming-chile.com:8081/origentvhd/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ITx0PpJ.png" group-title="Chile", UESTV | FHD | Santiago
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
@@ -290,10 +302,10 @@ https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/t95ffDP.jpeg" group-title="Chile", El Pingüino  | FHD | Punta Arenas
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/QlG4uOO.png" group-title="Chile", Cámara de Diputados TV | SD | Valparaíso
+#EXTINF: -1 tvg-logo="https://i.imgur.com/QlG4uOO.png" group-title="Chile", Cámara de Diputados TV | HD | Valparaíso
 https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/a8Wirrz.png" group-title="Chile", TV Senado | HD | Valparaíso
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a8Wirrz.png" group-title="Chile", TV Senado | SD | Valparaíso
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 
 
@@ -366,7 +378,7 @@ https://i.imgur.com/KuqaZul.mp4
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cEnuCa2.png" group-title="Animación", Anime Tal Tal TV  | HD | Chile
-https://ssh101-fl.bozztv.com/ssh101/taltal/tracks-v1a1/mono.m3u8
+https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hj0vYMv.png" group-title="Animación", Planeta TV Kids  | FHD | Chile
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
@@ -401,11 +413,8 @@ https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hc1Lvl7.png" group-title="Animación", Retro Magico | HD | Argentina
 https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/0XRgVJO.png" group-title="Animación", Gogoplay | HD | Bolivia
-https://ssh101-fl.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/0XRgVJO.png" group-title="Animación", Gogoplay | HD | Bolivia | Alt.
-https://ssh101-fl.bozztv.com/ssh101/gogoplaysd/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0XRgVJO.png" group-title="Animación", Gogoplay | SD | Bolivia
+https://ssh101-fl.bozztv.com/ssh101/gogoplaysd/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zm2zree.png" group-title="Animación", Latinokids  | SD | Uruguay
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
@@ -961,6 +970,9 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yLmNZUR.png" group-title="España", La 1 | HD | Madrid | Alt.
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AKL82vl.png" group-title="España", Star TVE | SD | Madrid
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_576.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FuDdh5V.png" group-title="España", Love The Planet | FHD | Madrid
 https://i.mjh.nz/SamsungTVPlus/ESBC4700002TD.m3u8
 
@@ -1256,6 +1268,9 @@ https://tigocloud.desdeparaguay.net/mitv/mitv/chunklist_w680215671.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fjQBP7X.png" group-title="Paraguay", más tv | HD | Encarnación
 https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/S1MTdTx.png" group-title="Paraguay", Invasiva Media | HD | Paraguay
+https://tv.invasivamedia.com/hls/limtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QNVF58v.png" group-title="Paraguay", Somos del Este | HD | Ciudad del Este
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
