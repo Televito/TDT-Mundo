@@ -867,6 +867,15 @@ https://i.imgur.com/YuJcsAv.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tcnx3uk.png" group-title="Colombia", Señal Colombia | HD | Bogotá
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/live.smil/chunklist_b1500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AcjR4NM.png" group-title="Colombia", Canal 2 | HD | Cali
+https://video13.virtualtronics.com/streamer/canal2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9T5HXiP.png" group-title="Colombia", Cali TV | HD | Cali
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QRWUq5t.png" group-title="Colombia", ATN Televisión | HD | Cúcuta
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Waqc5qZ.png" group-title="Colombia", RCN Más | HD | Bogotá
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
@@ -876,8 +885,29 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1546804286.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbkIP5Z.png" group-title="Colombia", TDI | HD | Villavicencio
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A4psHio.png" group-title="Colombia", Canal 8 TV+ | HD | Puerto Salgar
+https://movil.ejeserver.com/live/canal8tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Z6XWd8.png" group-title="Colombia", Canal Capital | HD | Bogotá
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pvUxHJy.png" group-title="Colombia", Canal Cartagena | HD | Cartagena
+https://edge.teveo.com.co/live/AeAAAgAlAANrA1IAyADIQCAAAAAAAAAAAmY4BtS1oPgGAAAA/chunklist_w1289111914.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aWvKJzr.png" group-title="Colombia", Canal Visión Dorada | HD | Caldas
 https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FoUYkeZ.png" group-title="Colombia", Televisora del Norte de Santander | HD | Santander
+https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LGMB33k.png" group-title="Colombia", Suram TV | HD | Yopal
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DpYkBCV.png" group-title="Colombia", Canal 14 Codazzi | HD | Agustín Codazzi
+https://eu1.servers10.com:8081/8056/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4nfD2jr.png" group-title="Colombia", Canal 55 Telemorisco | HD | Suba
+https://canal.mediaserver.com.co/live/telemorisco.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZDbIgo.png" group-title="Costa Rica", [COLOR lime]-Costa Rica-[/COLOR]
@@ -1206,6 +1236,9 @@ https://i.imgur.com/5sLnHWK.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bcr0njT.png" group-title="Panamá", TVN Panamá | HD | Panamá
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5H7EBjp.png" group-title="Panamá", TVMAX | HD | Panamá
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s5rPNIW.png" group-title="Panamá", Nex TV | FHD | Panamá
 https://vcp4.myplaytv.com/nextv/nextv/.m3u8
 
@@ -1273,6 +1306,9 @@ https://streamusmptv.ddns.net/live/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEIL7ks.png" group-title="Perú", Willax | HD | Lima
 https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tpl1XbD.png" group-title="Perú", Cultura 24 | HD | Lima
+https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 
 
 
