@@ -366,7 +366,7 @@ https://i.imgur.com/KuqaZul.mp4
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cEnuCa2.png" group-title="Animación", Anime Tal Tal TV  | HD | Chile
-https://rpn3.bozztv.com/ssh101/ssh101/taltal/chunks.m3u8
+https://ssh101-fl.bozztv.com/ssh101/taltal/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hj0vYMv.png" group-title="Animación", Planeta TV Kids  | FHD | Chile
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
@@ -386,6 +386,9 @@ https://wifiexpert-1.energeek.cl/energeek/canal-2/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nhzpu53.png" group-title="Animación", Pandamax | FHD | Chile
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ASlj49h.png" group-title="Animación", Greekz TV | FHD | Chile
+https://stream.zafirehosting.com:3911/live/greekztvlive.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/V5LhZTo.png" group-title="Animación", Animestation | HD | Canadá
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/chunks.m3u8
 
@@ -399,7 +402,10 @@ https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8
 https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0XRgVJO.png" group-title="Animación", Gogoplay | HD | Bolivia
-https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0XRgVJO.png" group-title="Animación", Gogoplay | HD | Bolivia | Alt.
+https://ssh101-fl.bozztv.com/ssh101/gogoplaysd/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zm2zree.png" group-title="Animación", Latinokids  | SD | Uruguay
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
@@ -1968,7 +1974,6 @@ http://live02.rfi.fr/rfienespagnol-64.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KK0ZsnZ.png" group-title="Papelera", [COLOR olive]-Papelera-[/COLOR] 
 https://i.imgur.com/LJnHIJU.mp4
-
 
 
 
