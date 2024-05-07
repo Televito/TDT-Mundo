@@ -23,12 +23,6 @@ https://i.imgur.com/IRSSjlI.mp4
 https://i.imgur.com/EwJbXKm.mp4
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9kp68rx.png" group-title="Chile", TV+ | FHD | Santiago
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/NA58C2K.png" group-title="Chile", Canal 2 | FHD | Quellón
-https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="Chile", TVN3 | FHD | Santiago
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
@@ -115,6 +109,9 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4ZLt6ep.png" group-title="Chile", UCV2  | HD | Valparaíso
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9kp68rx.png" group-title="Chile", TV+ | FHD | Santiago
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Sgawacf.png" group-title="Chile", TV Chile | HD | Santiago
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
@@ -271,6 +268,9 @@ https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ADRhjOw.png" group-title="Chile", Castro TV | HD | Castro
 https://videostream.chileservidores.com:8081/chiloe4/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NA58C2K.png" group-title="Chile", Canal 2 | FHD | Quellón
+https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hrwcxab.png" group-title="Chile", La Melinkana TV | HD | Puerto Melinka
 https://v1.tustreaming.cl/melinkana/index.m3u8
