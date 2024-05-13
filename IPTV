@@ -1364,11 +1364,20 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Fmr8hz.png" group-title="México", TV UJAT | HD | Tabasco
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hP1TyBA.png" group-title="México", Lobo TV  | HD | Chihuahua
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ePP32Al.png" group-title="México", Canal 26 | HD | Aguascalientes
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IKcNmaU.png" group-title="México", Canal 28 | HD | Nuevo León
 https://5e307acc9a171.streamlock.net:1936/canal28/canal28/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O0KW8KJ.png" group-title="México", N+ | HD | México D.F
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OUjWHvV.png" group-title="México", N+ Media | HD | México D.F
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yVHrAp4.png" group-title="México", Canal 66 | HD | Mexicali
 https://59802217c6db4.streamlock.net/canal66/videocanal66/chunklist_w1111132592.m3u8
