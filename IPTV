@@ -1373,6 +1373,12 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IKcNmaU.png" group-title="México", Canal 28 | HD | Nuevo León
 https://5e307acc9a171.streamlock.net:1936/canal28/canal28/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4d3V3Iw.png" group-title="México", Canal 28 | HD | Puebla
+https://stream.oursnetworktv.com/latin/pueblamx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2mzGxDu.png" group-title="México", Canal 33 | SD | Tijuana
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O0KW8KJ.png" group-title="México", N+ | HD | México D.F
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 
