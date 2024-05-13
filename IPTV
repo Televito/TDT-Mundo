@@ -389,6 +389,9 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4Wi6WcF.png" group-title="Animación", Dreiko TV | HD | Panamá
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DiKxBEw.png" group-title="Animación", BitMe | HD | México
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wOc2Bx3.png" group-title="Animación", Moni TV | FHD | Chile
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
