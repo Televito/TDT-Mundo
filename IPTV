@@ -1675,6 +1675,9 @@ https://panel.dattalive.com/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dhXVh11.png" group-title="Radios Internacionales Con Video", Radio TV 538 | HD | Países Bajos
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/keKBEgh.png" group-title="Radios Internacionales Con Video", Radio Contact | HD | Bélgica
+https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KDtVpLl.png" group-title="Radios Internacionales Con Video", Radio Iglesias | HD | Italia
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 
@@ -1692,6 +1695,12 @@ https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tkd78qv.png" group-title="Radios Internacionales Con Video", RTP Sicilia | HD | Italia
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dV43vam.png" group-title="Radios Internacionales Con Video", El Radio 9090 FM | HD | Egipto
+https://9090video.mobtada.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dAC6rek.png" group-title="Radios Internacionales Con Video", One TV Music 99.1 FM | HD | Líbano
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/52ExMKt.png" group-title="Radios Internacionales Con Video", Sonus FM | HD | Rusia
 http://138.201.226.83:1935/public/stream_720p/chunklist_w825519609.m3u8
