@@ -1281,6 +1281,15 @@ https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="México", Canal 10  | HD | Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zTdJ034.png" group-title="México", Canal 12 | HD | México D.F
+https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tehG6Zt.png" group-title="México", Canal 14 | HD | México D.F
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XCN0uTV.png" group-title="México", 15TV | SD | Sabinas 
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P5rq2SD.png" group-title="México", TV Pacífico | HD | Culiacán
 https://5ca3e84a76d30.streamlock.net/gpacifico1/gpculiacan.smil/.m3u8
 
@@ -1299,16 +1308,8 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ux1ZxfN.png" group-title="México", Cocina TV | HD | México DF
 https://linear-317.frequency.stream/dist/vix/317/hls/master/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nBtmPHq.png" group-title="México", Mexiquense | HD | México
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nBtmPHq.png" group-title="México", Mexiquense | HD | México D.F
 https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tehG6Zt.png" group-title="México", Canal 14 | HD | México
-https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XCN0uTV.png" group-title="México", 15TV | SD | Sabinas 
-https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ePP32Al.png" group-title="México", Canal 26 | HD | Aguascalientes
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
