@@ -1337,6 +1337,18 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OIJihki.png" group-title="México", Golden Premier | HD | México D.F
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dXLsjjz.png" group-title="México", Las Estrellas | HD | México D.F
+https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dXLsjjz.png" group-title="México", Las Estrellas Latinoamérica | HD | México D.F
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dXLsjjz.png" group-title="México", Las Estrellas + 1 | HD | México D.F
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dXLsjjz.png" group-title="México", Las Estrellas + 2 | HD | México D.F
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ePP32Al.png" group-title="México", Canal 26 | HD | Aguascalientes
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 
