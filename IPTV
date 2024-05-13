@@ -12,7 +12,7 @@
 #
 #	Habilitar PVR IPTV Simple Client en PVR Addons
 #	En la configuración de PVR IPTV Simple Client elegir ruta remota y agregar https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
+#	Desmarcar la opción de guardar la lista en caché, así siempre se cargará la lista mas actualizada.
 #   Televito, lista IPTV basada en el proyecto extinto Laope
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 05/05/2024-[/COLOR]
