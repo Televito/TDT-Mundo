@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:06/05/2024
+#ultima actualizacion:12/05/2024
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -1379,7 +1379,21 @@ http://ott-cdn.ucom.am/s19/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qfOWDa8.png" group-title="Rusia", MTV Volgograd | HD 
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2bC42z.png" group-title="Territorio Palestino", [COLOR lime]-Territorio Palestino-[/COLOR]
+https://i.imgur.com/2pp0pU7.mp4
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6rgdlLL.png" group-title="Territorio Palestino", Musawa Channel | HD 
+https://pbc.furrera.ps/musawahd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GTVOOSy.png" group-title="Territorio Palestino", Palestine Mubasher | HD
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JqEBrn5.png" group-title="Territorio Palestino", Palestine Today | HD
+https://live.paltodaytv.com/paltv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uizu4xH.png" group-title="Territorio Palestino", Al Najah News | HD
+https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Lgh7Nx.png" group-title="Ucrania", [COLOR lime]-Ucrania-[/COLOR] 
