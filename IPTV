@@ -1391,6 +1391,15 @@ https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Lg6aBg.png" group-title="México", Unicable | HD | México D.F
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a3ee7ow.png" group-title="México", TeleFórmula | HD | México D.F
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p5paAMP.png" group-title="México", Señal España | HD | Durango
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sA3F2rm.png" group-title="México", Tlaxcala TV | HD | Tlaxcala
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yVHrAp4.png" group-title="México", Canal 66 | HD | Mexicali
 https://59802217c6db4.streamlock.net/canal66/videocanal66/chunklist_w1111132592.m3u8
 
