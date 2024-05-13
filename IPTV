@@ -1220,9 +1220,8 @@ https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2bzUbnZ.png" group-title="México", [COLOR lime]-México-[/COLOR]
 https://i.imgur.com/RIxpvUH.mp4
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/On4k1UR.png" group-title="México", Azteca Internacional | HD | México D.F
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/51Zfcil.png" group-title="México", Presumiendo México | HD | México D.F
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4oglcaa.png" group-title="México", Antena TV | HD | Chihuahua
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
@@ -1290,6 +1289,9 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XCN0uTV.png" group-title="México", 15TV | SD | Sabinas 
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nBtmPHq.png" group-title="México", Mexiquense | HD | México D.F
+https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P5rq2SD.png" group-title="México", TV Pacífico | HD | Culiacán
 https://5ca3e84a76d30.streamlock.net/gpacifico1/gpculiacan.smil/.m3u8
 
@@ -1308,8 +1310,14 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ux1ZxfN.png" group-title="México", Cocina TV | HD | México DF
 https://linear-317.frequency.stream/dist/vix/317/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nBtmPHq.png" group-title="México", Mexiquense | HD | México D.F
-https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/On4k1UR.png" group-title="México", Azteca Internacional | HD | México D.F
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HGBmKRj.png" group-title="México", DPelícula | HD | México D.F
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4NXCZ1a.png" group-title="México", DPelícula Plus | HD | México D.F
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ePP32Al.png" group-title="México", Canal 26 | HD | Aguascalientes
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
