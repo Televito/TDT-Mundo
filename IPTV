@@ -666,6 +666,27 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriad
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JL70gxd.png" group-title="Deportes",Turkmenistan Sport | SD | Turkmentistán
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJHacYp.png" group-title="Deportes", Bahrain Sports 1 | HD | Bahrein
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1y1ng2c.png" group-title="Deportes", Bahrain Sports 2 | HD | Bahrein
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/415XUUL.png" group-title="Deportes", KTV Sport | SD | Kuwait
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x3S4rFJ.png" group-title="Deportes", KTV Sport Plus | SD | Kuwait
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S13MlS3.png" group-title="Deportes", Aio Sport | HD | Irán
+https://live.aionet.ir/hls/aiosport/aiosport.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k7UQ7YD.png" group-title="Deportes", Kyrgyz Television Sport | HD | Kirguistán
+https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EIyS8Jx.png" group-title="Deportes", Omán Sports | HD | Omán
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PCxvI.jpg" group-title="Deportes", Door Darshan Sports | HD | India
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
