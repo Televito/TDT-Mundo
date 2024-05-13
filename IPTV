@@ -1274,7 +1274,6 @@ https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k3vtb3g.png" group-title="México", SIPSE TV 8.1 | HD | Cancún
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecZgfzc.png" group-title="México", El 9 | HD | México D.F
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
@@ -1317,6 +1316,9 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ux1ZxfN.png" group-title="México", Cocina TV | HD | México DF
 https://linear-317.frequency.stream/dist/vix/317/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tixman6.png" group-title="México", MyTime Movie Network | HD | México D.F
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/On4k1UR.png" group-title="México", Azteca Internacional | HD | México D.F
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
@@ -1358,6 +1360,9 @@ https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xd750NJ.png" group-title="México", RCG TV  | HD | Coahuila
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Fmr8hz.png" group-title="México", TV UJAT | HD | Tabasco
+https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ePP32Al.png" group-title="México", Canal 26 | HD | Aguascalientes
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
