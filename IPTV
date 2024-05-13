@@ -651,6 +651,9 @@ https://i.imgur.com/qRolRIi.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iHhc7PK.png" group-title="Deportes", Teletrak | SD | Chile
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x4FGq0Y.png" group-title="Deportes", Wapa Deportes | HD | Puerto Rico
+https://live.field59.com/wapa/wapa2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aSrFtpv.png" group-title="Deportes", All Sports | HD | Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1188826163.m3u8
 
