@@ -1268,6 +1268,13 @@ https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQsyHw9.png" group-title="México", California Medios TV | HD | Tecate
 https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DyjsZmX.png" group-title="México", SIPSE TV 8.1 | HD | Mérida
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k3vtb3g.png" group-title="México", SIPSE TV 8.1 | HD | Cancún
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecZgfzc.png" group-title="México", El 9 | HD | México D.F
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
@@ -1348,6 +1355,9 @@ https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dXLsjjz.png" group-title="México", Las Estrellas + 2 | HD | México D.F
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xd750NJ.png" group-title="México", RCG TV  | HD | Coahuila
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ePP32Al.png" group-title="México", Canal 26 | HD | Aguascalientes
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
