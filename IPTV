@@ -1236,6 +1236,51 @@ https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nlpkMSD.png" group-title="México", TV Cuatro 4.2 | HD | Guanajuato
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RSeMNiM.png" group-title="México", Canal 5 | HD | México D.F
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RSeMNiM.png" group-title="México", Canal 5 | HD | México D.F | Alt.
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJ24IbI.png" group-title="México", Canal 6 | HD | Tamazula
+https://stream.oursnetworktv.com/latin/encoder6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQXAcDA.png" group-title="México", Canal 6 Multimedios | HD | Bajío
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQXAcDA.png" group-title="México", Canal 6 Multimedios | HD | Ciudad Juárez
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQXAcDA.png" group-title="México", Canal 6 Multimedios | HD | Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQXAcDA.png" group-title="México", Canal 6 Multimedios | HD | Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQXAcDA.png" group-title="México", Canal 6 Multimedios | HD | Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQXAcDA.png" group-title="México", Canal 6 Multimedios | HD | Puebla
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQXAcDA.png" group-title="México", Canal 6 Multimedios | HD | Saltillo
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQsyHw9.png" group-title="México", California Medios TV | HD | Tecate
+https://s5.mexside.net:1936/medios/medios/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ecZgfzc.png" group-title="México", El 9 | HD | México D.F
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwCMGH.png" group-title="México", Nueve TV | HD | México D.F
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o9vu3av.png" group-title="México", Canal 10 | HD | Durango
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="México", Canal 10  | HD | Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P5rq2SD.png" group-title="México", TV Pacífico | HD | Culiacán
 https://5ca3e84a76d30.streamlock.net/gpacifico1/gpculiacan.smil/.m3u8
 
@@ -1254,8 +1299,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ux1ZxfN.png" group-title="México", Cocina TV | HD | México DF
 https://linear-317.frequency.stream/dist/vix/317/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="México", Canal 10  | HD | Chetumal
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nBtmPHq.png" group-title="México", Mexiquense | HD | México
 https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
