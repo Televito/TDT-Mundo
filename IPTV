@@ -374,8 +374,11 @@ https://ssh101.bozztv.com/ssh101/tvcaelsalvador/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bph4w2.png" group-title="Animación", [COLOR lime]-Animación-[/COLOR] 
 https://i.imgur.com/KuqaZul.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C4gpykz.png" group-title="Animación", Locomotion | SD | República Dominicana | Alt.
-http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C4gpykz.png" group-title="Animación", Locomotion | SD | República Dominicana 
+https://i.imgur.com/UZDlYdR.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ryQywY.png" group-title="Animación", Locomotion TV | SD | 
+https://video-weaver.scl01.hls.live-video.net/v1/playlist/CtYFDXmGCFeGbFq7uBE8Lb1WdQFly2mLqXZ7z_sch71dFDXMqUn1o8z4RneciufsIE7YoHk4BrpFu_zxO3Cw2E61IAuJGFtSWTZqRAT_lpdGb9kMJ5QUjVuZiofMiKV4dMLXL7spIGgaKSrO24kt2IfwSspsCwqbbBUt6vmYpknHjhF2ZQLKVNbGPLZ5wlnhlfNmT5qb2G3HWocm9FicHdpo5D51uDkFziP1kSgfHEF99B2M1ydPthwc31YiOJ5BYKa9Bc906_6mwFIUP5_WKPkqvCjHIMaJf_nvnfrEuxUEFBMK6HSnF2qODdFwvd-HkwuiFB8MFYWnG17xJez8C3Cuo-7P6D25fPXg22IOlN5TU3TgJAwbGUv711j7IqQpSoRLc1UNQQp9LgB1ZsfX1V5ukD924J4RUdzwNfm3EHFtgrqdMce-tC8sT_pRGD8S_H1JOCuZDDxC_dfIXfQetlZnkToFVQa5vfh9q829xcqNMwU9TWGitoYmsNuGes9E1ObOQxbQaXkCDZVX0053DstZq8ppiz84mMB7xjZCaMAWLVS7afuN_pMrtgMHbXlgwputr6IBZ-d4oN4pGISGS7RWoR6EzVmAdd9UeUjIQEkqAZO6Pq6nB2lj0cBnsz9q2cU-b7yybvaGiriiDUkC13lJ0kDdPMhHJ5xhm-FfLYoGBCH78-NQZxHVRbVwp7iTSgwCJEuBpiK4PoOQunbmmPpgbZiGi92H3BwDq5qZMG232RtY9VWXXrm_PNOEa4i8TXTjMbxHZGohroOGAqEpfLtXJiMho5figff9qWi1TkOxOq70S-2EPywDjDSF44IdDpXPe0AdemxbHM_pTmwJZCAxxQJUB68NExlu_vVGm2dlWE7jgKCvPIsIjxxoDHqkCMHASQ1Tf_dLwJ7ddHx6PDpnfD-E-_uQgm9byQ6H3YZMzsOWqOvH4CnfOMTNwr_l4Ap9OFafw_vOGgyD-2rxvoiOeUXTvuQgASoJdXMtZWFzdC0xMOoH.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cEnuCa2.png" group-title="Animación", Anime Tal Tal TV  | HD | Chile
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
@@ -2113,7 +2116,8 @@ http://live02.rfi.fr/rfienespagnol-64.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KK0ZsnZ.png" group-title="Papelera", [COLOR olive]-Papelera-[/COLOR] 
 https://i.imgur.com/LJnHIJU.mp4
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C4gpykz.png" group-title="Papelera", Locomotion | SD | República Dominicana 
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 
