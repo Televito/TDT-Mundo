@@ -950,9 +950,6 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w1960667504.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H5ITYWY.jpg" group-title="Costa Rica", Telesistema | HD | San José
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tpUdNdB.png" group-title="Costa Rica", ACS Networks | HD | San José
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SWxQJ6D.png" group-title="Costa Rica", Colosal  TV | HD | Ciudad Neily
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
@@ -1354,6 +1351,8 @@ https://i.imgur.com/dKnim8a.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Is3j3hP.png" group-title="Puerto Rico", Tele 11  | HD | San Juan
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tpUdNdB.png" group-title="Puerto Rico", ACS Networks | HD | Florida EUA
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nyOv1M6.png" group-title="Rep. Dominicana", [COLOR lime]-Rep. Dominicana-[/COLOR] 
 https://i.imgur.com/rX6sMHY.mp4
