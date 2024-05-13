@@ -1448,6 +1448,27 @@ https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NxrYjSQ.png" group-title="Musicales", California Music Channel USA | HD | Estados Unidos
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmkYxyC.png" group-title="Musicales", Stingray Classica  | HD | Canadá
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vEA3NhA.png" group-title="Musicales", Stingray Classic Rock  | HD | Canadá
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1NNpc5.png" group-title="Musicales", Stingray CMusic  | HD | Canadá
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qE87825.png" group-title="Musicales", Stingray DJAZZ | HD | Canadá
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yYSk9lU.png" group-title="Musicales", Tele Hit | HD | México
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d139hWr.png" group-title="Musicales", Tele Hit Urbano | HD | México
+https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BrH9Ak3.png" group-title="Musicales", Tele Ritmo | HD | México
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EQvUmfU.png" group-title="Musicales", Oldies Hits | SD | Costa Rica
 https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w1176611344.m3u8
 
@@ -1469,6 +1490,15 @@ https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHScwIW.png" group-title="Musicales", émotion TV | HD | Francia
 https://emotiontv.cdn.iftv.io/rtmp2hls/hls/c2f26c77_ad02_445a_b125_3ba571633d8a/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sPi4jFp.png" group-title="Musicales", Qmusic | HD | Países Bajos
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XMWvZ36.jpg" group-title="Musicales", Kronehit| HD | Austria
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dK9OJjc.png" group-title="Musicales", Melodie TV | HD | Austria
+https://ssh101-fl.bozztv.com/ssh101/melodietvlive/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wQIfUqp.png" group-title="Musicales", Company TV | HD | Italia
 https://5929b138b139d.streamlock.net/CompanyTV/CompanyTV.smil/.m3u8
 
@@ -1478,12 +1508,14 @@ https://streamsrv2.nets-sr.com:19360/4youtv/passthru.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wEAe60b.png" group-title="Musicales",Euro Indie Music Chart | SD | Italia
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XMWvZ36.jpg" group-title="Musicales", Kronehit| HD | Austria
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Srn7bHL.png" group-title="Musicales", CMC TV  | HD | Croacia
+https://stream.cmctv.hr:49998/cmc/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dK9OJjc.png" group-title="Musicales", Melodie TV | HD | Austria
-https://ssh101-fl.bozztv.com/ssh101/melodietvlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S33qM7G.png" group-title="Musicales", Klape i Tambure TV | HD | Croacia
+https://stream.cmctv.hr:49998/kit/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7wdjeba.png" group-title="Musicales", TV Arberia 4 Muzike | HD | Kosovo
+https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LIsTIJS.png" group-title="Musicales", Sky Folk TV | SD | Macedonia
 http://skyfolk.mk/live.m3u8
@@ -1566,14 +1598,26 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5GGjDWS.png" group-title="Musicales", Falastini TV | FHD | Palestina
 https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oy8AAKq.png" group-title="Musicales", Kyrgyz Television Muzika | HD | Kirguistán
+https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1LRxlPE.png" group-title="Musicales", Balle Balle | HD | India
 https://mcncdndigital.com/balleballetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1uQZ8d4.png" group-title="Musicales", Desi Channel India | SD | Canadá 
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/93I4TyG.jpeg" group-title="Musicales", Play TV | HD | Camerún
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozsDWyU.png" group-title="Musicales", Marutam Music | HD | India
+https://mntv.livebox.co.in/musichls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/thmNTYH.png" group-title="Musicales", Maah TV  | HD | Malasia
+https://hls.maahtv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w0YIsfW.png" group-title="Musicales", Play TV | HD | Camerún
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sudjw9V.png" group-title="Musicales", Muzangala TV | HD | Angola
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fQUzBsz.png" group-title="Musicales", TMA | FHD | Islas Guadalupe
 http://hls.tmacaraibes.com/live/index.m3u8
