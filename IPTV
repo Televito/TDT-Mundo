@@ -322,7 +322,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/VSQogJt.png" group-title="Internacionales", RT Español | FHD | Rusia
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZveR1R3.png" group-title="Internacionales", Hispan TV | SD | Irán
 https://cdnlive.presstv.ir/live/live.smil/.m3u8
@@ -376,9 +376,6 @@ https://i.imgur.com/KuqaZul.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4gpykz.png" group-title="Animación", Locomotion | SD | República Dominicana 
 https://i.imgur.com/UZDlYdR.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ryQywY.png" group-title="Animación", Locomotion TV | SD | 
-https://video-weaver.scl01.hls.live-video.net/v1/playlist/CtYFDXmGCFeGbFq7uBE8Lb1WdQFly2mLqXZ7z_sch71dFDXMqUn1o8z4RneciufsIE7YoHk4BrpFu_zxO3Cw2E61IAuJGFtSWTZqRAT_lpdGb9kMJ5QUjVuZiofMiKV4dMLXL7spIGgaKSrO24kt2IfwSspsCwqbbBUt6vmYpknHjhF2ZQLKVNbGPLZ5wlnhlfNmT5qb2G3HWocm9FicHdpo5D51uDkFziP1kSgfHEF99B2M1ydPthwc31YiOJ5BYKa9Bc906_6mwFIUP5_WKPkqvCjHIMaJf_nvnfrEuxUEFBMK6HSnF2qODdFwvd-HkwuiFB8MFYWnG17xJez8C3Cuo-7P6D25fPXg22IOlN5TU3TgJAwbGUv711j7IqQpSoRLc1UNQQp9LgB1ZsfX1V5ukD924J4RUdzwNfm3EHFtgrqdMce-tC8sT_pRGD8S_H1JOCuZDDxC_dfIXfQetlZnkToFVQa5vfh9q829xcqNMwU9TWGitoYmsNuGes9E1ObOQxbQaXkCDZVX0053DstZq8ppiz84mMB7xjZCaMAWLVS7afuN_pMrtgMHbXlgwputr6IBZ-d4oN4pGISGS7RWoR6EzVmAdd9UeUjIQEkqAZO6Pq6nB2lj0cBnsz9q2cU-b7yybvaGiriiDUkC13lJ0kDdPMhHJ5xhm-FfLYoGBCH78-NQZxHVRbVwp7iTSgwCJEuBpiK4PoOQunbmmPpgbZiGi92H3BwDq5qZMG232RtY9VWXXrm_PNOEa4i8TXTjMbxHZGohroOGAqEpfLtXJiMho5figff9qWi1TkOxOq70S-2EPywDjDSF44IdDpXPe0AdemxbHM_pTmwJZCAxxQJUB68NExlu_vVGm2dlWE7jgKCvPIsIjxxoDHqkCMHASQ1Tf_dLwJ7ddHx6PDpnfD-E-_uQgm9byQ6H3YZMzsOWqOvH4CnfOMTNwr_l4Ap9OFafw_vOGgyD-2rxvoiOeUXTvuQgASoJdXMtZWFzdC0xMOoH.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cEnuCa2.png" group-title="Animación", Anime Tal Tal TV  | HD | Chile
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
@@ -621,7 +618,7 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mf5E7OI.png" group-title="Deportes", Arryadia 3| HD | Marruecos
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+https://i.imgur.com/UZDlYdR.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NApBTT4.png" group-title="Deportes", Sports TV | HD | Turquía
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
@@ -644,12 +641,6 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PCxvI.jpg" group-title="Deportes", Door Darshan Sports | HD | India
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2wsVg9l.png" group-title="Deportes", Abu Dhabi Sports 1 | HD | Emiratos Árabes Unidos
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yQesayb.png" group-title="Deportes", Abu Dhabi Sports 2 | HD | Emiratos Árabes Unidos
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WM3rCHa.png" group-title="Deportes", Dubai Racing | HD | Emiratos Árabes Unidos
 https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
 
@@ -660,7 +651,7 @@ https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMKH2QD.png" group-title="Deportes", Dubai Sports 1 | HD | Emiratos Árabes Unidos
-https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Duck7Ra.png" group-title="Deportes", Dubai Sports 2 | HD | Emiratos Árabes Unidos
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
@@ -671,8 +662,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 #EXTINF:-1 tvg-logo="https://i.imgur.com/suGWlaj.png" group-title="Deportes", Sharjah Sports| HD | Emiratos Árabes Unidos
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vl5VDJA.png" group-title="Deportes", Yas Sports| HD | Emiratos Árabes Unidos
-https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cG5DVb2.png" group-title="Argentina", [COLOR lime]-Argentina-[/COLOR] 
@@ -2306,7 +2295,8 @@ https://i.imgur.com/LJnHIJU.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4gpykz.png" group-title="Papelera", Locomotion | SD | República Dominicana 
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mf5E7OI.png" group-title="Papelera", Arryadia 3| HD | Marruecos
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
 
 
