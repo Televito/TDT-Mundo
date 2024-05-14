@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:13/05/2024
+#ultima actualizacion:14/05/2024
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en caché, así siempre se cargará la lista mas actualizada.
 #   Televito, lista IPTV basada en el proyecto extinto Laope
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 13/05/2024-[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 14/05/2024-[/COLOR]
 https://i.imgur.com/IRSSjlI.mp4
 
 
@@ -432,216 +432,164 @@ https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 https://i.imgur.com/uJcjZkK.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nomlIR3.png" group-title="Pluto TV", Animales| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nomlIR3.png" group-title="Pluto TV", Animales| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=29513be5-f696-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7LN01zd.png" group-title="Pluto TV", Anime | SD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7LN01zd.png" group-title="Pluto TV", Anime | HD 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=02c02686-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VzX9t3v.png" group-title="Pluto TV", Anime Acción | SD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VzX9t3v.png" group-title="Pluto TV", Anime Acción | HD 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aa7b802-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/09BIYgb.png" group-title="Pluto TV", Archivos Forenses | SD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/09BIYgb.png" group-title="Pluto TV", Archivos Forenses | HD 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=50356e3e-f693-11ea-b77a-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XMsfYzc.png" group-title="Pluto TV", Babar | SD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XMsfYzc.png" group-title="Pluto TV", Babar | HD 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KzZDAwq.png" group-title="Pluto TV", Babyfirst | SD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KzZDAwq.png" group-title="Pluto TV", Babyfirst | HD 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z2V8FTV.png" group-title="Pluto TV", Barney | SD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z2V8FTV.png" group-title="Pluto TV", Barney | HD 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MhZkg1N.png" group-title="Pluto TV", Ciencia | SD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MhZkg1N.png" group-title="Pluto TV", Ciencia | HD 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L4LSMG3.png" group-title="Pluto TV", Cine| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L4LSMG3.png" group-title="Pluto TV", Cine| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f8fc5ffd-f68d-11ea-b77a-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jXjXcyt.png" group-title="Pluto TV", Cine Acción| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jXjXcyt.png" group-title="Pluto TV", Cine Acción| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6dfcb40e-ad3e-4ac7-95e1-cf33643f31f4&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=1f7aa479-f440-11ea-a685-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w01m3MA.png" group-title="Pluto TV", Cine Comedia | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w01m3MA.png" group-title="Pluto TV", Cine Comedia | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6dfcb40e-ad3e-4ac7-95e1-cf33643f31f4&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=1f7aa479-f440-11ea-a685-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jteVFtT.png" group-title="Pluto TV", Cine Drama | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jteVFtT.png" group-title="Pluto TV", Cine Drama | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6dfcb40e-ad3e-4ac7-95e1-cf33643f31f4&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=1f7aa479-f440-11ea-a685-0242ac110002&userId=&serverSideAds=true
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YkOkHFn.png" group-title="Pluto TV", Cine Estelar | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YkOkHFn.png" group-title="Pluto TV", Cine Estelar | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.7.4-3c0adb65197bfd10403d6b66bfcd0b37c0daef81&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8836&deviceLon=-68.8141&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=7c15d0de-f1f9-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Q6tCeD.png" group-title="Pluto TV", Cine Familia | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Q6tCeD.png" group-title="Pluto TV", Cine Familia | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=4d8dafb1-f68e-11ea-b77a-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bfFidnY.png" group-title="Pluto TV", Cine Romance| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bfFidnY.png" group-title="Pluto TV", Cine Romance | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8836&deviceLon=-68.8141&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=ff4a66b4-ede3-11ea-8fe3-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkQPmuu.png" group-title="Pluto TV", Cine Suspenso| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkQPmuu.png" group-title="Pluto TV", Cine Suspenso | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d6a8fcd8-f689-11ea-b314-0242ac110002&userId=&serverSideAds=true
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lfVFANx.png" group-title="Pluto TV", Cine Terror| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lfVFANx.png" group-title="Pluto TV", Cine Terror | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=00bc8ba0-f68d-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nOTPBVZ.png" group-title="Pluto TV", Cocina| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nOTPBVZ.png" group-title="Pluto TV", Cocina| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=41cb6af1-f699-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mzPdOy3.png" group-title="Pluto TV", Competencias| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mzPdOy3.png" group-title="Pluto TV", Competencias| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=b3cc7691-f694-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8pbvG92.png" group-title="Pluto TV", Deportes| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8pbvG92.png" group-title="Pluto TV", Deportes| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e7e0e926-f697-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXnw0bp.png" group-title="Pluto TV", Empeños a lo Bestia| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXnw0bp.png" group-title="Pluto TV", Empeños a lo Bestia| HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mGCtmcX.png" group-title="Pluto TV", Historia | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mGCtmcX.png" group-title="Pluto TV", Historia | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8836&deviceLon=-68.8141&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=16348462-ede5-11ea-ae94-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2vL4Tb.png" group-title="Pluto TV", Historias de Ultratumba | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2vL4Tb.png" group-title="Pluto TV", Historias de Ultratumba | HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3p0jBHS.png" group-title="Pluto TV", Hogar | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3p0jBHS.png" group-title="Pluto TV", Hogar | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=41cb6af1-f699-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cprKkBF.png" group-title="Pluto TV", Investiga | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cprKkBF.png" group-title="Pluto TV", Investiga | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97de34fa-f695-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T3Vzso9.png" group-title="Pluto TV", Junior| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T3Vzso9.png" group-title="Pluto TV", Junior| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e5728363-f699-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tWtw9hw.png" group-title="Pluto TV", Kids | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tWtw9hw.png" group-title="Pluto TV", Kids | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ufdp3cl.png" group-title="Pluto TV", Los Archivos del FBI | SD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ufdp3cl.png" group-title="Pluto TV", Los Archivos del FBI | HD 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=eb51c2c5-f696-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8TfOqZv.png" group-title="Pluto TV", Master Chef | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8TfOqZv.png" group-title="Pluto TV", Master Chef | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=99501b49-f697-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5oLeidO.png" group-title="Pluto TV", Minuto para Ganar | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5oLeidO.png" group-title="Pluto TV", Minuto para Ganar | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=4023f3ab-f697-11ea-b899-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tHf0f6v.png" group-title="Pluto TV", Misterios | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tHf0f6v.png" group-title="Pluto TV", Misterios | HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eZSP5cQ.png" group-title="Pluto TV", Misterios Médicos | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eZSP5cQ.png" group-title="Pluto TV", Misterios Médicos | HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oK2gVsH.png" group-title="Pluto TV", MTV Classic| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oK2gVsH.png" group-title="Pluto TV", MTV Classic| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=0f290c3a-f68f-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HtJYsyl.png" group-title="Pluto TV", MTV Pranks| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HtJYsyl.png" group-title="Pluto TV", MTV Pranks| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8836&deviceLon=-68.8141&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9cdda49d-ede4-11ea-bf52-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dOt2Jo2.png" group-title="Pluto TV", Mundo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dOt2Jo2.png" group-title="Pluto TV", Mundo | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=959&deviceId=5d8d103f031154a4172d262b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1qdPq58.png" group-title="Pluto TV", Naruto| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1qdPq58.png" group-title="Pluto TV", Naruto| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=00e032f5-f693-11ea-b899-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ghKDRik.png" group-title="Pluto TV", Naturaleza| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ghKDRik.png" group-title="Pluto TV", Naturaleza| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97de34fa-f695-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kURilHG.png" group-title="Pluto TV", Nick Clásico| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kURilHG.png" group-title="Pluto TV", Nick Clásico| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=4432f29e-f694-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F619PhG.png" group-title="Pluto TV", Nick Junior| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F619PhG.png" group-title="Pluto TV", Nick Junior| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tv0d6eV.png" group-title="Pluto TV", Novelas| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tv0d6eV.png" group-title="Pluto TV", Novelas| HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y9MVhOJ.png" group-title="Pluto TV", Peleas| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y9MVhOJ.png" group-title="Pluto TV", Peleas| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=b7fbbfb9-f693-11ea-b314-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yqrekyX.png" group-title="Pluto TV", Las Pistas de Blue | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yqrekyX.png" group-title="Pluto TV", Las Pistas de Blue | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=bc5ff692-0829-4b94-bc9f-be14f0df99a4&clientModelNumber=na&deviceDNT=false&deviceId=bc5ff692-0829-4b94-bc9f-be14f0df99a4&deviceLat=19.4971&deviceLon=-99.1142&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=83.0.4103.106&marketingRegion=VE&serverSideAds=true&sessionID=c76e79ee-415e-11eb-8528-0242ac110002&sid=c76e79ee-415e-11eb-8528-0242ac110002&userId=
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FlqeZFf.png" group-title="Pluto TV", Pluto TV Teen| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FlqeZFf.png" group-title="Pluto TV", Pluto TV Teen| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=70b83b16-f690-11ea-a685-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NEywAm3.png" group-title="Pluto TV", Reality| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NEywAm3.png" group-title="Pluto TV", Reality| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=1b593072-f695-11ea-b314-0242ac110002&userId=&serverSideAds=true 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/82Ii37M.png" group-title="Pluto TV", Realities en Español | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/82Ii37M.png" group-title="Pluto TV", Realities en Español | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=953&deviceId=5d93b4d71754e6a4298d086e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EJMXqNY.png" group-title="Pluto TV", Rugrats Crecidos | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EJMXqNY.png" group-title="Pluto TV", Rugrats Crecidos | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m9GKSyx.png" group-title="Pluto TV", Series | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m9GKSyx.png" group-title="Pluto TV", Series | HD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a9c516a2-cd13-4321-a812-3ab72b0db482&deviceLat=-33.0728&deviceLon=-68.4627&deviceMake=Chrome%20Mobile&deviceModel=Chrome%20Mobile&deviceType=web&deviceVersion=80.0.3987.162&includeExtendedEvents=false&sid=2f9733fd-2d6f-4060-bfdb-229bce68a159&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F1Jhfsb.png" group-title="Pluto TV", Series Retro| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F1Jhfsb.png" group-title="Pluto TV", Series Retro| HD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a9c516a2-cd13-4321-a812-3ab72b0db482&deviceLat=-33.0728&deviceLon=-68.4627&deviceMake=Chrome%20Mobile&deviceModel=Chrome%20Mobile&deviceType=web&deviceVersion=80.0.3987.162&includeExtendedEvents=false&sid=db5bac6c-046f-43a7-9933-a5a040378960&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vK1y8rU.png" group-title="Pluto TV", Telefe Clasico | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vK1y8rU.png" group-title="Pluto TV", Telefe Clasico | HD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a9c516a2-cd13-4321-a812-3ab72b0db482&deviceLat=-33.0728&deviceLon=-68.4627&deviceMake=Chrome%20Mobile&deviceModel=Chrome%20Mobile&deviceType=web&deviceVersion=80.0.3987.162&includeExtendedEvents=false&sid=38279f58-67e9-4189-874f-bc6305cd9296&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dwFJJ8f.png" group-title="Pluto TV", The New Detectives | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dwFJJ8f.png" group-title="Pluto TV", The New Detectives | HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cyiavQq.png" group-title="Pluto TV", Velocidad | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cyiavQq.png" group-title="Pluto TV", Velocidad | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=7f1f2c55-f696-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qzddqSw.png" group-title="Pluto TV", Vida Real | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qzddqSw.png" group-title="Pluto TV", Vida Real | HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yvShCF9.png" group-title="Pluto TV", Yu-Gi-Oh! | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvShCF9.png" group-title="Pluto TV", Yu-Gi-Oh! | HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
 
@@ -678,7 +626,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriad
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NApBTT4.png" group-title="Deportes", Sports TV | HD | Turquía
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RwtKDMC.png" group-title="Deportes", Futbol  | HD | Tayikistán
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RwtKDMC.png" group-title="Deportes", Futbol  | FHD | Tayikistán
 https://live.teleradiocom.tj/8/3m.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JL70gxd.png" group-title="Deportes",Turkmenistan Sport | SD | Turkmentistán
@@ -690,23 +638,41 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1y1ng2c.png" group-title="Deportes", Bahrain Sports 2 | HD | Bahrein
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/415XUUL.png" group-title="Deportes", KTV Sport | SD | Kuwait
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x3S4rFJ.png" group-title="Deportes", KTV Sport Plus | SD | Kuwait
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S13MlS3.png" group-title="Deportes", Aio Sport | HD | Irán
-https://live.aionet.ir/hls/aiosport/aiosport.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k7UQ7YD.png" group-title="Deportes", Kyrgyz Television Sport | HD | Kirguistán
-https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EIyS8Jx.png" group-title="Deportes", Omán Sports | HD | Omán
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51PCxvI.jpg" group-title="Deportes", Door Darshan Sports | HD | India
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2wsVg9l.png" group-title="Deportes", Abu Dhabi Sports 1 | HD | Emiratos Árabes Unidos
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQesayb.png" group-title="Deportes", Abu Dhabi Sports 2 | HD | Emiratos Árabes Unidos
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WM3rCHa.png" group-title="Deportes", Dubai Racing | HD | Emiratos Árabes Unidos
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WM3rCHa.png" group-title="Deportes", Dubai Racing 2 | HD | Emiratos Árabes Unidos
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WM3rCHa.png" group-title="Deportes", Dubai Racing 3 | HD | Emiratos Árabes Unidos
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMKH2QD.png" group-title="Deportes", Dubai Sports 1 | HD | Emiratos Árabes Unidos
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Duck7Ra.png" group-title="Deportes", Dubai Sports 2 | HD | Emiratos Árabes Unidos
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gv5DMJj.png" group-title="Deportes", Dubai Sports 3 | HD | Emiratos Árabes Unidos
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/suGWlaj.png" group-title="Deportes", Sharjah Sports| HD | Emiratos Árabes Unidos
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vl5VDJA.png" group-title="Deportes", Yas Sports| HD | Emiratos Árabes Unidos
+https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cG5DVb2.png" group-title="Argentina", [COLOR lime]-Argentina-[/COLOR] 
@@ -1331,9 +1297,6 @@ https://linear-317.frequency.stream/dist/vix/317/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tixman6.png" group-title="México", MyTime Movie Network | HD | México D.F
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/On4k1UR.png" group-title="México", Azteca Internacional | HD | México D.F
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T8VKCfS.png" group-title="México", tlnovelas | HD | México D.F
 https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
 
@@ -1408,9 +1371,6 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p5paAMP.png" group-title="México", Señal España | HD | Durango
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sA3F2rm.png" group-title="México", Tlaxcala TV | HD | Tlaxcala
-https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yVHrAp4.png" group-title="México", Canal 66 | HD | Mexicali
 https://59802217c6db4.streamlock.net/canal66/videocanal66/chunklist_w1111132592.m3u8
@@ -1597,9 +1557,23 @@ https://avers.pp.ua/hls/efir.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iWeYJSw.png" group-title="Uruguay", [COLOR lime]-Uruguay-[/COLOR]  
 https://i.imgur.com/vAluESq.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3nJq8X7.png" group-title="Uruguay", Canal Alma TV | HD | ?
+https://live.cloudhostservers.com:3486/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTyHbV2.png" group-title="Uruguay", Del Este TV | HD | Punta del Este
+https://stream.oursnetworktv.com/latin/estetvo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AIUmaBQ.png" group-title="Uruguay", TV Florida | HD | Florida
+https://stmv1.srvif.com/tv6842/tv6842/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Pk37AN.png" group-title="Uruguay", UCL | HD | Montevideo
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QHMAt70.png" group-title="Uruguay", Charrúa Televisión | HD | Montevideo
+https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AZ9cR8M.png" group-title="Uruguay", Vivo TV | HD | Montevideo
+https://stream.vivotv.uy/hls/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pDLwbc0.png" group-title="Venezuela", [COLOR lime]-Venezuela-[/COLOR]
@@ -1684,6 +1658,15 @@ https://emotiontv.cdn.iftv.io/rtmp2hls/hls/c2f26c77_ad02_445a_b125_3ba571633d8a/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sPi4jFp.png" group-title="Musicales", Qmusic | HD | Países Bajos
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zOzj4LK.png" group-title="Musicales", Now 70's | HD | Reino Unido
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CzWmHdA.png" group-title="Musicales", Now 80's | HD | Reino Unido
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06o7PyF.png" group-title="Musicales", Now Rock | HD | Reino Unido
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMWvZ36.jpg" group-title="Musicales", Kronehit| HD | Austria
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
 
@@ -1747,16 +1730,16 @@ https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUgsIhO.png" group-title="Musicales", Viva| FHD | Rusia
 https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gIVnzS0.png" group-title="Musicales", Muzzik Rock | HD | Bosnia y Herzegobina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8zM0p4p.png" group-title="Musicales", Muzzik Rock | HD | Bosnia y Herzegobina
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gIVnzS0.png" group-title="Musicales", Muzzik Moba | HD | Bosnia y Herzegobina
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gIVnzS0.png" group-title="Musicales", Muzzik Jeka | HD | Bosnia y Herzegobina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qsk1OjE.png" group-title="Musicales", Muzzik Jeka | HD | Bosnia y Herzegobina
 https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gIVnzS0.png" group-title="Musicales", Muzzik World | HD | Bosnia y Herzegobina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qg3P3Y8.png" group-title="Musicales", Muzzik World | HD | Bosnia y Herzegobina
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gIVnzS0.png" group-title="Musicales", Muzzik Tik Tak | HD | Bosnia y Herzegobina
@@ -1786,11 +1769,44 @@ https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tpRNE1r.png" group-title="Musicales", TRT Müzik| HD | Turquía
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1XtGY2I.png" group-title="Musicales", Number 1 Dance | HD | Turquía
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ABI3ej.png" group-title="Musicales", Power | HD | Turquía
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JfGwGGm.png" group-title="Musicales", Power Türk | HD | Turquía
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UyhDi6p.png" group-title="Musicales", Power Dance | HD | Turquía
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lqF4UdE.png" group-title="Musicales", Power Love | HD | Turquía
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3c2g2gu.png" group-title="Musicales", Power Türk Akustik | HD | Turquía
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMcDQK6.png" group-title="Musicales", Power Türk Slow | HD | Turquía
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N8K9zH1.png" group-title="Musicales", Power Türk Taptaze | HD | Turquía
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PRbUszm.png" group-title="Musicales", Turkmen Owazy | HD | Turkmenistán
+https://alpha.tv.online.tm/hls/ch005.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J826idH.png" group-title="Musicales", Arabica Music | FHD | Líbano
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5GGjDWS.png" group-title="Musicales", Falastini TV | FHD | Palestina
 https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZW2qY3.png" group-title="Musicales", PMC | HD | Emiratos Árabes Unidos
+https://hls.pmchd.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sN8iHHZ.png" group-title="Musicales", PMC Royale | HD | Emiratos Árabes Unidos
+https://rohls.pmc.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oy8AAKq.png" group-title="Musicales", Kyrgyz Television Muzika | HD | Kirguistán
 https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
