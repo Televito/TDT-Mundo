@@ -174,7 +174,7 @@ https://v4.tustreaming.cl/limachemovil/index.m3u8
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LmAvzCI.png" group-title="Chile", Raices Árabes TV | HD | Santiago
-https://tv.streaming-chile.com:19360/raicesarabestv/raicesarabestv.m3u8
+https://tv.streaming-chile.com:8081/raicesarabes/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wheM0ma.png" group-title="Chile", La Granja TV | HD | La Granja
 https://oracle.streaminghd.cl/8126/8126/chunklist_w759863669.m3u8
