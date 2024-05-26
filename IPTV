@@ -602,8 +602,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fceaab47
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yO19Ju4.png" group-title="Deportes", [COLOR lime]-Deportes-[/COLOR] 
 https://i.imgur.com/qRolRIi.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iHhc7PK.png" group-title="Deportes", Teletrak | SD | Chile
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iHhc7PK.png" group-title="Deportes", Teletrak | HD | Chile
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94Kz1QU.png" group-title="Deportes", Sello de Raza | HD | Chile
+https://stmv5.voxtvhd.com.br/selloderazatv/selloderazatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x4FGq0Y.png" group-title="Deportes", Wapa Deportes | HD | Puerto Rico
 https://live.field59.com/wapa/wapa2/playlist.m3u8
@@ -617,7 +620,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BLRypqs.png" group-title="Deportes", Swiss Sport TV | HD | Suiza
 https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6I4oGP6.png" group-title="Deportes", Fuel TV | HD | Portugal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6I4oGP6.png" group-title="Deportes", Fuel TV | HD | Austria
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:123_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rmg00Vx.png" group-title="Deportes", RTV Sport | HD | San Marino
