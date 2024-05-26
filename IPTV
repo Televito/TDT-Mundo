@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:14/05/2024
+#ultima actualizacion:26/05/2024
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en caché, así siempre se cargará la lista mas actualizada.
 #   Televito, lista IPTV basada en el proyecto extinto Laope
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 14/05/2024-[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 26/05/2024-[/COLOR]
 https://i.imgur.com/IRSSjlI.mp4
 
 
@@ -30,7 +30,7 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hiDXUNN.png" group-title="Chile", TV5 | HD | Linares
-https://unlimited1-cl-isp.dps.live/tv5/tv5.smil/playlist.m3u8
+https://i.imgur.com/UZDlYdR.mp4
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/6EHqEs2.png" group-title="Chile", NTV | HD | Santiago
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
@@ -2298,6 +2298,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mf5E7OI.png" group-title="Papelera", Arryadia 3| HD | Marruecos
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hiDXUNN.png" group-title="Papelera", TV5 | HD | Linares
+https://unlimited1-cl-isp.dps.live/tv5/tv5.smil/playlist.m3u8
 
 
 
