@@ -110,6 +110,9 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CAKZqVT.png" group-title="Chile", Tendencias Prime | FHD | Santiago
 https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rtKSxJX.png" group-title="Chile", Classic Channel | HD | Punta Arenas
+https://paneltv.online:1936/8046/8046/chunklist_w1064988520.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PjAS6V9.png" group-title="Chile", UCV | HD | Valparaíso
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
