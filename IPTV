@@ -48,7 +48,7 @@ https://unlimited1-cl-isp.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nlLc8GA.png" group-title="Chile", Chilevisión | FHD | Santiago
-https://jireh-2-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_4000.m3u8
+https://i.imgur.com/UZDlYdR.mp4
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AlAXBgI.png" group-title="Chile", Corcubío | HD | Concepción
 http://45.225.95.154:8081/mcg/corcubio/playlist.m3u8
@@ -96,7 +96,7 @@ https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nlLc8GA.png" group-title="Chile", Chilevisión | FHD | Santiago | Alt.
-https://jireh-2-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_2500.m3u8
+https://i.imgur.com/UZDlYdR.mp4
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/IWulKg2.png" group-title="Chile", Universidad de Chile TV | FHD | Santiago
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
@@ -2300,6 +2300,13 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriad
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hiDXUNN.png" group-title="Papelera", TV5 | HD | Linares
 https://unlimited1-cl-isp.dps.live/tv5/tv5.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nlLc8GA.png" group-title="Papelera", Chilevisión | FHD | Santiago
+https://jireh-2-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_4000.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nlLc8GA.png" group-title="Chile", Chilevisión | FHD | Santiago | Alt.
+https://jireh-2-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_2500.m3u8
+
 
 
 
