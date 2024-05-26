@@ -128,6 +128,9 @@ https://stream.skarnetchile.com:19360/suyaitv/suyaitv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Lwhe58T.png" group-title="Chile", +Cine | HD | Chile
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oLF2n09.png" group-title="Chile", Premium TV | HD | Chile
+https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/doVPHbC.png" group-title="Chile", Estación Retro | HD | Chile
 https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8
 
@@ -241,6 +244,9 @@ https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fTtjIbB.png" group-title="Chile", Televida | HD | Chillán
 https://tls-cl.cdnz.cl/televida/live/chunklist_w525710369.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gGM4Qnp.png" group-title="Chile", Tv y TV  | HD | Yungay
+https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sI69ux1.png" group-title="Chile", Concepción TV  | FHD | Concepción
 https://stream.blserver.cl/hls/ctv/index.m3u8
