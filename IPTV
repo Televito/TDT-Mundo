@@ -197,6 +197,9 @@ http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chu
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dBOZBTX.png" group-title="Chile", Caldera Visión | HD | Caldera
 https://5ff3d9babae13.streamlock.net/frknrusdct/frknrusdct/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xGxNot7.png" group-title="Chile", Señal 21 | HD | Coquimbo
+https://premium.tvcontrolcp.com:19360/8050/8050.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DdBgtNW.gif" group-title="Chile", Enfoque Digital | HD | Vallenar
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 
