@@ -981,20 +981,14 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1188826163.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oZGfpO8.png" group-title="Deportes", Red Bull TV | FHD | Austria
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BLRypqs.png" group-title="Deportes", Swiss Sport TV | HD | Suiza
-https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6I4oGP6.png" group-title="Deportes", Fuel TV | HD | Austria
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:123_HD.smil/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rmg00Vx.png" group-title="Deportes", RTV Sport | HD | San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6I4oGP6.png" group-title="Deportes", Fuel TV | HD | Estados Unidos
+https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/playlist/amg01074-fueltv-fueltvemeaen-sportstribal/cb553d167a6c64889bd43e64d6ef42a0d92437fc087a8d6933fb4b926bc10f41edbdf0c8fd37b63619d70f96690c0257597edb689e3c5d92b92ffa2a6d380871999fac78df890a72cabc725636a326470aab1e628576087d90a939009732b87c4a42ba5c20067cddf359bd150393d148d2602c88aac3623f6f4e5d9e5a58e4f60ff7e2e35f118971a0b0491e882716b4d15fcbd64fb882d50f9d178e75a07624a3caabebea6c5ba0499b24ce766c7b2a7495850beba33f85fbeaa7bd0113522b2d5af3b79bbe6f3183554a5ff985b8d7b9649faffb49ad6f24fba379418335866eb94bdb89a23820daad206310deb5696420a9eaaecaff303ffd44f2adebd47c36f9a4521026b8853d1898e44bdf6b6d82c51390b055b714236d19cd9457929eb3ccdcb1835e9524cdc8ce6b5c284b4e0b188f51ae9b228e678d38e0f64270070d68a49440dcc6c106665d19d2c91ef5030bb5debc86dd2532de2f4e09bf2e8a0d4524e71c5851c961b99635678c662d803636f41175a34aeeb721f0e88ab75375e590970caf2fdcb40cd3e40be6386f0e4ce0a45e382f2951d9e073154a38a923c3dcc5e67b0c7a82d4c5eccf5e3d4774577e0585f7ff32fcaac53a1602ce432c032543428e65d931a81966c64d05a7d16361aeb49ec8/135/1280x720_2657600/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H2Z0ZWB.png" group-title="Deportes",Lax Sports Network | HD | Estados Unidos
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mf5E7OI.png" group-title="Deportes", Arryadia 3| HD | Marruecos
-https://i.imgur.com/UZDlYdR.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NApBTT4.png" group-title="Deportes", Sports TV | HD | Turquía
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
@@ -1004,12 +998,6 @@ https://live.teleradiocom.tj/8/3m.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JL70gxd.png" group-title="Deportes",Turkmenistan Sport | SD | Turkmentistán
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJHacYp.png" group-title="Deportes", Bahrain Sports 1 | HD | Bahrein
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1y1ng2c.png" group-title="Deportes", Bahrain Sports 2 | HD | Bahrein
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EIyS8Jx.png" group-title="Deportes", Omán Sports | HD | Omán
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
@@ -1044,10 +1032,6 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 https://i.imgur.com/Av8yUYC.mp4
 
 
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/2aDkJNH.png" group-title="Argentina", América Tucumán | HD | Tucumán
-https://ythls.armelin.one/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LiU5CsO.png" group-title="Argentina", Canal 2  | HD | Ushuaia
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 
@@ -1059,9 +1043,6 @@ https://intelincloud01.com.ar/hls/cn3/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sKorLDe.png" group-title="Argentina", Televisión Pública Pampeana | HD | Santa Rosa
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rpADcZw.png" group-title="Argentina", TVP | FHD | Buenos Aires
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EQhKDuN.png" group-title="Argentina", Garage TV | SD | Buenos Aires
 https://stream1.sersat.com/hls/garagetv.m3u8
@@ -1091,7 +1072,7 @@ https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ri93x5k.png" group-title="Argentina", Canal 4 | HD | San Juan 
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+https://i.imgur.com/UZDlYdR.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7zJVolY.png" group-title="Argentina", Canal 5  | HD | Santa Fe
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
@@ -1127,13 +1108,7 @@ https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RZjqEW.png" group-title="Argentina", Canal 10 TV | HD | Rio Negro
-https://59c5c86e10038.streamlock.net/8204/8204/chunklist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8LgP0nb.png" group-title="Argentina", Canal 10  | HD | Mar del Plata
-https://g5.vxral-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/UA46kp8.png" group-title="Argentina", Canal 10 | HD | Junín
-https://g3.vxral-hor.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/canal10junin-100056_720p.m3u8
+https://i.imgur.com/UZDlYdR.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/InD73GW.png" group-title="Argentina", Multivisión Federal | HD | Salta
 http://panel.dattalive.com:1935/8250/8250/chunklist_w1202004290.m3u8
@@ -1145,16 +1120,13 @@ http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 https://livetrx01.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/22R2eBR.png" group-title="Argentina", 13 Max  | HD | Corrientes
-https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo/playlist.m3u8
+https://i.imgur.com/UZDlYdR.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0DE38Ta.png" group-title="Argentina", Canal 13 | HD | Jujuy
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+https://i.imgur.com/UZDlYdR.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hQSwbnL.png" group-title="Argentina", Ciudad Magazine | HD | Buenos Aires
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MrpIA1R.png" group-title="Argentina", Canal de la Ciudad | HD | Buenos Aires
-https://g4.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OrZwIGi.png" group-title="Argentina", Canal Rural | HD | Buenos Aires
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
@@ -1162,8 +1134,8 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZGqyOnc.png" group-title="Argentina", Chacra TV | SD | Buenos Aires
 http://s8.stweb.tv:1935/chacra/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fpCOUNg.png" group-title="Argentina", Coop | SD | Jesús María
-https://panel.dattalive.com/8138/8138/chunklist_w1393877408.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JlQyJaX.png" group-title="Argentina", Coop | SD | Jesús María
+https://smt-usr-edge02.sensa.com.ar/output/NDS/tvcoopjpH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bkGNPUs.png" group-title="Argentina", El Palomar  | HD | Tucumán
 https://stream.trixserver.com:3249/live/uv038live.m3u8
@@ -1175,13 +1147,10 @@ https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HffgQdT.png" group-title="Argentina",CN 24/7 | HD | Neuquén
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+https://panel.host-live.com/6605140/smil:6605140.smil/chunklist_w1990388676_b1000000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I9mes3K.png" group-title="Argentina", Cosmos  | HD | San Juan
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xV96j7R.png" group-title="Argentina", Canal 26  | HD | Buenos Aires
-https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ATX43Mp.png" group-title="Argentina", Canal U Córdoba  | HD | Buenos Aires
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
@@ -1193,7 +1162,7 @@ https://5e7cdf2370883.streamlock.net/tdconline/_definst_/tdconline/chunklist_w40
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dz3UVPn.png" group-title="Argentina", Telecreativa | SD | Lanús
-https://panel.dattalive.com/8012/8012/chunklist_w1909279630.m3u8
+https://panel.host-live.com/8012/8012/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dexx1Rx.png" group-title="Argentina", RTN | HD | Neuquén
 http://media.neuquen.gov.ar/rtn/television/chunklist_w955572744.m3u8
@@ -1213,10 +1182,7 @@ https://i.imgur.com/zITTZhP.mp4
 http://186.121.206.197/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7I41ZTi.png" group-title="Bolivia", Cadena A  | HD | Bolivia
-https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pnnP9Jl.png" group-title="Bolivia", TVA | HD | Bolivia
-https://vdo.grupolimalive.com:3089/live/tvelive.m3u8
+https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KKPi9y3.png" group-title="Bolivia", RTVE | HD | Bolivia
 https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
@@ -1271,7 +1237,7 @@ https://movil.ejeserver.com/live/canal8tv.m3u8
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pvUxHJy.png" group-title="Colombia", Canal Cartagena | HD | Cartagena
-https://edge.teveo.com.co/live/AeAAAgAlAANrA1IAyADIQCAAAAAAAAAAAmY4BtS1oPgGAAAA/chunklist_w1289111914.m3u8
+https://edge.teveo.com.co/live/AeAAAgAlAANrA1IAyADIQCAAAAAAAAAAAmZfxzC1oX7KAAAA/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aWvKJzr.png" group-title="Colombia", Canal Visión Dorada | HD | Caldas
 https://movil.ejeserver.com/live/visiondorada.m3u8
@@ -1297,7 +1263,7 @@ https://i.imgur.com/6vNR6WW.mp4
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w1960667504.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H5ITYWY.jpg" group-title="Costa Rica", Telesistema | HD | San José
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+https://i.imgur.com/UZDlYdR.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SWxQJ6D.png" group-title="Costa Rica", Colosal  TV | HD | Ciudad Neily
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
@@ -1368,7 +1334,7 @@ https://edge-nodo-001.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/6m20jCW.png" group-title="España", La Otra | HD | Madrid
-https://laotra-1-23-secure2.akamaized.net/master.m3u8
+https://i.imgur.com/UZDlYdR.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gXsjpxD.png" group-title="España", Canal Sur Andalucía | HD | Andalucía
 https://cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/.m3u8
@@ -1446,7 +1412,7 @@ https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C5QEMNB.png" group-title="España", Fuengirola Televisión | SD | Fuengirola
-https://secure.todostreaming.es/live/nerja-livestream.m3u8
+https://streaming004.gestec-video.com/hls/FTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YRtVL6c.png" group-title="España", TV Ferrol | HD | Ferrol
 https://directo.tvferrol.es/tv.m3u8
@@ -1541,8 +1507,11 @@ http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GYbblQi.png" group-title="Italia", Canale 7  | HD | Puglia 
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOPWBFk.png" group-title="Italia", La 7 | HD | Roma
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pYKhhc4.png" group-title="Italia", TV2000 | HD | Roma
-http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ouSptk1.png" group-title="Italia", Prima TV | HD | Sicilia
 http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8
@@ -1556,8 +1525,9 @@ http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ImvO2rV.png" group-title="Italia",Telefoggia | SD | Foggia
 http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/alKlcEp.png" group-title="Italia",Tele Pegaso | SD | Catania
-https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RQ5nezI.png" group-title="Italia", Videolina | HD | Cerdeña
+https://streamcdnc1-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S56304172/a48u7YzTME3C/chunklist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2bzUbnZ.png" group-title="México", [COLOR lime]-México-[/COLOR]
@@ -2671,9 +2641,6 @@ https://i.imgur.com/LJnHIJU.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4gpykz.png" group-title="Papelera", Locomotion | SD | República Dominicana 
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mf5E7OI.png" group-title="Papelera", Arryadia 3| HD | Marruecos
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nlLc8GA.png" group-title="Papelera", Chilevisión | FHD | Santiago
 https://jireh-2-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_4000.m3u8
 
@@ -2692,7 +2659,22 @@ https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zm2zree.png" group-title="Papelera", Latinokids  | SD | Uruguay
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ri93x5k.png" group-title="Papelera", Canal 4 | HD | San Juan 
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XMsfYzc.png" group-title="Pluto TV", Babar | HD 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3RZjqEW.png" group-title="Papelera", Canal 10 TV | HD | Rio Negro
+https://59c5c86e10038.streamlock.net/8204/8204/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/22R2eBR.png" group-title="Papelera", 13 Max  | HD | Corrientes
+https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0DE38Ta.png" group-title="Papelera", Canal 13 | HD | Jujuy
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H5ITYWY.jpg" group-title="Papelera", Telesistema | HD | San José
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6m20jCW.png" group-title="Papelera", La Otra | HD | Madrid
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
+
 
