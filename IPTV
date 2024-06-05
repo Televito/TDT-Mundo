@@ -454,6 +454,9 @@ https://r.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/09BIYgb.png" group-title="Pluto TV", Archivos Forenses | HD 
 https://r.mjh.nz/PlutoTV/5efb8c19b2678b000780d032-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0HXXH97.png" group-title="Pluto TV", Avatar | HD 
+https://r.mjh.nz/PlutoTV/61373c865ed5810007173fbc-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oBFcjWU.png" group-title="Pluto TV", Aventura | HD 
 https://r.mjh.nz/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
 
@@ -466,11 +469,26 @@ https://r.mjh.nz/PlutoTV/646cce4d1593940008a33f09-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KzZDAwq.png" group-title="Pluto TV", Babyfirst | HD 
 https://r.mjh.nz/PlutoTV/5ebac49ce4dc8b00078b23bc-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IHx66Hf.png" group-title="Pluto TV", Baby Shark TV | HD 
+https://r.mjh.nz/PlutoTV/619d5e6a093e7c0007489211-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jhgBfTG.png" group-title="Pluto TV", Backdoor | HD 
 https://r.mjh.nz/PlutoTV/633dc8684bf50b00074a46b1-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z2V8FTV.png" group-title="Pluto TV", Barney | HD 
 https://r.mjh.nz/PlutoTV/5f29ada4bdaebd000708d49d-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3mK0ITh.png" group-title="Pluto TV", BBC Drama | HD
+https://r.mjh.nz/PlutoTV/60dafb9a0df1ba000758d37b-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3a28rwe.png" group-title="Pluto TV", Beyblade | HD 
+https://r.mjh.nz/PlutoTV/632119a92c3b880007d3f5dc-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pgRRCt1.png" group-title="Pluto TV", Blue Bloods | HD 
+https://r.mjh.nz/PlutoTV/65786a1ccbd0d60008f7e2a9-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ziGLxE3.png" group-title="Pluto TV", Bob Esponja Pantalones Cuadrados | HD 
+https://r.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qrDR5LL.png" group-title="Pluto TV", Boom | HD 
 https://r.mjh.nz/PlutoTV/6099600015e88c0007ecda25-alt.m3u8
@@ -478,8 +496,14 @@ https://r.mjh.nz/PlutoTV/6099600015e88c0007ecda25-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwWyK0K.png" group-title="Pluto TV", Boruto: Naruto Next Generations  | HD 
 https://r.mjh.nz/PlutoTV/656f37f257fe4a000884dfee-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S4oCxw0.png" group-title="Pluto TV", Call the Midwife | HD
+https://r.mjh.nz/PlutoTV/65dded6966eec80008947157-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8xIRbq.png" group-title="Pluto TV", Canal 6 CdMX | HD 
 https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RucP1EB.png" group-title="Pluto TV", Captain Tsubasa | HD 
+https://r.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8XbVBQ.png" group-title="Pluto TV", Cazador de Homicidas | HD 
 https://r.mjh.nz/PlutoTV/6109a9f5531b840007a4a187-alt.m3u8
@@ -487,11 +511,14 @@ https://r.mjh.nz/PlutoTV/6109a9f5531b840007a4a187-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HgiJEtE.png" group-title="Pluto TV", Chiquititas | HD 
 https://r.mjh.nz/PlutoTV/620e67a63b5e370007e06bb2-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QXj1ecw.png" group-title="Pluto TV", Chilevision Contigo | HD
+https://r.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6Myhfe.png" group-title="Pluto TV", Chilevision Deportes | HD 
+https://r.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MhZkg1N.png" group-title="Pluto TV", Ciencia | HD 
 https://r.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L4LSMG3.png" group-title="Pluto TV", Cine| HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f8fc5ffd-f68d-11ea-b77a-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jXjXcyt.png" group-title="Pluto TV", Cine Acción | HD
 https://r.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
@@ -538,6 +565,9 @@ https://r.mjh.nz/PlutoTV/609ae5cd48d3200007b0a98e-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mzPdOy3.png" group-title="Pluto TV", Competencias | HD
 https://r.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cqiBnN0.png" group-title="Pluto TV", Conciertos por Stingray | HD
+https://r.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPRGCkb.png" group-title="Pluto TV", COPS | HD
 https://r.mjh.nz/PlutoTV/6419ab7c9189ce000865a469-alt.m3u8
 
@@ -553,11 +583,20 @@ https://r.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hcuajPL.png" group-title="Pluto TV", Daria | HD
 https://r.mjh.nz/PlutoTV/62d0895ebe7a970008785244-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5gp9vCa.png" group-title="Pluto TV", Death Note | HD
+https://r.mjh.nz/PlutoTV/626c2ed933a2890007e91422-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8pbvG92.png" group-title="Pluto TV", Deportes | HD
 https://r.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oy8JywZ.png" group-title="Pluto TV", Desafío Super Humanos | HD
 https://r.mjh.nz/PlutoTV/6495af324c014a000842e923-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UhPW5rR.png" group-title="Pluto TV", Detective Conan | HD
+https://r.mjh.nz/PlutoTV/629a066860ef810008267b70-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEIARtL.png" group-title="Pluto TV", Doctor Who | HD
+https://r.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CLpdRH4.png" group-title="Pluto TV", Dramas Coreanos | HD
 https://r.mjh.nz/PlutoTV/6185a9a88b2ce30007de5128-alt.m3u8
@@ -565,14 +604,29 @@ https://r.mjh.nz/PlutoTV/6185a9a88b2ce30007de5128-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/geP3B5N.png" group-title="Pluto TV", Dog el cazarrecompensas | HD
 https://r.mjh.nz/PlutoTV/5f9992c685a2a80007fa414a-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOCPg2z.png" group-title="Pluto TV", Dora, La Exploradora | HD
+https://r.mjh.nz/PlutoTV/656e28a2954b020008ed133a-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uAnW1Du.png" group-title="Pluto TV", El Encantador de Perros | HD
 https://r.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MQyWPSQ.png" group-title="Pluto TV", El Reino Infantil | HD
+https://r.mjh.nz/PlutoTV/5f4d3d06fb60d8000781fce8-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w1O4InI.png" group-title="Pluto TV", Embrujadas | HD
+https://r.mjh.nz/PlutoTV/657868a7a620e30008fdbfeb-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXnw0bp.png" group-title="Pluto TV", Empeños a lo Bestia | HD
 https://r.mjh.nz/PlutoTV/5f23102d5e239d00074b092a-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABzg6kr.png" group-title="Pluto TV", Érase una vez... | HD
+https://r.mjh.nz/PlutoTV/63c69c87808b740007599fe1-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G0TLvqt.png" group-title="Pluto TV", España | HD
 https://r.mjh.nz/PlutoTV/5ffe17e3d765170007c3a4fe-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlihM5b.png" group-title="Pluto TV", E-Sports | HD
+https://r.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMSe37Q.png" group-title="Pluto TV", Estrellas de Acción | HD
 https://r.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
@@ -604,8 +658,17 @@ https://r.mjh.nz/PlutoTV/64fb1f6e6625510008c00848-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6v9R4dj.png" group-title="Pluto TV", Humor | HD
 https://r.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnajOiG.png" group-title="Pluto TV", iCarly | HD
+https://r.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QaeO8kM.png" group-title="Pluto TV", Ice Pilots | HD
 https://r.mjh.nz/PlutoTV/62154548a2be360007cb02f0-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kiwgy9d.png" group-title="Pluto TV", Imagen TV+ | HD
+https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pPYj7X6.png" group-title="Pluto TV", Inazuma Eleven | HD
+https://r.mjh.nz/PlutoTV/632c6df43d2bc5000751f621-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AQr9KCO.png" group-title="Pluto TV", Infierno Sobre Ruedas | HD
 https://r.mjh.nz/PlutoTV/64ff26233efb5100082eeb2e-alt.m3u8
@@ -619,8 +682,20 @@ https://r.mjh.nz/PlutoTV/615b9855c6b58b000724477f-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rDeJPQS.png" group-title="Pluto TV", ITV Deportes | HD
 https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T3Vzso9.png" group-title="Pluto TV", Junior| HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T3Vzso9.png" group-title="Pluto TV", Junior | HD
 https://r.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w6RCNO3.png" group-title="Pluto TV", Karaoke por Stingray | HD
+https://r.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9tjBMF.png" group-title="Pluto TV", K-Drama | HD
+https://r.mjh.nz/PlutoTV/6475bfec536e0c0008858e9f-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hxzdkrb.png" group-title="Pluto TV", K-Pop | HD
+https://r.mjh.nz/PlutoTV/60c8b3ddaaf9d4000780066f-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQwc7Zv.png" group-title="Pluto TV", Kenan y Kel | HD
+https://r.mjh.nz/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tWtw9hw.png" group-title="Pluto TV", Kids | HD
 https://r.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
@@ -634,8 +709,17 @@ https://r.mjh.nz/PlutoTV/63211ba9cad976000794f988-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yqrekyX.png" group-title="Pluto TV", Las Pistas de Blue | HD
 https://r.mjh.nz/PlutoTV/5f9996533c9de3000759ccb5-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wkzaKxF.png" group-title="Pluto TV", Las Tortugas Ninja | HD
+https://r.mjh.nz/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfhw1YI.png" group-title="Pluto TV", Las Tres Mellizas | HD
+https://r.mjh.nz/PlutoTV/645a30f6f3f5b1000864ac04-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ufdp3cl.png" group-title="Pluto TV", Los Archivos del FBI | HD 
 https://r.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/25B7kAL.png" group-title="Pluto TV", Los Padrinos Mágicos | HD 
+https://r.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wSN5wk9.png" group-title="Pluto TV", Lucha Libre AAA | HD 
 https://r.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
@@ -648,6 +732,9 @@ https://r.mjh.nz/PlutoTV/64bed7005dc16600089b84e9-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IESEMob.png" group-title="Pluto TV", MacGyver | HD
 https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RudG0I9.png" group-title="Pluto TV", Melrose Place | HD
+https://r.mjh.nz/PlutoTV/6245c03922d9d4000760d205-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/svTdRxV.png" group-title="Pluto TV", Mi Coche Clásico | HD
 https://r.mjh.nz/PlutoTV/656e2536fbc15b00084ae29d-alt.m3u8
@@ -673,11 +760,8 @@ https://r.mjh.nz/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZeSBZis.png" group-title="Pluto TV", Motorvision TV | HD
 https://r.mjh.nz/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4bLnPPo.png" group-title="Pluto TV", MTV | HD
-https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFWcR3i.png" group-title="Pluto TV", MTV Catfish | HD
-https://r.mjh.nz/PlutoTV/625461ef01f27a0007976ad1-alt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tYygtIQ.png" group-title="Pluto TV", MTV Biggest Pop | HD
+https://r.mjh.nz/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oK2gVsH.png" group-title="Pluto TV", MTV Classic | HD
 https://r.mjh.nz/PlutoTV/5de91b7ea86ee60009d89e75-alt.m3u8
@@ -685,20 +769,23 @@ https://r.mjh.nz/PlutoTV/5de91b7ea86ee60009d89e75-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dZbrBe5.png" group-title="Pluto TV", MTV Con Mi Ex | HD
 https://r.mjh.nz/PlutoTV/638693db857364000781b471-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HtJYsyl.png" group-title="Pluto TV", MTV Pranks | HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8836&deviceLon=-68.8141&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9cdda49d-ede4-11ea-bf52-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zCJSIA3.png" group-title="Pluto TV", MTV Flow Latino | HD
+https://r.mjh.nz/PlutoTV/62b218fc511d4b00070ddc0c-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rZmr2oU.png" group-title="Pluto TV", MTV Ridiculousness | HD
 https://r.mjh.nz/PlutoTV/5e98a911c881310007d7aae2-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjPX9YP.png" group-title="Pluto TV", MTV Rock | HD
+https://r.mjh.nz/PlutoTV/65786d29dfed030008ce2fa7-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xAT1YTY.png" group-title="Pluto TV", MTV Shore | HD
 https://r.mjh.nz/PlutoTV/61a52615cbef2500072876e2-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mb94N00.png" group-title="Pluto TV", MTV Spankin' New | HD
+https://r.mjh.nz/PlutoTV/6047fd723b5bd00007de7092-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VqvYc8G.png" group-title="Pluto TV", MTV Teen Mom | HD
 https://r.mjh.nz/PlutoTV/620fd9f4afb9a80007a9c6d5-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dOt2Jo2.png" group-title="Pluto TV", Mundo | HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=959&deviceId=5d8d103f031154a4172d262b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1qdPq58.png" group-title="Pluto TV", Naruto | HD
 https://r.mjh.nz/PlutoTV/5ee92e72fb286e0007285fec-alt.m3u8
@@ -715,11 +802,11 @@ https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZuuvbaM.png" group-title="Pluto TV", Nickelodeon Clásico | HD
 https://r.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AKgUiCC.png" group-title="Pluto TV", Nick Junior Club | HD
-https://r.mjh.nz/PlutoTV/5ddd7cb2cbb9010009b4fe32-alt.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIXjmnq.png" group-title="Pluto TV", Nickelodeon Pluto TV | HD
 https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rFzc0L2.png" group-title="Pluto TV", Nick Teen | HD
+https://r.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tv0d6eV.png" group-title="Pluto TV", Novelas| HD
 https://r.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
@@ -730,8 +817,14 @@ https://r.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8zn7u7p.png" group-title="Pluto TV", Obsesión por los Autos | HD
 https://r.mjh.nz/PlutoTV/64025592953da40008bf9238-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ia6VuvF.png" group-title="Pluto TV", One Piece | HD
+https://r.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wMjd2WV.png" group-title="Pluto TV", Paisajes por Stingray | HD
 https://r.mjh.nz/PlutoTV/5f4fed840a2764000720d966-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lGHFd7Q.png" group-title="Pluto TV", PAW Patrol Patrulla de Cachorros | HD
+https://r.mjh.nz/PlutoTV/6495c6ad115d060008bf6b52-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y9MVhOJ.png" group-title="Pluto TV", Peleas| HD
 https://r.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
@@ -741,9 +834,6 @@ https://r.mjh.nz/PlutoTV/64f6163a30ab3300083d870e-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NEywAm3.png" group-title="Pluto TV", Reality| HD
 https://r.mjh.nz/PlutoTV/5dcde197f6591d0009839e04-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/82Ii37M.png" group-title="Pluto TV", Realities en Español | HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=953&deviceId=5d93b4d71754e6a4298d086e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EtaINP9.png" group-title="Pluto TV", Recetas | HD
 https://r.mjh.nz/PlutoTV/609062295c2b8f0007199e7a-alt.m3u8
@@ -757,6 +847,9 @@ https://r.mjh.nz/PlutoTV/63f6294449839300085c4bd2-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/txhCtn3.png" group-title="Pluto TV", Rock Story | HD
 https://r.mjh.nz/PlutoTV/61f159209fcc3800076ed4a1-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/peEZ8zU.png" group-title="Pluto TV", Rocket Power | HD
+https://r.mjh.nz/PlutoTV/6202ab549654c800076ee13f-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VmckIkE.png" group-title="Pluto TV", Rookie Blue: Policías Novatos | HD
 https://r.mjh.nz/PlutoTV/64ff270f30ab3300084e259c-alt.m3u8
 
@@ -766,8 +859,14 @@ https://r.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ieTgzQh.png" group-title="Pluto TV", Runtime | HD
 https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8lw6V1D.png" group-title="Pluto TV", Sakura, cazadora de cartas | HD
+https://r.mjh.nz/PlutoTV/65819cb3a620e300080f63bd-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bms1Ho3.png" group-title="Pluto TV", Sci-Fi | HD
 https://r.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/62shHnA.png" group-title="Pluto TV", Sensación de Vivir (90210)  | HD
+https://r.mjh.nz/PlutoTV/6245c2a5eec07b0007249fc8-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m9GKSyx.png" group-title="Pluto TV", Series | HD
 https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
@@ -777,6 +876,9 @@ https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F1Jhfsb.png" group-title="Pluto TV", Series Retro | HD
 https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cVHmmPm.png" group-title="Pluto TV", Series Sci-Fi | HD
+https://r.mjh.nz/PlutoTV/65ddec1ef7f0af0008be4b65-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hrAc31R.png" group-title="Pluto TV", Sin Tetas No Hay Paraíso | HD
 https://r.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
@@ -795,6 +897,15 @@ https://r.mjh.nz/PlutoTV/65df73520d4561000817c29b-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zgpfkGb.png" group-title="Pluto TV", South Park: Colección Stan | HD
 https://r.mjh.nz/PlutoTV/65df72db18036500081a8292-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9LIZRZ4.png" group-title="Pluto TV", South Park Versión Original | HD
+https://r.mjh.nz/PlutoTV/63d7a8e5a9957100086bfc23-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zAN7Cec.png" group-title="Pluto TV", Star Trek | HD
+https://r.mjh.nz/PlutoTV/619b7db4872c650008eb8b6a-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vl2KdiA.png" group-title="Pluto TV", Star Trek: The Next Generation | HD
+https://r.mjh.nz/PlutoTV/65786b94cbd0d60008f7e4d9-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CDpWxV4.png" group-title="Pluto TV", Susana Giménez | HD
 https://r.mjh.nz/PlutoTV/6132429ec9e0db0007a91425-alt.m3u8
@@ -817,11 +928,17 @@ https://r.mjh.nz/PlutoTV/5de91cf02fc07c0009910465-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X3YcGfK.png" group-title="Pluto TV", Telefórmula | HD
 https://r.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sPYRdeC.png" group-title="Pluto TV", Telenovelas | HD
+https://r.mjh.nz/PlutoTV/60b4c06717da110007ee1af6-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dwFJJ8f.png" group-title="Pluto TV", The New Detectives | HD
 https://r.mjh.nz/PlutoTV/5ea71d48af1d0b0007d837f4-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EYLOaD3.png" group-title="Pluto TV", The Pet Collective | HD
 https://r.mjh.nz/PlutoTV/5ebacbcae43a6d000787b88e-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lowb0U.png" group-title="Pluto TV", Tokusato | HD
+https://r.mjh.nz/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cyiavQq.png" group-title="Pluto TV", Velocidad | HD
 https://r.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
