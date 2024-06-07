@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:04/06/2024
+#ultima actualizacion:06/06/2024
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en caché, así siempre se cargará la lista mas actualizada.
 #   Televito, lista IPTV basada en el proyecto extinto Laope
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 04/06/2024-[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 06/06/2024-[/COLOR]
 https://i.imgur.com/IRSSjlI.mp4
 
 
@@ -109,6 +109,9 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CAKZqVT.png" group-title="Chile", Tendencias Prime | FHD | Santiago
 https://v4.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dHsteQQ.png" group-title="Chile", Santiago TV | FHD | Santiago
+https://stv4.janus.cl/playlist/stream.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rtKSxJX.png" group-title="Chile", Classic Channel | HD | Punta Arenas
 https://paneltv.online:1936/8046/8046/chunklist_w1064988520.m3u8
@@ -293,8 +296,14 @@ https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ADRhjOw.png" group-title="Chile", Castro TV | HD | Castro
 https://videostream.chileservidores.com:8081/chiloe4/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/w3btzn1.png" group-title="Chile", Canal Chilote | HD | Castro
+https://oracle.streaminghd.cl/canalchilote/canalchilote/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NA58C2K.png" group-title="Chile", Canal 2 | FHD | Quellón
 https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/VBBBdE6.png" group-title="Chile", Hito Cero | HD | Quellón
+https://5ff3d9babae13.streamlock.net/8018/8018/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hrwcxab.png" group-title="Chile", La Melinkana TV | HD | Puerto Melinka
 https://v1.tustreaming.cl/melinkana/index.m3u8
@@ -390,7 +399,7 @@ https://i.imgur.com/KuqaZul.mp4
 https://i.imgur.com/UZDlYdR.mp4
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cEnuCa2.png" group-title="Animación", Anime Tal Tal TV  | HD | Chile
-https://i.imgur.com/UZDlYdR.mp4
+https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4Wi6WcF.png" group-title="Animación", Dreiko TV | HD | Panamá
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
@@ -1119,8 +1128,9 @@ http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LBJGdXo.png" group-title="Argentina", El 13 | HD | Buenos Aires
 https://livetrx01.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/22R2eBR.png" group-title="Argentina", 13 Max  | HD | Corrientes
-https://i.imgur.com/UZDlYdR.mp4
+https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0DE38Ta.png" group-title="Argentina", Canal 13 | HD | Jujuy
 https://i.imgur.com/UZDlYdR.mp4
@@ -1241,6 +1251,9 @@ https://edge.teveo.com.co/live/AeAAAgAlAANrA1IAyADIQCAAAAAAAAAAAmZfxzC1oX7KAAAA/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aWvKJzr.png" group-title="Colombia", Canal Visión Dorada | HD | Caldas
 https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dV4djcw.png" group-title="Colombia", Nortevisión | HD | Córdoba
+https://edge.teveo.com.co/live/AeAAAgAeAANkA1IAyADIUCAAAAAAAAAAAmZieJm1oWzSAAAA/chunklist_w407382788.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FoUYkeZ.png" group-title="Colombia", Televisora del Norte de Santander | HD | Santander
 https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
@@ -2089,6 +2102,9 @@ https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gIVnzS0.png" group-title="Musicales", Muzzik Flashback | HD | Bosnia y Herzegobina
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0H6Ezg4.jpeg" group-title="Musicales", M | HD | Serbia
+https://live.tv-m.net/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JE4B0a1.png" group-title="Musicales", Rock TV | HD | Rumanía
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
@@ -2290,6 +2306,9 @@ https://9090video.mobtada.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dAC6rek.png" group-title="Radios Internacionales Con Video", One TV Music 99.1 FM | HD | Líbano
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JnmwchS.png" group-title="Radios Internacionales Con Video", Radio Vidin | HD | Bulgaria
+https://streamer103.neterra.tv/radiovidin/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/52ExMKt.png" group-title="Radios Internacionales Con Video", Sonus FM | HD | Rusia
 http://138.201.226.83:1935/public/stream_720p/chunklist_w825519609.m3u8
@@ -2653,9 +2672,6 @@ https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/amjTTmC.png" group-title="Papelera", Temuco Televisión  | HD | Temuco
 https://vdo.streaming-chile.com/p/3994/live/temucotelevisionlive.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/cEnuCa2.png" group-title="Papelera", Anime Tal Tal TV  | HD | Chile
-https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zm2zree.png" group-title="Papelera", Latinokids  | SD | Uruguay
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
@@ -2664,9 +2680,6 @@ https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RZjqEW.png" group-title="Papelera", Canal 10 TV | HD | Rio Negro
 https://59c5c86e10038.streamlock.net/8204/8204/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/22R2eBR.png" group-title="Papelera", 13 Max  | HD | Corrientes
-https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0DE38Ta.png" group-title="Papelera", Canal 13 | HD | Jujuy
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
