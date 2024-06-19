@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:06/06/2024
+#ultima actualizacion:18/06/2024
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en caché, así siempre se cargará la lista mas actualizada.
 #   Televito, lista IPTV basada en el proyecto extinto Laope
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 06/06/2024-[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 18/06/2024-[/COLOR]
 https://i.imgur.com/IRSSjlI.mp4
 
 
@@ -179,6 +179,9 @@ https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LmAvzCI.png" group-title="Chile", Raices Árabes TV | HD | Santiago
 https://tv.streaming-chile.com:8081/raicesarabes/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/mvMwDGy.png" group-title="Chile", Arab TV | HD | Santiago
+https://video03.logicahost.com.br/arabtvchile/arabtvchile/chunklist_w2080660285.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wheM0ma.png" group-title="Chile", La Granja TV | HD | La Granja
 https://oracle.streaminghd.cl/8126/8126/chunklist_w759863669.m3u8
 
@@ -194,6 +197,9 @@ https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PP5wnz6.png" group-title="Chile", Atacama  TV | HD | Copiapó
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SpSc0Td.png" group-title="Chile", Atacama Noticias | HD | Copiapó
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aPA11ts.png" group-title="Chile", Holvoet TV | HD | Copiapó
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
 
@@ -207,7 +213,7 @@ https://premium.tvcontrolcp.com:19360/8050/8050.m3u8
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/jK2XA8k.png" group-title="Chile", Thema  TV | HD | La Serena
-https://i.imgur.com/UZDlYdR.mp4
+https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/B1TjJfy.png" group-title="Chile", TV Costa | HD | Algarrobo
 https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
@@ -267,7 +273,7 @@ https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8
 https://stmv5.voxtvhd.com.br/clubtv/clubtv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/amjTTmC.png" group-title="Chile", Temuco Televisión  | HD | Temuco
-https://i.imgur.com/UZDlYdR.mp4
+https://mediacp.nnw.cl:19360/temucotelevision/passthru.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ix0cPBq.png" group-title="Chile", Ufrovisión  | FHD | Temuco
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
@@ -277,6 +283,9 @@ https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/pucontv/livestream1/chun
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SJHrL1d.png" group-title="Chile", Lanco TV | HD | Lanco
 https://5e3483cba9114.streamlock.net/hfvhxfwxjm/hfvhxfwxjm/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/fRzWeUp.png" group-title="Chile", ATV | HD | Valdivia
+https://videolatam.com:3871/live/atvvaldivialive.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/aeNI2G4.png" group-title="Chile", Osorno TV+| HD | Osorno
 https://envivo.osornotv.cl/memfs/cb5800be-330b-40c9-8519-af788c7e29eb.m3u8
@@ -396,7 +405,8 @@ https://ssh101.bozztv.com/ssh101/tvcaelsalvador/chunks.m3u8
 https://i.imgur.com/KuqaZul.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4gpykz.png" group-title="Animación", Locomotion | SD | República Dominicana 
-https://i.imgur.com/UZDlYdR.mp4
+http://51.222.85.85:81/hls/loco/index.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cEnuCa2.png" group-title="Animación", Anime Tal Tal TV  | HD | Chile
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
@@ -1081,7 +1091,7 @@ https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ri93x5k.png" group-title="Argentina", Canal 4 | HD | San Juan 
-https://i.imgur.com/UZDlYdR.mp4
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7zJVolY.png" group-title="Argentina", Canal 5  | HD | Santa Fe
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
@@ -1132,8 +1142,8 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/22R2eBR.png" group-title="Argentina", 13 Max  | HD | Corrientes
 https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0DE38Ta.png" group-title="Argentina", Canal 13 | HD | Jujuy
-https://i.imgur.com/UZDlYdR.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0DE38Ta.png" group-title="Papelera", Canal 13 | HD | Jujuy
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hQSwbnL.png" group-title="Argentina", Ciudad Magazine | HD | Buenos Aires
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
@@ -1347,7 +1357,7 @@ https://edge-nodo-001.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/6m20jCW.png" group-title="España", La Otra | HD | Madrid
-https://i.imgur.com/UZDlYdR.mp4
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gXsjpxD.png" group-title="España", Canal Sur Andalucía | HD | Andalucía
 https://cdnlive.codev8.net/rtvalive/DtRLVjt1.smil/.m3u8
@@ -2657,8 +2667,6 @@ http://live02.rfi.fr/rfienespagnol-64.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KK0ZsnZ.png" group-title="Papelera", [COLOR olive]-Papelera-[/COLOR] 
 https://i.imgur.com/LJnHIJU.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C4gpykz.png" group-title="Papelera", Locomotion | SD | República Dominicana 
-http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nlLc8GA.png" group-title="Papelera", Chilevisión | FHD | Santiago
 https://jireh-2-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_4000.m3u8
@@ -2666,28 +2674,15 @@ https://jireh-2-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nlLc8GA.png" group-title="Papelera", Chilevisión | FHD | Santiago | Alt.
 https://jireh-2-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_2500.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/jK2XA8k.png" group-title="Papelera", Thema  TV | HD | La Serena
-https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/amjTTmC.png" group-title="Papelera", Temuco Televisión  | HD | Temuco
-https://vdo.streaming-chile.com/p/3994/live/temucotelevisionlive.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zm2zree.png" group-title="Papelera", Latinokids  | SD | Uruguay
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ri93x5k.png" group-title="Papelera", Canal 4 | HD | San Juan 
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3RZjqEW.png" group-title="Papelera", Canal 10 TV | HD | Rio Negro
 https://59c5c86e10038.streamlock.net/8204/8204/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0DE38Ta.png" group-title="Papelera", Canal 13 | HD | Jujuy
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H5ITYWY.jpg" group-title="Papelera", Telesistema | HD | San José
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6m20jCW.png" group-title="Papelera", La Otra | HD | Madrid
-https://laotra-1-23-secure2.akamaized.net/master.m3u8
+
 
 
