@@ -138,7 +138,7 @@ https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
 https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zQYJ6GI.png" group-title="Chile", Origen TV | HD | Chile
-https://tv.streaming-chile.com:8081/origentvhd/index.m3u8
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ITx0PpJ.png" group-title="Chile", UESTV | FHD | Santiago
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
@@ -1229,8 +1229,8 @@ https://video07.logicahost.com.br/redebrasil/redebrasil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PVVhyXE.png" group-title="Colombia", [COLOR lime]-Colombia-[/COLOR]  
 https://i.imgur.com/YuJcsAv.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tcnx3uk.png" group-title="Colombia", Señal Colombia | HD | Bogotá
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aRLEueY.png" group-title="Colombia", Canal 1 | HD | Bogotá
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AcjR4NM.png" group-title="Colombia", Canal 2 | HD | Cali
 https://video13.virtualtronics.com/streamer/canal2.m3u8
@@ -1243,6 +1243,9 @@ https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Waqc5qZ.png" group-title="Colombia", RCN Más | HD | Bogotá
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tcnx3uk.png" group-title="Colombia", Señal Colombia | HD | Bogotá
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/live.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HsyJs4r.png" group-title="Colombia", CTV  | HD | Barranquilla
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1546804286.m3u8
@@ -1490,6 +1493,9 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ErPL8Z.png" group-title="Guatemala", TV Maya | HD | Ciudad de Guatemala
 https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sXHj2qX.png" group-title="Guatemala", Canal 13 | HD | Esquipulas
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWT4KDG.png" group-title="Guinea Ecuatorial", [COLOR lime]-Guinea Ecuatorial-[/COLOR] 
