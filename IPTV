@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:18/06/2024
+#ultima actualizacion:09/07/2024
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en caché, así siempre se cargará la lista mas actualizada.
 #   Televito, lista IPTV basada en el proyecto extinto Laope
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 18/06/2024-[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 09/07/2024-[/COLOR]
 https://i.imgur.com/IRSSjlI.mp4
 
 
@@ -903,7 +903,7 @@ https://r.mjh.nz/PlutoTV/65ddec1ef7f0af0008be4b65-alt.m3u8
 https://r.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uav789y.png" group-title="Pluto TV", Smithsonian Channel | HD
-https://r.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
+https://jmp2.uk/PlutoTV/63a084934734f30007457b2c-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tg334sN.png" group-title="Pluto TV", South Park: Colección Cartman | HD
 https://r.mjh.nz/PlutoTV/65df731cec9fda0008b7aa8d-alt.m3u8
