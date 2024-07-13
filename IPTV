@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:09/07/2024
+#ultima actualizacion:12/07/2024
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en caché, así siempre se cargará la lista mas actualizada.
 #   Televito, lista IPTV basada en el proyecto extinto Laope
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 09/07/2024-[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 12/07/2024-[/COLOR]
 https://i.imgur.com/IRSSjlI.mp4
 
 
@@ -26,14 +26,14 @@ https://i.imgur.com/EwJbXKm.mp4
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="Chile", TVN3 | FHD | Santiago
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/N9VL9Hq.png" group-title="Chile", La Red | HD | Santiago
-https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PjAS6V9.png" group-title="Chile", UCV | HD | Valparaíso
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hiDXUNN.png" group-title="Chile", TV5 | HD | Linares
-https://v1.tustreaming.cl/tv5linares/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/4ZLt6ep.png" group-title="Chile", UCV2  | HD | Valparaíso
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6EHqEs2.png" group-title="Chile", NTV | HD | Santiago
-https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9kp68rx.png" group-title="Chile", TV+ | FHD | Santiago
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Vt424Nn.png" group-title="Chile", TVN Chile | HD | Santiago
 https://marine2.miplay.cl/tvnchile/mono.m3u8
@@ -48,7 +48,7 @@ https://unlimited1-cl-isp.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nlLc8GA.png" group-title="Chile", Chilevisión | FHD | Santiago
-https://i.imgur.com/UZDlYdR.mp4
+https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AlAXBgI.png" group-title="Chile", Corcubío | HD | Concepción
 http://45.225.95.154:8081/mcg/corcubio/playlist.m3u8
@@ -95,9 +95,6 @@ https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0SWgwab.jpg" group-title="Chile", Meganoticias | HD | Santiago
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/nlLc8GA.png" group-title="Chile", Chilevisión | FHD | Santiago | Alt.
-https://i.imgur.com/UZDlYdR.mp4
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/IWulKg2.png" group-title="Chile", Universidad de Chile TV | FHD | Santiago
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 
@@ -107,23 +104,20 @@ https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Sgawacf.png" group-title="Chile", TV Chile | HD | Santiago
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dHsteQQ.png" group-title="Chile", Santiago TV | FHD | Santiago
+https://stv4.janus.cl/playlist/stream.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CAKZqVT.png" group-title="Chile", Tendencias Prime | FHD | Santiago
 https://v4.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/dHsteQQ.png" group-title="Chile", Santiago TV | FHD | Santiago
-https://stv4.janus.cl/playlist/stream.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6EHqEs2.png" group-title="Chile", NTV | HD | Santiago
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rtKSxJX.png" group-title="Chile", Classic Channel | HD | Punta Arenas
 https://paneltv.online:1936/8046/8046/chunklist_w1064988520.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PjAS6V9.png" group-title="Chile", UCV | HD | Valparaíso
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/4ZLt6ep.png" group-title="Chile", UCV2  | HD | Valparaíso
-https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/9kp68rx.png" group-title="Chile", TV+ | FHD | Santiago
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/N9VL9Hq.png" group-title="Chile", La Red | HD | Santiago
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rGEDlbt.png" group-title="Chile", Suyai TV | HD | Santiago
 https://stream.skarnetchile.com:19360/suyaitv/suyaitv.m3u8
@@ -233,8 +227,8 @@ https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9iwyRJw.png" group-title="Chile", TVO | HD | San Vicente de Tagua Tagua
 https://5ff3d9babae13.streamlock.net/8014/8014/chunklist_w79920185.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AI2g0aV.png" group-title="Chile", UTV  | FHD | San Clemente
-https://v2.tustreaming.cl/utv/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/cnfMxIP.png" group-title="Chile", Telecanal | FHD | Santa Cruz
+https://eu1.servers10.com:8081/8194/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nNrHC0k.png" group-title="Chile", Canal 11 | FHD | Curicó
 https://unlimited1-cl-isp.dps.live/tvrcurico/tvrcurico.smil/tvrcurico/livestream1/chunks.m3u8
@@ -245,8 +239,14 @@ https://v1.tustreaming.cl:443/diarioelcentrotv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZGIzBKq.png" group-title="Chile", Nativa TV  | FHD | Talca
 https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AI2g0aV.png" group-title="Chile", UTV  | FHD | San Clemente
+https://v2.tustreaming.cl/utv/index.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Nu1kY5L.png" group-title="Chile", VLTV  | FHD | San Javier
 https://tv.streaming-chile.com:19360/vltv/vltv.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hiDXUNN.png" group-title="Chile", TV5 | HD | Linares
+https://v1.tustreaming.cl/tv5linares/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KYqGZLo.png" group-title="Chile", Tele 2 Web | HD | Retiro
 https://inliveserver.com:1936/11516/11516/chunklist_w1025692689.m3u8
@@ -1229,8 +1229,7 @@ https://video07.logicahost.com.br/redebrasil/redebrasil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PVVhyXE.png" group-title="Colombia", [COLOR lime]-Colombia-[/COLOR]  
 https://i.imgur.com/YuJcsAv.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aRLEueY.png" group-title="Colombia", Canal 1 | HD | Bogotá
-https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AcjR4NM.png" group-title="Colombia", Canal 2 | HD | Cali
 https://video13.virtualtronics.com/streamer/canal2.m3u8
@@ -1792,14 +1791,14 @@ https://i.imgur.com/PGqJ0Tj.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OlBGjX4.png" group-title="Perú", TV Perú| HD | Lima
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/92bOxpy.png" group-title="Perú", América TV | HD | Lima
-https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BmTrRtV.png" group-title="Perú", ATV | HD | Lima
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GedCMa7.png" group-title="Perú", Tumpis | HD | Tumpis
 https://servilive.com:3531/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9E9h3Gd.png" group-title="Perú", Latina TV | HD | Lima
-https://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIAzAR9.png" group-title="Perú", Telecolor | HD | Yurimaguas
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
