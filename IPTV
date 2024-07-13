@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:12/07/2024
+#ultima actualizacion:13/07/2024
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en caché, así siempre se cargará la lista mas actualizada.
 #   Televito, lista IPTV basada en el proyecto extinto Laope
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 12/07/2024-[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 13/07/2024-[/COLOR]
 https://i.imgur.com/IRSSjlI.mp4
 
 
@@ -403,6 +403,10 @@ https://ssh101.bozztv.com/ssh101/tvcaelsalvador/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bph4w2.png" group-title="Animación", [COLOR lime]-Animación-[/COLOR] 
 https://i.imgur.com/KuqaZul.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/juUkPQy.png" group-title="Animación", Pitufo TV | HD | Reino Unido
+https://jmp2.uk/Plex/643054b1fc3be59477853717-639ba57d3f4612cc150a5723.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4gpykz.png" group-title="Animación", Locomotion | SD | República Dominicana 
 http://51.222.85.85:81/hls/loco/index.m3u8
