@@ -903,7 +903,7 @@ https://canal.mediaserver.com.co/live/telemorisco.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rlTJmS0.png" group-title="Colombia", ATV | HD | San Andrés
 https://movil.ejeserver.com/live/verteve.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rlTJmS0.png" group-title="Colombia", ATV | HD | San Andrés | Alt.
 https://video.ejeserver.com/live/verteve.m3u8
 
 
