@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:21/09/2024
+#ultima actualizacion:25/09/2024
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en caché, así siempre se cargará la lista mas actualizada.
 #   Televito, lista IPTV basada en el proyecto extinto Laope
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 21/09/2024-[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 25/09/2024-[/COLOR]
 https://i.imgur.com/IRSSjlI.mp4
 
 
@@ -137,6 +137,9 @@ https://pantera1-100gb-cl-movistar.dps.live/uct/uct.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/V6SjNfS.png" group-title="Chile", UATV | FHD | Temuco
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Ix0cPBq.png" group-title="Chile", Ufrovisión  | FHD | Temuco
+https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BEUjEhQ.png" group-title="Chile", ULagos TV  | FHD | Osorno
 https://tv.ulagos.cl/web/live.m3u8
 
@@ -206,6 +209,9 @@ https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NidSIWr.png" group-title="Chile", VTV | HD | Valparaíso
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/iJcAgMK.png" group-title="Chile", Canal Lof | HD | Valparaíso
+https://tv.streaming-chile.com:8081/canallof/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ocZGrm7.png" group-title="Chile", Canal 2 | HD | San Antonio
 https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8
 
@@ -233,20 +239,26 @@ https://5ff3d9babae13.streamlock.net/8014/8014/chunklist_w79920185.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nNrHC0k.png" group-title="Chile", Canal 11 | FHD | Curicó
 https://i.imgur.com/UZDlYdR.mp4
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/aKiFxMh.png" group-title="Chile", El Centro TV  | FHD | Talca
-https://v1.tustreaming.cl:443/diarioelcentrotv/index.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/H4N6qC6.png" group-title="Chile", Canal 74 | FHD | Placilla
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/aKiFxMh.png" group-title="Chile", El Centro TV  | FHD | Talca
+https://v1.tustreaming.cl:443/diarioelcentrotv/index.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZGIzBKq.png" group-title="Chile", Nativa TV  | FHD | Talca
 https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/I0ydO43.png" group-title="Chile", En Línea | HD | Talca
+https://v1.tustreaming.cl/enlineamauletv/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AI2g0aV.png" group-title="Chile", UTV  | FHD | San Clemente
 https://v2.tustreaming.cl/utv/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Nu1kY5L.png" group-title="Chile", VLTV  | FHD | San Javier
 https://andromeda3.trapemn.tv:1936/regionales/vltv.stream/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/d8ruUWy.png" group-title="Chile", Canal 30 | HD | San Javier
+https://v1.tustreaming.cl:19360/canal30loncomilla/canal30loncomilla.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hiDXUNN.png" group-title="Chile", TV5 | HD | Linares
 https://v1.tustreaming.cl/tv5linares/index.m3u8
@@ -260,29 +272,47 @@ https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPYKyH9.png" group-title="Chile", Ñublevisión | HD | Chillán
 http://v1.tustreaming.cl/nubletv/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/fTtjIbB.png" group-title="Chile", Televida | HD | Chillán
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fTtjIbB.png" group-title="Chile", Televida | HD | Chillán
 https://tls-cl.cdnz.cl/televida/live/chunklist_w525710369.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gGM4Qnp.png" group-title="Chile", Tv y TV  | HD | Yungay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gGM4Qnp.png" group-title="Chile", Tv y TV  | HD | Yungay
 https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/sI69ux1.png" group-title="Chile", Concepción TV  | FHD | Concepción
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sI69ux1.png" group-title="Chile", Concepción TV  | FHD | Concepción
 https://stream.blserver.cl/hls/ctv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ndYTqK9.png" group-title="Chile", El 3 de Conce  | HD | Concepción
+https://us.streaminghd.cl/el3deconce/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15gXS7o.png" group-title="Chile", TV8  | SD | Concepción
+https://panel.tvstream.cl:1936/8032/8032/chunklist_w465187008.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yjYuZSV.png" group-title="Chile", Click TV | HD | Coronel
 https://v2.tustreaming.cl/clicktv/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/14y2KDF.png" group-title="Chile", Radio Televisión Araucanía  | SD | Los Ángeles
-https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kOs4AnR.png" group-title="Chile", DVC | HD | Coronel
+https://us.streaminghd.cl/dvctelevision/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/sU0PwHK.png" group-title="Chile", Club TV  | HD | Santa Juana
+#EXTINF: -1 tvg-logo="https://i.imgur.com/sU0PwHK.png" group-title="Chile", Club TV | HD | Santa Juana
 https://stmv5.voxtvhd.com.br/clubtv/clubtv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/amjTTmC.png" group-title="Chile", Temuco Televisión  | HD | Temuco
-https://mediacp.nnw.cl:19360/temucotelevision/passthru.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/14y2KDF.png" group-title="Chile", Radio Televisión Araucanía | SD | Los Ángeles
+https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Ix0cPBq.png" group-title="Chile", Ufrovisión  | FHD | Temuco
-https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/QMjQhT0.png" group-title="Chile", Pacífico Televisión | HD | Los Ángeles
+https://oracle.streaminghd.cl/pacificotelevision/pacificotelevision/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xGMtE4f.png" group-title="Chile", Canal Alta Frontera | HD | Los Ángeles
+https://vdopanel.netzona.cl:3523/live/altafronteralive.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HB1AN2x.png" group-title="Chile", Teleangol | SD | Angol
+https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/teleangol/livestream2/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Gxu2B5w.png" group-title="Chile", Veo TV| HD | Temuco
+https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/amjTTmC.png" group-title="Chile", Temuco Televisión | HD | Temuco
+https://mediacp.nnw.cl:19360/temucotelevision/passthru.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hjKvNvU.png" group-title="Chile", Pucón TV | FHD | Pucón
 https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/pucontv/livestream1/chunks.m3u8
@@ -299,8 +329,14 @@ https://envivo.osornotv.cl/memfs/cb5800be-330b-40c9-8519-af788c7e29eb.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qdn60PX.png" group-title="Chile", T-Vinet | HD | Osorno
 https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/inet2/livestream1/chunks.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3a8fiYY.png" group-title="Chile", Canal Latino | SD | La Unión
+https://videostream.chileservidores.com:8081/latina/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QwHIQcu.png" group-title="Chile", Visión TV | HD | Frutillar
 https://tv.streaming-chile.com:8081/8092/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FoCNhh9.png" group-title="Chile", TVM | SD | Los Muermos
+https://stream.skarnetchile.com:19360/canaltvm/canaltvm.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zCMamnq.png" group-title="Chile", Canal 5 | FHD | Puerto Montt
 https://stmv5.voxtvhd.com.br/canal5/canal5/playlist.m3u8
@@ -337,6 +373,9 @@ https://fl1002.bozztv.com/ssh101/opinionsurs/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iuxxlDA.png" group-title="Chile", Opinión Sur Niños | HD | Puerto Natales
 https://fl1002.bozztv.com/ssh101/opinionsurn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FYCp7FK.png" group-title="Chile", Milodón TV | SD | Puerto Natales
+https://video8.servidordevideo.net:3161/live/ynhpdikjlive.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a17p8Dh.png" group-title="Chile", ITV | FHD | Punta Arenas
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8
@@ -767,11 +806,27 @@ https://glb.bozztv.com/glb/ssh101/tvlatinared/index.m3u8
 https://i.imgur.com/ijpETVg.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FsBlNug.png" group-title="Brasil", Globo  | HD | Rio de Janeiro
-http://hls1.sua.tv/live/globosphd/s.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l7jMclW.png" group-title="Brasil", TBC  | SD | Goiânia
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ic6T8KH.png" group-title="Brasil", Rede Brasil | SD | Mato Grosso do Sul
-https://video07.logicahost.com.br/redebrasil/redebrasil/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uwsgs8O.png" group-title="Brasil", TV Cidade Verde | SD | Cuiaba 
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hj0nTfx.png" group-title="Brasil", TV Grão Pará | HD | Belém
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/COUd7FS.png" group-title="Brasil", TV Cidade Canal 9 | SD | Teresópolis
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fJA5u7e.png" group-title="Brasil", TV Rio Preto | HD | São José do Rio Preto
+https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98fbglW.png" group-title="Brasil", TV Sim | HD | Colatina
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PohAHLk.png" group-title="Brasil", TV Sul de Minas | HD | Novo Horizonte
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+
 
 
 
@@ -779,15 +834,23 @@ https://video07.logicahost.com.br/redebrasil/redebrasil/.m3u8
 https://i.imgur.com/YuJcsAv.mp4
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zAIKuNJ.png" group-title="Colombia", Canal 1 | HD | Bogotá
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AcjR4NM.png" group-title="Colombia", Canal 2 | HD | Cali
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AcjR4NM.png" group-title="Colombia", Canal 2 | SD | Cali
 https://video13.virtualtronics.com/streamer/canal2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9T5HXiP.png" group-title="Colombia", Cali TV | HD | Cali
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/anNm9E0.png" group-title="Colombia", ANC Televisión | HD | Bogotá
+https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QRWUq5t.png" group-title="Colombia", ATN Televisión | HD | Cúcuta
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ta6K1JD.png" group-title="Colombia", RCN Xtra | HD | Bogotá
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Waqc5qZ.png" group-title="Colombia", RCN Más | HD | Bogotá
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
@@ -798,23 +861,32 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/live.smil/chunklist_b150000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HsyJs4r.png" group-title="Colombia", CTV  | HD | Barranquilla
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1546804286.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDBoac0.png" group-title="Colombia", Carare TV  | HD | Santander
+https://cp.panelchs.com:1936/8160/8160/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HtQQXRt.png" group-title="Colombia", Eduvisión | SD | Medellín
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbkIP5Z.png" group-title="Colombia", TDI | HD | Villavicencio
-https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+https://play.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9lcOMlP.png" group-title="Colombia", Telefamilia | SD | Cali
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OcdniAO.png" group-title="Colombia", Televilla | HD | Cali
+https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4psHio.png" group-title="Colombia", Canal 8 TV+ | HD | Puerto Salgar
 https://movil.ejeserver.com/live/canal8tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Z6XWd8.png" group-title="Colombia", Canal Capital | HD | Bogotá
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+https://cdn.livewave.co:19360/ccapitallive/ccapitallive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pvUxHJy.png" group-title="Colombia", Canal Cartagena | HD | Cartagena
-https://edge.teveo.com.co/live/AeAAAgAlAANrA1IAyADIQCAAAAAAAAAAAmZfxzC1oX7KAAAA/playlist.m3u8
+https://edge.teveo.com.co/live/AeAAAgAlAANrA1IAyADIQCAAAAAAAAAAAmbzYJi1oXVIAAAA/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aWvKJzr.png" group-title="Colombia", Canal Visión Dorada | HD | Caldas
 https://movil.ejeserver.com/live/visiondorada.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dV4djcw.png" group-title="Colombia", Nortevisión | HD | Córdoba
-https://edge.teveo.com.co/live/AeAAAgAeAANkA1IAyADIUCAAAAAAAAAAAmZieJm1oWzSAAAA/chunklist_w407382788.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FoUYkeZ.png" group-title="Colombia", Televisora del Norte de Santander | HD | Santander
 https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
@@ -827,6 +899,14 @@ https://eu1.servers10.com:8081/8056/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4nfD2jr.png" group-title="Colombia", Canal 55 Telemorisco | HD | Suba
 https://canal.mediaserver.com.co/live/telemorisco.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rlTJmS0.png" group-title="Colombia", ATV | HD | San Andrés
+https://movil.ejeserver.com/live/verteve.m3u8
+
+
+https://video.ejeserver.com/live/verteve.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZDbIgo.png" group-title="Costa Rica", [COLOR lime]-Costa Rica-[/COLOR]
@@ -1583,6 +1663,9 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ferjpF.png" group-title="Musicales", Top Latino | SD | Perú
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1166893247.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ycIn6x6.jpeg" group-title="Musicales", Hermandad Salsera | HD | Colombia
+https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edCWjK7.png" group-title="Musicales", Classic Arts Showcase | HD | Estados Unidos
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
@@ -1837,6 +1920,12 @@ https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GpPwD7Y.png" group-title="Radios Chilenas Con Video", Cappissima FM | HD | Arica
 https://oracle.streaminghd.cl/cappissima/cappissima/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xmMkyxw.png" group-title="Radios Chilenas Con Video", Carolina TV | HD | Santiago
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xmMkyxw.png" group-title="Radios Chilenas Con Video", Carolina TV 2 | HD | Santiago
+https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2qDoi3.png" group-title="Radios Chilenas Con Video", Chocolate FM | HD | Maipú
 https://paneltv.online:1936/8118/8118/playlist.m3u8
@@ -1902,8 +1991,11 @@ https://i.imgur.com/LJnHIJU.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QJG1uhD.png" group-title="Radios Internacionales Con Video",Radio Van 103.0 FM Yerevan | SD | Armenia 
 http://stream.radiovan.fm/stream/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tGIBw9G.png" group-title="Radios Internacionales Con Video", Radio 88| SD | Costa Rica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGIBw9G.png" group-title="Radios Internacionales Con Video", Radio 88 | SD | Costa Rica
 http://k3.usastreams.com/CableLatino/88stereo/chunklist_w791644587.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C2uzcMs.png" group-title="Radios Internacionales Con Video", Huila TV | SD | Colombia
+https://plataformavideo.com:19360/8020/8020.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mErrnY1.png" group-title="Radios Internacionales Con Video", Visión Villarrica | SD | Paraguay
 http://inliveserver.com:1935/8312/8312/playlist.m3u8
