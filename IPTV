@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:25/09/2024
+#ultima actualizacion:29/09/2024
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en caché, así siempre se cargará la lista mas actualizada.
 #   Televito, lista IPTV basada en el proyecto extinto Laope
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 25/09/2024-[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 29/09/2024-[/COLOR]
 https://i.imgur.com/IRSSjlI.mp4
 
 
@@ -421,6 +421,9 @@ https://cdnlive.presstv.ir/live/live.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wh9SLJC.png" group-title="Internacionales", América Tevé | HD | Estados Unidos
 https://live.gideo.video/americateve2/HD720/HD720.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5tBSbgQ.png" group-title="Internacionales", Azteca Internacional | HD | México
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/S275H1Q.png" group-title="Internacionales", BBC Drama | SD | Reino Unido
 https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/playlist.m3u8
 
@@ -455,67 +458,74 @@ https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfwd9a.png" group-title="Cristianos", Monte María | HD | Católico | México
 https://5f1af61612fb5.streamlock.net/montemaria/videomontemaria/chunklist_w150045530.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NnElTcl.png" group-title="Cristianos", La Voz de María| SD | Católico | Rep. Dominicana
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnElTcl.png" group-title="Cristianos", La Voz de María | SD | Católico | Rep. Dominicana
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UsOebk.png" group-title="Cristianos", Tele Fides | HD | Católico | Costa Rica
+https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cnOe3rD.png" group-title="Cristianos", Televisión Católica Arquidiocesana | HD | Católico | El Salvador
 https://ssh101.bozztv.com/ssh101/tvcaelsalvador/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3bph4w2.png" group-title="Animación", [COLOR lime]-Animación-[/COLOR] 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3bph4w2.png" group-title="Animación y Cultura Geek", [COLOR lime]-Animación-[/COLOR] 
 https://i.imgur.com/KuqaZul.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/juUkPQy.png" group-title="Animación", Pitufo TV | HD | Reino Unido
+#EXTINF:-1 tvg-logo="https://i.imgur.com/juUkPQy.png" group-title="Animación y Cultura Geek", Pitufo TV | HD | Reino Unido
 https://jmp2.uk/Plex/643054b1fc3be59477853717-639ba57d3f4612cc150a5723.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rvRB0hb.png" group-title="Animación", Boing | HD | España
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rvRB0hb.png" group-title="Animación y Cultura Geek", Boing | HD | España
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ixrELD7.png" group-title="Animación", ZTV Anime | HD | Chile
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ixrELD7.png" group-title="Animación y Cultura Geek", ZTV Anime | HD | Chile
 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C4gpykz.png" group-title="Animación", Locomotion | SD | República Dominicana 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C4gpykz.png" group-title="Animación y Cultura Geek", Locomotion | SD | República Dominicana 
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/3kJBmul.png" group-title="Animación", Anime Tal Tal TV  | HD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3kJBmul.png" group-title="Animación y Cultura Geek", Anime Tal Tal TV  | HD | Chile
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YM56WZg.png" group-title="Animación", Aniretro | HD | Chile
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YM56WZg.png" group-title="Animación y Cultura Geek", Aniretro | HD | Chile
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/4Wi6WcF.png" group-title="Animación", Dreiko TV | HD | Panamá
+#EXTINF: -1 tvg-logo="https://i.imgur.com/4Wi6WcF.png" group-title="Animación y Cultura Geek", Dreiko TV | HD | Panamá
 https://cloudvideo.servers10.com:8081/8096/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bjCfKoN.png" group-title="Animación", Discovery Kids | HD | Estados Unidos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjCfKoN.png" group-title="Animación y Cultura Geek", Discovery Kids | HD | Estados Unidos
 https://srdiegoiptvfast.alwaysdata.net/Ver-tv/telelatino/117.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wOc2Bx3.png" group-title="Animación", Moni TV | FHD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wOc2Bx3.png" group-title="Animación y Cultura Geek", Moni TV | FHD | Chile
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OR6mxRB.png" group-title="Animación", Energeek | FHD | Chile
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NY6SGkv.png" group-title="Animación y Cultura Geek", Metaversus TV | SD | Costa Rica
+https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OR6mxRB.png" group-title="Animación y Cultura Geek", Energeek | FHD | Chile
 https://wifiexpert-1.energeek.cl/energeek/canal-1/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/KwYvaKL.png" group-title="Animación", Fanpop | FHD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KwYvaKL.png" group-title="Animación y Cultura Geek", Fanpop | FHD | Chile
 https://wifiexpert-1.energeek.cl/energeek/canal-2/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/dRTi6q4.png" group-title="Animación", Canal Hex | FHD | Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dRTi6q4.png" group-title="Animación y Cultura Geek", Canal Hex | FHD | Chile
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/q2Fd958.png" group-title="Animación", Big Channel | SD | Argentina
+#EXTINF: -1 tvg-logo="https://i.imgur.com/q2Fd958.png" group-title="Animación y Cultura Geek", Big Channel | SD | Argentina
 https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/KUETG3N.png" group-title="Animación", Varied TV | HD | Argentina
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KUETG3N.png" group-title="Animación y Cultura Geek", Varied TV | HD | Argentina
 https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8  
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hc1Lvl7.png" group-title="Animación", Retro Magico | HD | Argentina
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hc1Lvl7.png" group-title="Animación y Cultura Geek", Retro Magico | HD | Argentina
 https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/0XRgVJO.png" group-title="Animación", Gogoplay | SD | Bolivia
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0XRgVJO.png" group-title="Animación y Cultura Geek", Gogoplay | SD | Bolivia
 https://ssh101-fl.bozztv.com/ssh101/gogoplaysd/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/zm2zree.png" group-title="Animación", Latinokids  | SD | Uruguay
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zm2zree.png" group-title="Animación y Cultura Geek", Latinokids  | SD | Uruguay
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yO19Ju4.png" group-title="Deportes", [COLOR lime]-Deportes-[/COLOR] 
 https://i.imgur.com/qRolRIi.mp4
@@ -534,6 +544,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rmg00Vx.png" group-title="Deportes", RTV Sport | HD | San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OKp2iqv.png" group-title="Deportes", Sport en France | HD | Francia
+https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6I4oGP6.png" group-title="Deportes", Fuel TV | HD | Estados Unidos
 https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/playlist/amg01074-fueltv-fueltvemeaen-sportstribal/cb553d167a6c64889bd43e64d6ef42a0d92437fc087a8d6933fb4b926bc10f41edbdf0c8fd37b63619d70f96690c0257597edb689e3c5d92b92ffa2a6d380871999fac78df890a72cabc725636a326470aab1e628576087d90a939009732b87c4a42ba5c20067cddf359bd150393d148d2602c88aac3623f6f4e5d9e5a58e4f60ff7e2e35f118971a0b0491e882716b4d15fcbd64fb882d50f9d178e75a07624a3caabebea6c5ba0499b24ce766c7b2a7495850beba33f85fbeaa7bd0113522b2d5af3b79bbe6f3183554a5ff985b8d7b9649faffb49ad6f24fba379418335866eb94bdb89a23820daad206310deb5696420a9eaaecaff303ffd44f2adebd47c36f9a4521026b8853d1898e44bdf6b6d82c51390b055b714236d19cd9457929eb3ccdcb1835e9524cdc8ce6b5c284b4e0b188f51ae9b228e678d38e0f64270070d68a49440dcc6c106665d19d2c91ef5030bb5debc86dd2532de2f4e09bf2e8a0d4524e71c5851c961b99635678c662d803636f41175a34aeeb721f0e88ab75375e590970caf2fdcb40cd3e40be6386f0e4ce0a45e382f2951d9e073154a38a923c3dcc5e67b0c7a82d4c5eccf5e3d4774577e0585f7ff32fcaac53a1602ce432c032543428e65d931a81966c64d05a7d16361aeb49ec8/135/1280x720_2657600/index.m3u8
@@ -834,9 +847,6 @@ https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 https://i.imgur.com/YuJcsAv.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zAIKuNJ.png" group-title="Colombia", Canal 1 | HD | Bogotá
-https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AcjR4NM.png" group-title="Colombia", Canal 2 | SD | Cali
 https://video13.virtualtronics.com/streamer/canal2.m3u8
 
@@ -913,35 +923,118 @@ https://video.ejeserver.com/live/verteve.m3u8
 https://i.imgur.com/6vNR6WW.mp4
 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eU90lxY.png" group-title="Costa Rica", Canal 1 | HD | Goicoechea
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eU90lxY.png" group-title="Costa Rica", Canal 1 | HD | Goicoechea | Alt.
+https://video20.klm99.com:3993/live/canal1crlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9axkCVr.png" group-title="Costa Rica", Teleuno | HD | San Ramón
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w1960667504.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H5ITYWY.jpg" group-title="Costa Rica", Telesistema | HD | San José
-https://i.imgur.com/UZDlYdR.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AC02pZc.png" group-title="Costa Rica", Canal 3 KMK TV | HD | Alajuela
+https://cloudvideo.servers10.com:8081/8120/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCQ6S7H.png" group-title="Costa Rica", Canal 8 | HD | San José
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xNzS37y.png" group-title="Costa Rica", Norte Informativo | SD | Ciudad Quesada
+https://videohd.live:19360/8076/8076.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/umeUNn4.png" group-title="Costa Rica", TVN Canal 14 | HD | Ciudad Quesada
+https://stream.tvn14.com/TVN/CH14.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w0Gz41W.png" group-title="Costa Rica", TV Sur | HD | Pérez Zeledón
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sehDCXn.png" group-title="Costa Rica", Canal 17 | HD | Nosara
+https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SWxQJ6D.png" group-title="Costa Rica", Colosal  TV | HD | Ciudad Neily
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PfKF6HS.png" group-title="Costa Rica", TeleSur | HD | Ciudad Neily
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVQd7Dn.png" group-title="Costa Rica", Los Santos TV | SD | San Lorenzo de Tarrazú
+https://lstv.duckdns.org:449/hls/lstv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hzpUrfM.png" group-title="Costa Rica", TV Santa Cruz | HD | Santa Cruz
+https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o5ZjIsG.png" group-title="Costa Rica", Trivisión | HD | Liberia
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z8qMiWr.png" group-title="Ecuador", [COLOR lime]-Ecuador-[/COLOR] 
 https://i.imgur.com/AEwCoaQ.mp4
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pu9TNU.png" group-title="Ecuador", Austral TV | HD | Azogues
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fZ1Er43.png" group-title="Ecuador", Ecuavisa | FHD | Quito
 https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wdYdH2S.png" group-title="Ecuador", Pantalla Clásica | HD | Quito
+https://ssh101-fl.bozztv.com/ssh101/ecuadoralmundo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBwxIM1.png" group-title="Ecuador", Inti | HD | Ecuador
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DQrkjNV.png" group-title="Ecuador", Educa TV | HD | Quito
-https://vid2.ecuamedia.net/educatv/live/chunklist_w360407637.m3u8
+https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Dk9Q4D5.png" group-title="Ecuador", Ñuca TV | HD | Quito
+https://cloudvideo.servers10.com:8081/8118/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2CkxixS.png" group-title="El Salvador", [COLOR lime]-El Salvador-[/COLOR] 
 https://i.imgur.com/KBmDk8u.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PY3566n.png" group-title="El Salvador", WOW TV | HD | Chalchuapa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gnv2Uvv.png" group-title="El Salvador", Canal 2 | HD | San Salvador
+https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UazwanL.png" group-title="El Salvador", Canal 3 | SD | San Salvador
+https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/33s1ZH4.png" group-title="El Salvador", Canal 4 | HD | San Salvador
+https://telecorporacion-es.cdn.vustreams.com/live/9c79f472-bb4d-4ab8-848f-eb613f3b1f96/live.isml/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ad2tDEy.png" group-title="El Salvador", Canal 6 | HD | San Salvador
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bf08Llc.png" group-title="El Salvador", Canal 19 Megavisión | HD | San Salvador
+https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rlm5PhK.png" group-title="El Salvador", Canal 21 Megavisión | HD | San Salvador
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/upEJyJI.png" group-title="El Salvador", Canal 57 | HD | Apopa
+https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SJTqEp4.png" group-title="El Salvador", WOW TV | HD | Chalchuapa
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SJTqEp4.png" group-title="El Salvador", WOW TV | HD | Chalchuapa | Alt.
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mw9oeEb.png" group-title="El Salvador", TCS | HD | San Salvador
 https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kiGWx9N.png" group-title="El Salvador", TCS+ | HD | San Salvador
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HPoOb0K.png" group-title="España",  [COLOR lime]-España-[/COLOR]
@@ -1188,7 +1281,10 @@ https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 https://i.imgur.com/magORDj.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3WpmsI1.png" group-title="Guinea Ecuatorial", TVGE | SD | Malabo
-http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/chunklist_w1410706122_b1500000.m3u8
+https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wGaWm6n.png" group-title="Guinea Ecuatorial", Sol TV | SD | Malabo
+https://stream.solmediaeg.com/soltv/soltv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7UduJa.png" group-title="Haití", [COLOR lime]-Haití-[/COLOR]  
@@ -1251,23 +1347,11 @@ https://i.imgur.com/RIxpvUH.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51Zfcil.png" group-title="México", Presumiendo México | HD | México D.F
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4oglcaa.png" group-title="México", Antena TV | HD | Chihuahua
-https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RUNNOC4.png" group-title="México", Bandamax | HD | México D.F
-https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s5X4rfM.png" group-title="México", TV Cuatro 4.1 | HD | Guanajuato
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nlpkMSD.png" group-title="México", TV Cuatro 4.2 | HD | Guanajuato
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RSeMNiM.png" group-title="México", Canal 5 | HD | México D.F
-https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RSeMNiM.png" group-title="México", Canal 5 | HD | México D.F | Alt.
-https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJ24IbI.png" group-title="México", Canal 6 | HD | Tamazula
 https://stream.oursnetworktv.com/latin/encoder6/playlist.m3u8
@@ -1298,9 +1382,6 @@ https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DyjsZmX.png" group-title="México", SIPSE TV 8.1 | HD | Mérida
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k3vtb3g.png" group-title="México", SIPSE TV 8.1 | HD | Cancún
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecZgfzc.png" group-title="México", El 9 | HD | México D.F
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
@@ -1338,50 +1419,8 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P5rq2SD.png" group-title="México", TV Pacífico | HD | Mazatlán 
 https://5ca3e84a76d30.streamlock.net/gpacifico4/mazatlan.smil/.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/tYJcgX6.png" group-title="México", Vix TUDN | FHD | México DF
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ux1ZxfN.png" group-title="México", Cocina TV | HD | México DF
-https://linear-317.frequency.stream/dist/vix/317/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tixman6.png" group-title="México", MyTime Movie Network | HD | México D.F
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T8VKCfS.png" group-title="México", tlnovelas | HD | México D.F
-https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z6sao2z.png" group-title="México", Distrito Comedia | HD | México D.F
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HGBmKRj.png" group-title="México", DPelícula | HD | México D.F
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4NXCZ1a.png" group-title="México", DPelícula Plus | HD | México D.F
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CxJZ1WU.png" group-title="México", Golden | HD | México D.F
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eP3qEsC.png" group-title="México", Golden Edge | HD | México D.F
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/skUD6ZF.png" group-title="México", Golden Plus | HD | México D.F
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OIJihki.png" group-title="México", Golden Premier | HD | México D.F
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dXLsjjz.png" group-title="México", Las Estrellas | HD | México D.F
-https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dXLsjjz.png" group-title="México", Las Estrellas Latinoamérica | HD | México D.F
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dXLsjjz.png" group-title="México", Las Estrellas + 1 | HD | México D.F
-https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dXLsjjz.png" group-title="México", Las Estrellas + 2 | HD | México D.F
-https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xd750NJ.png" group-title="México", RCG TV  | HD | Coahuila
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
@@ -1404,17 +1443,8 @@ https://stream.oursnetworktv.com/latin/pueblamx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2mzGxDu.png" group-title="México", Canal 33 | SD | Tijuana
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O0KW8KJ.png" group-title="México", N+ | HD | México D.F
-https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OUjWHvV.png" group-title="México", N+ Media | HD | México D.F
-https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TrXixAi.png" group-title="México", UMT | HD | Montemorelos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TrXixAihttps://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8.png" group-title="México", UMT | HD | Montemorelos
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Lg6aBg.png" group-title="México", Unicable | HD | México D.F
-https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a3ee7ow.png" group-title="México", TeleFórmula | HD | México D.F
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
@@ -1431,14 +1461,11 @@ https://59802217c6db4.streamlock.net/canal66/videocanal66/chunklist_w1111132592.
 https://i.imgur.com/5sLnHWK.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bcr0njT.png" group-title="Panamá", TVN Panamá | HD | Panamá
-https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SirNzlB.jpeg" group-title="Panamá", Hispania TV | HD | Panamá
+https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5H7EBjp.png" group-title="Panamá", TVMAX | HD | Panamá
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s5rPNIW.png" group-title="Panamá", Nex TV | FHD | Panamá
-https://vcp4.myplaytv.com/nextv/nextv/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s5rPNIW.png" group-title="Panamá", Nex TV | HD | Panamá
+https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 
 
 
@@ -1697,7 +1724,22 @@ https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EQvUmfU.png" group-title="Musicales", Oldies Hits | SD | Costa Rica
-https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w1176611344.m3u8
+https://video03.logicahost.com.br/oldieshits_esp/oldieshits_esp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AEokZDh.png" group-title="Musicales", Soy Plancha | HD | Costa Rica
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JBk2RWn.png" group-title="Musicales", IQ Channel | HD | Costa Rica
+https://rtmp.info/iqtv/envivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sZjMl0W.png" group-title="Musicales", TV Urbano | HD | Costa Rica
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s87jP36.png" group-title="Musicales", Vintage Music TV | HD | Costa Rica
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q90hryH.png" group-title="Musicales", VM Latino | HD | Costa Rica
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wUscyaf.png" group-title="Musicales", K-Pop TV | HD | Brasil
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8
@@ -1716,6 +1758,12 @@ https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHScwIW.png" group-title="Musicales", émotion TV | HD | Francia
 https://emotiontv.cdn.iftv.io/rtmp2hls/hls/c2f26c77_ad02_445a_b125_3ba571633d8a/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lqPXYu3.png" group-title="Musicales", Trace Latina | HD | Francia
+https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Y0PHwK.png" group-title="Musicales", Trace Urban | HD | Francia
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sPi4jFp.png" group-title="Musicales", Qmusic | HD | Países Bajos
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
@@ -1981,11 +2029,18 @@ https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vi9orzr.png" group-title="Radios Chilenas Con Video", Ruidos TV| SD | Santiago
 https://panel.tvstream.cl:1936/8022/8022/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jL7zgG5.png" group-title="Radios Chilenas Con Video", Tele Angol FM | SD | Angol
-https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wreKjQ.png" group-title="Radios Internacionales Con Video", [COLOR lime]-Radios Internacionales Con Video-[/COLOR] 
 https://i.imgur.com/LJnHIJU.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ii0JOvn.jpeg" group-title="Radios Internacionales Con Video", Antena Uno | SD | Ecuador
+https://tvdatta.com:3578/live/antenaunolive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8trwPgl.png" group-title="Radios Internacionales Con Video", FM Mundo | SD | Ecuador
+https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QJG1uhD.png" group-title="Radios Internacionales Con Video",Radio Van 103.0 FM Yerevan | SD | Armenia 
