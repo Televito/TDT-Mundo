@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:11/10/2024
+#ultima actualizacion:04/12/2024
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -479,7 +479,7 @@ https://i.imgur.com/KuqaZul.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/juUkPQy.png" group-title="Animación y Cultura Geek", Pitufo TV | HD | Reino Unido
-https://jmp2.uk/Plex/643054b1fc3be59477853717-639ba57d3f4612cc150a5723.m3u8
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rvRB0hb.png" group-title="Animación y Cultura Geek", Boing | HD | España
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
