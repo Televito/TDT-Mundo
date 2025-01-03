@@ -1362,7 +1362,7 @@ https://i.imgur.com/dKnim8a.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwLhvUB.png" group-title="Puerto Rico", Telemundo | HD | San Juan
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Vrkp72.png" group-title="Puerto Rico",https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8 Punt 2 | HD | San Juan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Vrkp72.png" group-title="Puerto Rico", Punt 2 | HD | San Juan
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tpUdNdB.png" group-title="Puerto Rico", ACS Networks | HD | Florida EUA
