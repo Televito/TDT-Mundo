@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:13/10/2025
+#ultima actualizacion:14/10/2025
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en caché, así siempre se cargará la lista mas actualizada.
 #   Televito, lista IPTV basada en el extinto proyecto Laope
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 13/10/2025-[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 14/10/2025-[/COLOR]
 https://i.imgur.com/KWI4c7N.mp4
 
 
@@ -93,6 +93,12 @@ https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NNbnxfo.png" group-title="Chile", Chilevisión Noticias | FHD | Santiago
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/VFyHcYC.png" group-title="Chile", CNN Chile | FHD | Santiago
+https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="Chile", Mega | HD | Santiago
+https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J55nHPi.png" group-title="Chile", NTV | HD | Santiago
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 
@@ -102,14 +108,14 @@ https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rGEDlbt.png" group-title="Chile", Suyai TV | HD | Santiago
 https://stream.skarnetchile.com:19360/suyai-tv/suyai-tv.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CAKZqVT.png" group-title="Chile", Tendencias Prime | FHD | Santiago
+https://v4.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ITx0PpJ.png" group-title="Chile", UESTV | FHD | Santiago
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QnCa8IQ.png" group-title="Chile", TVU  | HD | Concepción
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CAKZqVT.png" group-title="Chile", Tendencias Prime | FHD | Santiago
-https://v4.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/X82hjRG.png" group-title="Chile", UTalca TV  | HD | Talca
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/campustv/livestream0/chunks.m3u8
@@ -129,14 +135,8 @@ https://tv.ulagos.cl/web/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/kX2DbwS.png" group-title="Chile", Umag TV  | HD | Punta Arenas
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oe76IC2.png" group-title="Chile", Estación TV  | HD | Limache
-https://v4.tustreaming.cl/limachemovil/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LmAvzCI.png" group-title="Chile", Raices Árabes TV | HD | Santiago
-https://tv.arkeo.cl:1936/raicesarabestv/raicesarabestv/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/mvMwDGy.png" group-title="Chile", Arab TV | HD | Santiago
-https://video03.logicahost.com.br/arabtvchile/arabtvchile/chunklist_w2080660285.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hsywiWB.png" group-title="Chile", Umag TV 2 | HD | Punta Arenas
+https://tls-cl.cdnz.cl/umag2/live/chunklist_w1267183999.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1qX1L8t.jpeg" group-title="Chile", Retroplus 1 | HD | Chile
 https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1745843050.m3u8
@@ -146,6 +146,18 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w1061482613.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1qX1L8t.jpeg" group-title="Chile", Retroplus 3 | HD | Chile
 https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w2053190015.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oe76IC2.png" group-title="Chile", Estación TV  | HD | Limache
+https://v4.tustreaming.cl/limachemovil/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LmAvzCI.png" group-title="Chile", Raices Árabes TV | HD | Santiago
+https://tv.arkeo.cl:1936/raicesarabestv/raicesarabestv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/mvMwDGy.png" group-title="Chile", Arab TV | HD | Santiago
+https://video03.logicahost.com.br/arabtvchile/arabtvchile/chunklist_w2080660285.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DwDhbNN.png" group-title="Chile", RTC | HD | Iquique
+https://scl.edge.grupoz.cl/rtcstreaming/live/chunklist_w1108933862.m3u8   
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/x68lG59.png" group-title="Chile", Antofagasta TV | FHD | Antofagasta
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
@@ -168,6 +180,9 @@ https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/jK2XA8k.png" group-title="Chile", Thema  TV | HD | La Serena
 https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ZV3bupU.png" group-title="Chile", Canal Local | HD | Quillota
+https://v2.tustreaming.cl/canallocalcl/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NidSIWr.png" group-title="Chile", VTV | HD | Valparaíso
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 
@@ -183,11 +198,11 @@ https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3wWbNli.png" group-title="Chile", Pichilemu TV | HD | Pichilemu
 https://5ff3d9babae13.streamlock.net/8028/8028/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/cnfMxIP.png" group-title="Chile", Telecanal | FHD | Santa Cruz
+#EXTINF: -1 tvg-logo="https://i.imgur.com/cnfMxIP.png" group-title="Chile", Telecanal | FHD | Santa Cruzhttps://i.imgur.com/DwDhbNN.png
 https://eu1.servers10.com:8081/8194/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hj0W9ZN.png" group-title="Chile", Santa Cruz HD | HD | Santa Cruz
-https://origin-us.streaminghd.cl/santacruz/santacruz/playlist.m3u8
+https://origin-us.streaminghd.cl/santacruz/santacruz/playlist.m3u8https://i.imgur.com/DwDhbNN.png
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o1pUzGJ.jpeg" group-title="Chile", RTV | HD | Chimbarongo
 https://eu1.servers10.com:8081/8162/tracks-v1a1/mono.m3u8
@@ -386,6 +401,9 @@ https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=dEmoweBeneRGEek202
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pqWmos0.png" group-title="Animación y Cultura Geek", Kanade TV | FHD | Chile
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/W5hFumt.png" group-title="Animación y Cultura Geek", Ipe | HD | Perú
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/m13TjiR.png" group-title="Animación y Cultura Geek", Magic | SD | Argentina
 https://magicstream.ddns.net/magicstream/stream.m3u8 
@@ -723,6 +741,9 @@ https://i.imgur.com/AEwCoaQ.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fZ1Er43.png" group-title="Ecuador", Ecuavisa | FHD | Quito
 https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxP7bCr.png" group-title="Ecuador", Oromar TV | HD | Manta
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DQrkjNV.png" group-title="Ecuador", Educa TV | HD | Quito
 https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
 
@@ -739,7 +760,7 @@ https://cloud2.streaminglivehd.com:19360/8036/8036.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ad2tDEy.png" group-title="El Salvador", Canal 6 | HD | San Salvador
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
-
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mw9oeEb.png" group-title="El Salvador", TCS | HD | San Salvador
 https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8
 
@@ -876,11 +897,14 @@ http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IfATqKC.png" group-title="Estados Unidos", New Orleans TV | HD | Nueva Orleans
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Estados Unidos", Miami Tv | HD | Miami
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Estados Unidos", Miami TV | HD | Miami
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Estados Unidos", Jenny Live | HD | Miami
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Estados Unidos", Miami TV Fashion | HD | Miami
+https://stream-us-east-1.getpublica.com/cl/251014d3ncgur1ht791hrbej1g/1920x1080_6157125_0_f.m3u8?i=1187_16284
 
 
 
@@ -1126,6 +1150,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Vrkp72.png" group-title="Puerto Rico", Punt 2 | HD | San Juan
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n9vPV23.png" group-title="Puerto Rico", Wipr 6| HD | San Juan
+https://streamwipr.pr/hls/stream/1_2/index.m3u8?tkn=1785137708
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3VPIXzN.png" group-title="Puerto Rico", Buena TV | HD | San Juan
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
