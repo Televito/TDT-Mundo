@@ -292,9 +292,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/VSQogJt.png" group-title="Internacionales", RT Español | FHD | Rusia
 https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PqUZyhg.png" group-title="Internacionales", TeleSur | FHD | Venezuela
-https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZveR1R3.png" group-title="Internacionales", Hispan TV | SD | Irán
 https://live.presstv.ir/hls/hispantv.m3u8
 
@@ -374,9 +371,6 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i2SWwzm.png" group-title="Animación y Cultura Geek", Dreiko TV | HD | Panamá
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/3kJBmul.png" group-title="Animación y Cultura Geek", Anime Tal Tal TV  | HD | Chile
-https://live20.bozztv.com/giatvplayout7/giatv-210686/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/mfZIZrC.png" group-title="Animación y Cultura Geek", Energeek Retro | FHD | Chile
 https://cdn.energeek.cl/hls/energeekretro.m3u8
