@@ -244,7 +244,7 @@ https://cloudpro.servidoresdestream.com:8081/8010/tracks-v1a1/mono.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/amjTTmC.png" group-title="Chile", Temuco Televisión | HD | Temuco
-https://mediacp.nnw.cl:19360/temucotelevision/passthru.m3u8
+https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hjKvNvU.png" group-title="Chile", Pucón TV | FHD | Pucón
 https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/pucontv/livestream1/chunks.m3u8
