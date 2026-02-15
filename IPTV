@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:02/02/2026
+#ultima actualizacion:14/02/2026
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en caché, así siempre se cargará la lista mas actualizada.
 #   Televito, lista IPTV basada en el extinto proyecto Laope
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 02/02/2026-[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 14/02/2026-[/COLOR]
 https://i.imgur.com/KWI4c7N.mp4
 
 
@@ -313,6 +313,9 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cULf4Yd.png" group-title="Internacionales", Estrella TV | HD | Estados Unidos
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cULf4Yd.png" group-title="Internacionales", Estrella TV | HD | Estados Unidos | Alt.
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-tablo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HI6StuH.png" group-title="Internacionales", Go USA Chile | HD | Estados Unidos
 https://brandusa-gousa-3-cl.lg.wurl.tv/playlist.m3u8
 
@@ -327,6 +330,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/pl
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2No4tUS.png" group-title="Internacionales", AMC en español  | HD | Estados Unidos
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/2No4tUS.png" group-title="Internacionales", AMC en español  | HD | Estados Unidos | Alt.
+https://amc-amcespanol-1-us.tablo.wurl.tv/playlist.m3u8
 
 
 
@@ -376,6 +382,12 @@ https://live.enhdtv.com:8081/8150/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLFI583.png" group-title="Cine y Cultura Geek", Pequeradio TV | HD | España
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FMzseD.png" group-title="Cine y Cultura Geek", My Time Movie Network | HD | España
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimees-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C7wRQjW.png" group-title="Cine y Cultura Geek", Sony One  | HD | México
+ttps://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pyVksBp.png" group-title="Cine y Cultura Geek", Animevision | HD | España
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
@@ -684,13 +696,6 @@ https://i.imgur.com/ijpETVg.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7jMclW.png" group-title="Brasil", TBC  | SD | Goiânia
 https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hj0nTfx.png" group-title="Brasil", TV Grão Pará | HD | Belém
-https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fJA5u7e.png" group-title="Brasil", TV Rio Preto | HD | São José do Rio Preto
-https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/98fbglW.png" group-title="Brasil", TV Sim | HD | Colatina
 https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
 
@@ -725,26 +730,19 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LGMB33k.png" group-title="Colombia", Suram TV | HD | Yopal
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4nfD2jr.png" group-title="Colombia", Canal 55 Telemorisco | HD | Suba
-https://canal.mediaserver.com.co/live/telemorisco.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZDbIgo.png" group-title="Costa Rica", [COLOR lime]-Costa Rica-[/COLOR]
 https://i.imgur.com/6vNR6WW.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eU90lxY.png" group-title="Costa Rica", Canal 1 | HD | Goicoechea
-https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eU90lxY.png" group-title="Costa Rica", Canal 1 | HD | Goicoechea | Alt.
-https://video20.klm99.com:3993/live/canal1crlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q6pamRV.png" group-title="Costa Rica", Telered | HD | San José
-https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9axkCVr.png" group-title="Costa Rica", Teleuno | HD | San Ramón
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w1960667504.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q6pamRV.png" group-title="Costa Rica", Telered | HD | San José
+https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uCQ6S7H.png" group-title="Costa Rica", Canal 8 | HD | San José
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -770,22 +768,13 @@ https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/c54ac2799874375c81c1672
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxP7bCr.png" group-title="Ecuador", Oromar TV | HD | Manta
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/DQrkjNV.png" group-title="Ecuador", Educa TV | HD | Quito
-https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2CkxixS.png" group-title="El Salvador", [COLOR lime]-El Salvador-[/COLOR] 
 https://i.imgur.com/KBmDk8u.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gnv2Uvv.png" group-title="El Salvador", Canal 2 | HD | San Salvador
-https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UazwanL.png" group-title="El Salvador", Canal 3 | SD | San Salvador
 https://cloud2.streaminglivehd.com:19360/8036/8036.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ad2tDEy.png" group-title="El Salvador", Canal 6 | HD | San Salvador
-https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mw9oeEb.png" group-title="El Salvador", TCS | HD | San Salvador
 https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8
@@ -813,15 +802,11 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_576.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cIQL8LW.png" group-title="España", Canal 24 Horas RTVE | SD | Madrid
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KUpHN7Y.png" group-title="España", Distrito TV | HD | Madrid
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hk8ZDtF.png" group-title="España", Activa TV | HD | Madrid
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AnFOQEv.png" group-title="España", Afortunadas TV | HD | Canarias
-https://cloudvideo.servers10.com:8081/8108/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eoIm6KK.png" group-title="España", Alacanti TV | HD | Alicante
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
@@ -844,9 +829,6 @@ https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n5TECfO.png" group-title="España", Canal Sur Andalucía Cocina | HD | Andalucía
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tFMWUL1.png" group-title="España", TV Municipal de Córdoba | HD | Andalucía
-https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/026r9Xo.png" group-title="España", Elche 7 TV | HD | Andalucía
 https://elche7tv.gestec-video.com/hls/canal2.m3u8
 
@@ -855,9 +837,6 @@ https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q9dzbl5.png" group-title="España", 8 La Marina TV | HD | Alicante
 https://streaming005.gestec-video.com/hls/canal24.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UQC01tC.png" group-title="España", Popular TV | HD | Cantabria 
-https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0P3ifTN.png" group-title="España", Onda Valencia | HD | Valencia
 https://cloudvideo.servers10.com:8081/8116/tracks-v1a1/mono.m3u8
@@ -868,9 +847,6 @@ https://5c0956165db0b.streamlock.net/directo/lancelot.television/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bhC5IC2.png" group-title="España", Aragon TV | SD | Zaragoza
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OKi7Myt.png" group-title="España", Imás Televisión | SD | Puertollano
-https://secure3.todostreaming.es/live/imastv-livestream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PGq83WR.png" group-title="España", Alcarría TV | HD | La Alcarría
 https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 
@@ -880,17 +856,8 @@ https://video3.lhdserver.es/empordatv2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zUk4OTv.png" group-title="España", Estepona TV | HD | Andalucía
 https://cloudvideo.servers10.com:8081/8022/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmcRexY.png" group-title="España", Huelva TV | HD | Huelva
-https://directo.huelvatv.com/memfs/a6ee6a17-7512-4a6c-ae30-53471b4505c3_output_0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bVEQOhE.png" group-title="España", 101 TV | HD | Andalucía
-https://www.streaming101tv.es:19360/antequera/antequera.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C5QEMNB.png" group-title="España", Fuengirola Televisión | SD | Fuengirola
 https://streaming004.gestec-video.com/hls/FTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2emql30.png" group-title="España", Punt 3 (Catalán)| SD | Vall d'Uixó
-https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IeIldCS.png" group-title="España", eitb 1 (Vasco)| HD | Bilbao
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
@@ -1267,6 +1234,10 @@ https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NxrYjSQ.png" group-title="Musicales", California Music Channel USA | HD | Estados Unidos
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/txncRdY.png" group-title="Musicales", Circle Country | HD | Estados Unidos
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00432-circletv-circletv-tablo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wysiyN3.png" group-title="Musicales", New K-Pop | HD | Estados Unidos
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
@@ -1467,6 +1438,12 @@ https://mcncdndigital.com/balleballetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jSXMfag.png" group-title="Musicales", Saga Music | HD | India
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jSXMfag.png" group-title="Musicales", Saga Music | HD | India | Alt.
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jkfxO9M.png" group-title="Musicales", Yash Raj Films Music | HD | India
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w0YIsfW.png" group-title="Musicales", Play TV | HD | Camerún
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
