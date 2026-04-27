@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:14/02/2026
+#ultima actualizacion:26/04/2026
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en caché, así siempre se cargará la lista mas actualizada.
 #   Televito, lista IPTV basada en el extinto proyecto Laope
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 14/02/2026-[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 26/04/2026-[/COLOR]
 https://i.imgur.com/KWI4c7N.mp4
 
 
@@ -90,11 +90,14 @@ https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/xO40xQy.png" group-title="Chile", Canal 24 Horas | HD | Santiago
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xO40xQy.png" group-title="Chile", Canal 24 Horas | SD | Santiago | Alt.
+http://170.244.209.30:8000/play/a1fv/index.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NNbnxfo.png" group-title="Chile", Chilevisión Noticias | FHD | Santiago
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/VFyHcYC.png" group-title="Chile", CNN Chile | FHD | Santiago
-https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/VFyHcYC.png" group-title="Chile", CNN Chile | SD | Santiago
+http://170.82.113.51:8899/play/a0qg/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="Chile", Mega | HD | Santiago
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
@@ -299,10 +302,13 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/VSQogJt.png" group-title="Internacionales", RT Español | FHD | Rusia
-https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
+https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8http://179.60.51.134:8888/CNN/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZveR1R3.png" group-title="Internacionales", Hispan TV | SD | Irán
 https://live.presstv.ir/hls/hispantv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsAVdO1.png" group-title="Internacionales", CNN en español | HD | Estados Unidos
+http://179.60.51.134:8888/CNN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wh9SLJC.png" group-title="Internacionales", América Tevé | HD | Estados Unidos
 https://live.gideo.video/americateve2/HD720/HD720.m3u8
@@ -1077,6 +1083,10 @@ https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 https://i.imgur.com/0Nkz7aU.mp4
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2gwHk1O.png" group-title="Paraguay", La Tele | SD | Asunción
+http://170.244.209.30:8000/play/a1fq/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7jrTRls.jpeg" group-title="Paraguay", ABC | HD | Asunción
 https://cdn.jwplayer.com/live/broadcast/GQagSggs.m3u8
 
@@ -1224,6 +1234,13 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1209176988.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycIn6x6.jpeg" group-title="Musicales", Hermandad Salsera | HD | Colombia
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ThHWtY7.png" group-title="Musicales", VH1 | HD | Estados Unidos
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aiN1q5R.png" group-title="Musicales", MTV | HD | Estados Unidos
+http://23.237.104.106:8080/USA_MTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edCWjK7.png" group-title="Musicales", Classic Arts Showcase | HD | Estados Unidos
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
@@ -1825,7 +1842,9 @@ http://live02.rfi.fr/rfienespagnol-64.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KK0ZsnZ.png" group-title="Papelera", [COLOR olive]-Papelera-[/COLOR] 
 https://i.imgur.com/LJnHIJU.mp4
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/xO40xQy.png" group-title="Chile", Canal 24 Horas | HD | Santiago
-https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+
+
+
+
 
 
